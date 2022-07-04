@@ -24,9 +24,21 @@ The models can be downloaded at ... (TBA)
 - [x] [MMCV](https://mmcv.readthedocs.io/en/latest/)
 
 # Instructions
-We recommend installing Microsoft [Ctp Framework](https://github.com/microsoft/CtP) as it contain all the Self-supervised learning frameworks build on top of MMCV framework. Once intsalled, you can use the "config" file to create 
+We recommend installing Microsoft [Ctp Framework](https://github.com/microsoft/CtP) as it contain all the Self-supervised learning frameworks build on top of MMCV framework. Here we provided a modifed version of that framework for FedVSSL in particular.
 # Running Experiments
 The abstract definition of classes are provided by ````reproduce_papers/fedssl/videossl.py````. <br>
 FedVSSL $(\alpha=0, \beta=0)$, run ````python main_cam_st_theta_b_wo_moment.py````. <br>
 FedVSSL $(\alpha=0, \beta=0)$ is the implementation of FedAvg but with only aggregating the backbone network. If you want to run federate the SSL method using the conventional FedAvg method, then run ````python main.py````.
+# Evaluation
+After FL pretraining one can use the following code to fine-tune the model on UCF or HMDB.
+````
+import subprocess
+import os
+process_obj = subprocess.run(["bash", "/home/root/yasar/reproduce_papers/tools/dist_train.sh",\
+"/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/configs/vcop/r3d_18_kinetics/finetune_hmdb51.py", "4",\
+f"--work_dir /home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/centralized_vcop/centralized_finetune/hmdb51/",
+f"--data_dir /home/data3/DATA/",\
+f"--pretrained /home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/centralized_vcop/pretrain/epoch_90.pth",\
+f"--validate"])```
+
 # Citations
