@@ -35,7 +35,7 @@ After FL pretraining one can use the following code to fine-tune the model on UC
 import subprocess
 import os
 process_obj = subprocess.run(["bash", "/home/root/yasar/reproduce_papers/tools/dist_train.sh",\
-"/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/configs/vcop/r3d_18_kinetics/finetune_hmdb51.py", "4",\
+"/configs/vcop/r3d_18_kinetics/finetune_hmdb51.py", "4",\
 f"--work_dir /centralized_vcop/centralized_finetune/hmdb51/",
 f"--data_dir /home/data3/DATA/",\
 f"--pretrained /path to the pretrained checkpoint",\
