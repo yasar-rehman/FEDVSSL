@@ -3,6 +3,13 @@ This is a general purpose repository for Federated Self-Superivised Learning for
 
 The paper can be found at 
 
+# Authors
+[Yasar Abbas Ur Rehman](https://yasar-rehman.github.io/yasar/)
+[Gao Yan]
+[pedro porto buarque de gusmão](https://www.linkedin.com/in/pedropgusmao/?originalSubdomain=uk)
+[JiaJun Shen](https://www.linkedin.com/in/jiajunshen/)
+[Nicholas D. Lane](http://niclane.org/)
+
 # Dataset:
 we use [Kinetics-400](https://www.deepmind.com/open-source/kinetics) for Centralized and FL pretraining. For evaluation, we use [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php) and [HMDB-51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/).
 
