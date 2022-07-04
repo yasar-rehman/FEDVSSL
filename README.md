@@ -39,7 +39,9 @@ process_obj = subprocess.run(["bash", "/home/root/yasar/reproduce_papers/tools/d
 f"--work_dir /centralized_vcop/centralized_finetune/hmdb51/",
 f"--data_dir /home/data3/DATA/",\
 f"--pretrained /path to the pretrained checkpoint",\
-f"--validate"])````
+f"--validate"])
+
+````
 The complete list of such methods are provided under the Task folder
 # Issues: 
 If you encounter any issues, feel free to open an issue in the github 
