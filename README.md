@@ -18,12 +18,11 @@ The models can be downloaded at ... (TBA)
 
 # News
 # Dependencies
-[Anaconda environment with python 3.8](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+- [x] [Anaconda environment with python 3.8](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) 
+- [x] [Flower](https://flower.dev/) <br>
+- [x] Microsoft [Ctp Framework](https://github.com/microsoft/CtP)
+- [x] [MMCV](https://mmcv.readthedocs.io/en/latest/)
 
-[Flower](https://flower.dev/)
-
-Microsoft [Ctp Framework](https://github.com/microsoft/CtP)
-
-[MMCV](https://mmcv.readthedocs.io/en/latest/)
+We recommend installing Microsoft [Ctp Framework](https://github.com/microsoft/CtP) as it contain all the Self-supervised learning frameworks build on top of MMCV framework.
 
 # Citations
