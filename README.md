@@ -24,5 +24,8 @@ The models can be downloaded at ... (TBA)
 - [x] [MMCV](https://mmcv.readthedocs.io/en/latest/)
 
 We recommend installing Microsoft [Ctp Framework](https://github.com/microsoft/CtP) as it contain all the Self-supervised learning frameworks build on top of MMCV framework.
-
+# Running Experiments
+The abstract definition of classes are provided by ````reproduce_papers/fedssl/videossl.py````. <br>
+FedVSSL $(\alpha=0, \beta=0)$, run ````python main_cam_st_theta_b_wo_moment.py````. <br>
+FedVSSL $(\alpha=0, \beta=0)$ is the implementation of FedAvg but with only aggregating the backbone network.
 # Citations
