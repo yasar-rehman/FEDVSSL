@@ -24,7 +24,7 @@ The models can be downloaded at ... (TBA)
 - [x] [MMCV](https://mmcv.readthedocs.io/en/latest/)
 
 # Instructions
-We recommend installing Microsoft [Ctp Framework](https://github.com/microsoft/CtP) as it contain all the Self-supervised learning frameworks build on top of MMCV framework. Here we provided a modifed version of that framework for FedVSSL in particular.
+We recommend installing Microsoft [Ctp Framework](https://github.com/microsoft/CtP) as it contain all the Self-supervised learning frameworks build on top of MMCV framework. Here we provided a modifed version of that framework for FedVSSL, in particular.
 # Running Experiments
 The abstract definition of classes are provided by ````reproduce_papers/fedssl/videossl.py````. <br>
 FedVSSL $(\alpha=0, \beta=0)$, run ````python main_cam_st_theta_b_wo_moment.py````. <br>
@@ -36,9 +36,12 @@ import subprocess
 import os
 process_obj = subprocess.run(["bash", "/home/root/yasar/reproduce_papers/tools/dist_train.sh",\
 "/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/configs/vcop/r3d_18_kinetics/finetune_hmdb51.py", "4",\
-f"--work_dir /home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/centralized_vcop/centralized_finetune/hmdb51/",
+f"--work_dir /centralized_vcop/centralized_finetune/hmdb51/",
 f"--data_dir /home/data3/DATA/",\
-f"--pretrained /home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/centralized_vcop/pretrain/epoch_90.pth",\
-f"--validate"])```
+f"--pretrained /path to the pretrained checkpoint",\
+f"--validate"])````
+The complete list of such methods are provided under the Task folder
+# Issues: 
+If you encounter any issues, feel free to open an issue in the github 
 
 # Citations
