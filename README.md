@@ -1,6 +1,8 @@
 # FEDVSSL
 This is a general purpose repository for Federated Self-Superivised Learning for video understanding build on top of [MMCV](https://mmcv.readthedocs.io/en/latest/) and [Flower](https://flower.dev/).
-![https://github.com/yasar-rehman/FEDVSSL/blob/master/FVSSL.png](FVSSL)
+<p align="center">
+<img src="https://github.com/yasar-rehman/FEDVSSL/blob/master/FVSSL.png"/>
+ </p>
 
 The paper can be found at 
 
