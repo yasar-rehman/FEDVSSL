@@ -1,5 +1,5 @@
 # FEDVSSL
-This is a general purpose repository for Federated Self-Superivised Learning build on top of [MMCV](https://mmcv.readthedocs.io/en/latest/) and [Flower](https://flower.dev/).
+This is a general purpose repository for Federated Self-Superivised Learning build on top of [MMCV](https://mmcv.readthedocs.io/en/latest/) and [Flower](https://flower.dev/)
 
 The paper can be found at 
 
@@ -17,6 +17,10 @@ We provide a series of federated-SSL pretrined models of [VCOP](https://openacce
 The models can be downloaded at ... (TBA)
 
 # News
-# How to run 
+# Dependencies
+[Anaconda environment with python 3.8](https://anaconda.org/](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+[Flower](https://flower.dev/)
+Microsoft [Ctp Framework](https://github.com/microsoft/CtP)
+[MMCV](https://mmcv.readthedocs.io/en/latest/)
 
 # Citations
