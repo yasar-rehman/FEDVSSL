@@ -1,0 +1,8790 @@
+[
+  {
+    "name": "blasting_sand/_2tN_EGlyaQ_000000_000010",
+    "label": 396
+  },
+  {
+    "name": "dribbling_basketball/OfIXwoYsJro_000037_000047",
+    "label": 105
+  },
+  {
+    "name": "playing_ukulele/Cb34Eh24iME_000093_000103",
+    "label": 280
+  },
+  {
+    "name": "playing_paintball/M5UTbYRarXI_000056_000066",
+    "label": 242
+  },
+  {
+    "name": "cooking_egg/KBRFpA4bQp4_000019_000029",
+    "label": 206
+  },
+  {
+    "name": "throwing_discus/TNYblGljnKQ_000029_000039",
+    "label": 222
+  },
+  {
+    "name": "curling_hair/iVFnODCzJ1g_000000_000010",
+    "label": 314
+  },
+  {
+    "name": "headbanging/gbnpuSFv6t8_000020_000030",
+    "label": 138
+  },
+  {
+    "name": "blowing_out_candles/5P2q83S0tNc_000000_000010",
+    "label": 175
+  },
+  {
+    "name": "exercising_with_an_exercise_ball/O7r-ywGw7hA_000036_000046",
+    "label": 303
+  },
+  {
+    "name": "playing_didgeridoo/2w9UfQPib8s_000019_000029",
+    "label": 350
+  },
+  {
+    "name": "playing_drums/b8OJy1ucVxc_000051_000061",
+    "label": 295
+  },
+  {
+    "name": "shaking_head/M9jH-WVFLsk_000000_000010",
+    "label": 101
+  },
+  {
+    "name": "scrambling_eggs/9_DaU7GgVZs_000137_000147",
+    "label": 62
+  },
+  {
+    "name": "biking_through_snow/soBM8A3K880_000075_000085",
+    "label": 377
+  },
+  {
+    "name": "high_kick/-d2hAwGLFQg_000033_000043",
+    "label": 81
+  },
+  {
+    "name": "chopping_wood/hegCGPafkrY_000009_000019",
+    "label": 199
+  },
+  {
+    "name": "pushing_cart/ystruAInkwA_000004_000014",
+    "label": 74
+  },
+  {
+    "name": "weaving_basket/oRzPeBTml_0_000176_000186",
+    "label": 189
+  },
+  {
+    "name": "squat/E65aStUrDL4_000008_000018",
+    "label": 288
+  },
+  {
+    "name": "diving_cliff/_kR3Y9Aaccg_000002_000012",
+    "label": 219
+  },
+  {
+    "name": "curling_hair/zYeJufF6aSE_000508_000518",
+    "label": 314
+  },
+  {
+    "name": "bench_pressing/WA6WBQ5TSZk_000053_000063",
+    "label": 171
+  },
+  {
+    "name": "high_kick/8Nq1wPYIiYI_000055_000065",
+    "label": 81
+  },
+  {
+    "name": "disc_golfing/S-APscK7d3g_000785_000795",
+    "label": 68
+  },
+  {
+    "name": "weaving_basket/w0p7MknSgg8_000354_000364",
+    "label": 189
+  },
+  {
+    "name": "throwing_ball/GFoT-tm6P00_000003_000013",
+    "label": 271
+  },
+  {
+    "name": "snowkiting/0m-meBWldI0_000184_000194",
+    "label": 362
+  },
+  {
+    "name": "pushing_cart/O3dHf67JD4E_000003_000013",
+    "label": 74
+  },
+  {
+    "name": "cleaning_floor/SixWOYiAluE_000056_000066",
+    "label": 44
+  },
+  {
+    "name": "playing_poker/wYBZc5_okhI_000403_000413",
+    "label": 203
+  },
+  {
+    "name": "sled_dog_racing/bWRYi8PmTKs_000002_000012",
+    "label": 154
+  },
+  {
+    "name": "tango_dancing/aChH2VqaN70_000066_000076",
+    "label": 385
+  },
+  {
+    "name": "cleaning_gutters/QQO27S09q38_000083_000093",
+    "label": 240
+  },
+  {
+    "name": "hitting_baseball/WFbskvHzygQ_000012_000022",
+    "label": 7
+  },
+  {
+    "name": "rock_climbing/wO4YpPN6SvM_000091_000101",
+    "label": 144
+  },
+  {
+    "name": "yoga/2VGFcJ84qeo_000026_000036",
+    "label": 353
+  },
+  {
+    "name": "tasting_beer/H_hcOn2OgWI_000525_000535",
+    "label": 390
+  },
+  {
+    "name": "eating_watermelon/SyjRcIVYTMY_000027_000037",
+    "label": 37
+  },
+  {
+    "name": "situp/ewdghK1jTOY_000098_000108",
+    "label": 192
+  },
+  {
+    "name": "sneezing/EZ1acq7blRU_000006_000016",
+    "label": 356
+  },
+  {
+    "name": "playing_xylophone/10GdoMvyV64_000117_000127",
+    "label": 87
+  },
+  {
+    "name": "sailing/V9de3RXMW-o_000004_000014",
+    "label": 305
+  },
+  {
+    "name": "laying_bricks/R3KnapUUie8_000004_000014",
+    "label": 258
+  },
+  {
+    "name": "shaving_head/BYE1K6Q7fdM_000032_000042",
+    "label": 319
+  },
+  {
+    "name": "training_dog/nDy1c4tRZ-M_000000_000010",
+    "label": 379
+  },
+  {
+    "name": "doing_nails/5q4UYNz24Us_000007_000017",
+    "label": 250
+  },
+  {
+    "name": "sharpening_knives/gYgFu6ebx7Q_000012_000022",
+    "label": 73
+  },
+  {
+    "name": "punching_person_(boxing)/skPzx6orBdU_000212_000222",
+    "label": 88
+  },
+  {
+    "name": "playing_bagpipes/iR3W3klHIYQ_000209_000219",
+    "label": 150
+  },
+  {
+    "name": "wrestling/NnyUOa3WeOM_000012_000022",
+    "label": 265
+  },
+  {
+    "name": "bench_pressing/LknG8fOTg3I_000057_000067",
+    "label": 171
+  },
+  {
+    "name": "juggling_fire/qCsb95rfm3o_000002_000012",
+    "label": 312
+  },
+  {
+    "name": "diving_cliff/rB-BLgA89aQ_000454_000464",
+    "label": 219
+  },
+  {
+    "name": "javelin_throw/aXyqiTtOq28_000002_000012",
+    "label": 243
+  },
+  {
+    "name": "finger_snapping/usWquZlBJOk_000001_000011",
+    "label": 117
+  },
+  {
+    "name": "abseiling/iGnnxu-R4vk_000084_000094",
+    "label": 290
+  },
+  {
+    "name": "making_bed/x2bW4XnycoM_000040_000050",
+    "label": 12
+  },
+  {
+    "name": "yoga/n0qnu4aV-ZA_000084_000094",
+    "label": 353
+  },
+  {
+    "name": "biking_through_snow/bUQK-sgsVw0_000053_000063",
+    "label": 377
+  },
+  {
+    "name": "climbing_tree/Y-7Dsbf3CO4_000002_000012",
+    "label": 209
+  },
+  {
+    "name": "playing_ice_hockey/0Ay21v81jIM_000047_000057",
+    "label": 278
+  },
+  {
+    "name": "shaving_legs/4WDKfDBjyNM_000091_000101",
+    "label": 339
+  },
+  {
+    "name": "playing_harp/nCgK3UiH_J4_000006_000016",
+    "label": 160
+  },
+  {
+    "name": "shooting_basketball/IvWXdSDOIg0_000037_000047",
+    "label": 21
+  },
+  {
+    "name": "drinking_shots/pwajCEO9iB8_000000_000010",
+    "label": 334
+  },
+  {
+    "name": "auctioning/hjRvQBnnLfo_000100_000110",
+    "label": 165
+  },
+  {
+    "name": "triple_jump/6AzikdsiY-0_000004_000014",
+    "label": 215
+  },
+  {
+    "name": "washing_dishes/sI16kZBBO3M_000022_000032",
+    "label": 273
+  },
+  {
+    "name": "playing_basketball/66f_BYTaLdI_000173_000183",
+    "label": 70
+  },
+  {
+    "name": "gymnastics_tumbling/OrrXtfJUGKE_000094_000104",
+    "label": 91
+  },
+  {
+    "name": "somersaulting/oH68sTMTWws_000060_000070",
+    "label": 253
+  },
+  {
+    "name": "playing_chess/qk8jh6IKF6Y_000032_000042",
+    "label": 5
+  },
+  {
+    "name": "playing_poker/w_3kF60DZEE_000045_000055",
+    "label": 203
+  },
+  {
+    "name": "mowing_lawn/Qnvz3QbnKTI_000002_000012",
+    "label": 306
+  },
+  {
+    "name": "pull_ups/mtoeAYZo1Pg_000061_000071",
+    "label": 352
+  },
+  {
+    "name": "snatch_weight_lifting/rrfK7gzj5tw_000001_000011",
+    "label": 389
+  },
+  {
+    "name": "zumba/a3zT2YE2gnw_000010_000020",
+    "label": 299
+  },
+  {
+    "name": "skipping_rope/N3cch2tY-v4_000033_000043",
+    "label": 279
+  },
+  {
+    "name": "bungee_jumping/x7sodxiZ_nw_000044_000054",
+    "label": 188
+  },
+  {
+    "name": "juggling_balls/Br5UiU45eGc_000001_000011",
+    "label": 301
+  },
+  {
+    "name": "sharpening_knives/_CbPK4k-gJs_000127_000137",
+    "label": 73
+  },
+  {
+    "name": "dodgeball/HMxGGHoa35c_000026_000036",
+    "label": 110
+  },
+  {
+    "name": "dancing_macarena/69-BMlRLXnE_000048_000058",
+    "label": 387
+  },
+  {
+    "name": "tobogganing/nJ1SsD1-8k4_000004_000014",
+    "label": 145
+  },
+  {
+    "name": "kitesurfing/HAmpW-v2r9M_000054_000064",
+    "label": 316
+  },
+  {
+    "name": "ski_jumping/tMRimxNZqHc_000002_000012",
+    "label": 397
+  },
+  {
+    "name": "long_jump/toI7ghmNX7g_000002_000012",
+    "label": 33
+  },
+  {
+    "name": "playing_piano/wcP_XkW0YoM_000243_000253",
+    "label": 186
+  },
+  {
+    "name": "windsurfing/Tb-nf6GvDnU_000001_000011",
+    "label": 11
+  },
+  {
+    "name": "setting_table/l6iOCBN1Gm4_000084_000094",
+    "label": 16
+  },
+  {
+    "name": "clean_and_jerk/DhHaJ3M0lY0_000012_000022",
+    "label": 78
+  },
+  {
+    "name": "motorcycling/T2D1_uvYZdg_000004_000014",
+    "label": 340
+  },
+  {
+    "name": "crossing_river/ONGLFIkxAkM_000023_000033",
+    "label": 367
+  },
+  {
+    "name": "driving_car/Pfg3qeF9WW4_000009_000019",
+    "label": 287
+  },
+  {
+    "name": "surfing_crowd/z6hmjZZAGMM_000003_000013",
+    "label": 147
+  },
+  {
+    "name": "peeling_apples/ZuOED9uHr8Y_000018_000028",
+    "label": 3
+  },
+  {
+    "name": "squat/a1gq_pS7OYc_000050_000060",
+    "label": 288
+  },
+  {
+    "name": "knitting/XcApDcNn60g_000052_000062",
+    "label": 317
+  },
+  {
+    "name": "hurdling/NsL8JpmNsDk_000007_000017",
+    "label": 49
+  },
+  {
+    "name": "swing_dancing/gPlR_CibNm8_001179_001189",
+    "label": 341
+  },
+  {
+    "name": "knitting/4iRf2imjoaY_000636_000646",
+    "label": 317
+  },
+  {
+    "name": "cleaning_shoes/mAbL3w9LZ3c_000089_000099",
+    "label": 392
+  },
+  {
+    "name": "trapezing/idRmfGBuVnY_000030_000040",
+    "label": 238
+  },
+  {
+    "name": "pushing_car/PDE0XXbkJ_c_000001_000011",
+    "label": 54
+  },
+  {
+    "name": "making_sushi/md06vbXzT6g_000002_000012",
+    "label": 329
+  },
+  {
+    "name": "sticking_tongue_out/HAH5beaHejY_000005_000015",
+    "label": 1
+  },
+  {
+    "name": "somersaulting/c3SHM3w7-tg_000010_000020",
+    "label": 253
+  },
+  {
+    "name": "long_jump/YXhOpIB2hp0_000008_000018",
+    "label": 33
+  },
+  {
+    "name": "somersaulting/ohXHMzVWy0I_000024_000034",
+    "label": 253
+  },
+  {
+    "name": "gymnastics_tumbling/ToTdJDqNHMw_000113_000123",
+    "label": 91
+  },
+  {
+    "name": "feeding_birds/cYcATiNtB3g_000001_000011",
+    "label": 241
+  },
+  {
+    "name": "dunking_basketball/36-3Z19GzuM_000004_000014",
+    "label": 298
+  },
+  {
+    "name": "kissing/sF5IXDHywzU_000026_000036",
+    "label": 163
+  },
+  {
+    "name": "triple_jump/wifyOJTlk0E_000009_000019",
+    "label": 215
+  },
+  {
+    "name": "stretching_leg/8i6h0fMgw9M_000185_000195",
+    "label": 164
+  },
+  {
+    "name": "bouncing_on_trampoline/Oa_aUGj2zSI_000028_000038",
+    "label": 152
+  },
+  {
+    "name": "sneezing/L-nEV4FoYIc_000009_000019",
+    "label": 356
+  },
+  {
+    "name": "fixing_hair/pun0ZJDEJBE_000065_000075",
+    "label": 198
+  },
+  {
+    "name": "filling_eyebrows/pJZmKbmx7u0_000000_000010",
+    "label": 283
+  },
+  {
+    "name": "situp/Cgej2qU2irs_000009_000019",
+    "label": 192
+  },
+  {
+    "name": "watering_plants/-cs5CLXF4LU_000004_000014",
+    "label": 95
+  },
+  {
+    "name": "punching_bag/u268FkFQP5E_000003_000013",
+    "label": 48
+  },
+  {
+    "name": "breading_or_breadcrumbing/gVsMaQeIRH8_000083_000093",
+    "label": 399
+  },
+  {
+    "name": "making_snowman/oJ8thijqwlM_000490_000500",
+    "label": 259
+  },
+  {
+    "name": "eating_burger/wLYG4s3CnME_000336_000346",
+    "label": 322
+  },
+  {
+    "name": "playing_tennis/AQ3bm8nnfEU_000027_000037",
+    "label": 277
+  },
+  {
+    "name": "filling_eyebrows/odPuCZzv1hg_000273_000283",
+    "label": 283
+  },
+  {
+    "name": "salsa_dancing/wtb7TcuL0-g_000085_000095",
+    "label": 57
+  },
+  {
+    "name": "bartending/LNlGgtg70uQ_000013_000023",
+    "label": 183
+  },
+  {
+    "name": "skiing_(not_slalom_or_crosscountry)/DCR2VdkDO-I_000046_000056",
+    "label": 128
+  },
+  {
+    "name": "sanding_floor/WDaZkNr6vzY_000010_000020",
+    "label": 58
+  },
+  {
+    "name": "javelin_throw/2obts6IazsY_000003_000013",
+    "label": 243
+  },
+  {
+    "name": "crossing_river/pJOCeQ2KozU_000102_000112",
+    "label": 367
+  },
+  {
+    "name": "scuba_diving/25D82hCuu8o_000060_000070",
+    "label": 226
+  },
+  {
+    "name": "playing_harp/V_SfybzyMjk_000042_000052",
+    "label": 160
+  },
+  {
+    "name": "waxing_chest/yx-cZ21V9AM_000021_000031",
+    "label": 35
+  },
+  {
+    "name": "playing_recorder/TpalS-CMWgo_000069_000079",
+    "label": 309
+  },
+  {
+    "name": "picking_fruit/4XJU826fdoI_000142_000152",
+    "label": 267
+  },
+  {
+    "name": "hula_hooping/MdyrvqpXA68_000042_000052",
+    "label": 292
+  },
+  {
+    "name": "eating_burger/H-zMrhUpKtI_000018_000028",
+    "label": 322
+  },
+  {
+    "name": "eating_cake/68YgZyPHM3E_000091_000101",
+    "label": 25
+  },
+  {
+    "name": "throwing_discus/XehkZvnbvO4_000001_000011",
+    "label": 222
+  },
+  {
+    "name": "punching_bag/lFDmHLTiQPg_000062_000072",
+    "label": 48
+  },
+  {
+    "name": "high_kick/Ujj5r_9aWvI_000010_000020",
+    "label": 81
+  },
+  {
+    "name": "pushing_cart/lh-61isam_Q_000010_000020",
+    "label": 74
+  },
+  {
+    "name": "ice_skating/m_Qs_gNOWqM_000055_000065",
+    "label": 349
+  },
+  {
+    "name": "playing_cello/TLbpolX6RwE_000021_000031",
+    "label": 14
+  },
+  {
+    "name": "blowing_glass/n6vjqjYCZOI_000017_000027",
+    "label": 124
+  },
+  {
+    "name": "writing/O7RA-J9E47s_000656_000666",
+    "label": 149
+  },
+  {
+    "name": "texting/bcXsuyDdTKk_000087_000097",
+    "label": 193
+  },
+  {
+    "name": "dribbling_basketball/VBPfUVqRYFY_000026_000036",
+    "label": 105
+  },
+  {
+    "name": "front_raises/bhjtEvQ_PP8_000002_000012",
+    "label": 176
+  },
+  {
+    "name": "bee_keeping/534o4_39W4s_000040_000050",
+    "label": 197
+  },
+  {
+    "name": "biking_through_snow/OJaRpo-FdIY_000083_000093",
+    "label": 377
+  },
+  {
+    "name": "breading_or_breadcrumbing/DNS0inZkd18_000638_000648",
+    "label": 399
+  },
+  {
+    "name": "cheerleading/HR4uInyXWAA_000003_000013",
+    "label": 202
+  },
+  {
+    "name": "texting/MiJL4WHVHpw_000012_000022",
+    "label": 193
+  },
+  {
+    "name": "cheerleading/L-8XmpID0g8_000003_000013",
+    "label": 202
+  },
+  {
+    "name": "busking/4ZADlnZJgyo_000112_000122",
+    "label": 269
+  },
+  {
+    "name": "using_remote_controller_(not_gaming)/C-fohk0jLWM_000045_000055",
+    "label": 86
+  },
+  {
+    "name": "catching_or_throwing_frisbee/BnrROHauGe0_000001_000011",
+    "label": 344
+  },
+  {
+    "name": "frying_vegetables/_bmvzcATsSA_000308_000318",
+    "label": 360
+  },
+  {
+    "name": "dancing_macarena/8-vteJ5SHRY_000030_000040",
+    "label": 387
+  },
+  {
+    "name": "capoeira/5_ueFdZ0k7s_000005_000015",
+    "label": 370
+  },
+  {
+    "name": "javelin_throw/JrR0GxBGHIA_000000_000010",
+    "label": 243
+  },
+  {
+    "name": "somersaulting/gS_4YJhyqCY_000000_000010",
+    "label": 253
+  },
+  {
+    "name": "ice_skating/CZymgFlecFc_000000_000010",
+    "label": 349
+  },
+  {
+    "name": "auctioning/6cV1idtUAZM_001287_001297",
+    "label": 165
+  },
+  {
+    "name": "pushing_car/IwFu7zewfeA_000000_000010",
+    "label": 54
+  },
+  {
+    "name": "climbing_ladder/mnPXSRLlImo_000062_000072",
+    "label": 45
+  },
+  {
+    "name": "mowing_lawn/aFhqqU8U9-k_000191_000201",
+    "label": 306
+  },
+  {
+    "name": "belly_dancing/GBBwd1f5fmQ_000386_000396",
+    "label": 321
+  },
+  {
+    "name": "dancing_charleston/mrxaNpxg-fY_000126_000136",
+    "label": 381
+  },
+  {
+    "name": "washing_dishes/hQpVoBRBefM_000002_000012",
+    "label": 273
+  },
+  {
+    "name": "recording_music/q_MWsIpo0W4_000008_000018",
+    "label": 384
+  },
+  {
+    "name": "riding_mechanical_bull/tZw2yrwAj2I_000005_000015",
+    "label": 140
+  },
+  {
+    "name": "folding_napkins/PboDlZvp4qI_000004_000014",
+    "label": 112
+  },
+  {
+    "name": "frying_vegetables/3Jisdo1qg1Y_000316_000326",
+    "label": 360
+  },
+  {
+    "name": "canoeing_or_kayaking/TWyaNPOFkOk_000021_000031",
+    "label": 20
+  },
+  {
+    "name": "punching_bag/6g0QjEEko-0_000110_000120",
+    "label": 48
+  },
+  {
+    "name": "triple_jump/XobIfpPBKcA_000000_000010",
+    "label": 215
+  },
+  {
+    "name": "waxing_legs/AKY4qKKI8d0_000045_000055",
+    "label": 228
+  },
+  {
+    "name": "chopping_wood/vuKpPXoB0YE_000159_000169",
+    "label": 199
+  },
+  {
+    "name": "building_shed/xmZqZNge8ao_000016_000026",
+    "label": 304
+  },
+  {
+    "name": "milking_cow/PqFQN2q85hE_000003_000013",
+    "label": 318
+  },
+  {
+    "name": "arm_wrestling/E1U9R9cmONw_000006_000016",
+    "label": 46
+  },
+  {
+    "name": "dancing_macarena/NkDlM_zqzFg_000015_000025",
+    "label": 387
+  },
+  {
+    "name": "auctioning/JVWHyLi_wHA_000040_000050",
+    "label": 165
+  },
+  {
+    "name": "curling_hair/Bm3Qyp757Sw_000087_000097",
+    "label": 314
+  },
+  {
+    "name": "blowing_out_candles/i6bRnEfAtPc_000025_000035",
+    "label": 175
+  },
+  {
+    "name": "playing_violin/eiZ_y8wrUck_000047_000057",
+    "label": 225
+  },
+  {
+    "name": "playing_squash_or_racquetball/4_g6xM41gWw_000047_000057",
+    "label": 270
+  },
+  {
+    "name": "eating_spaghetti/_BJ-oYP106Q_000003_000013",
+    "label": 364
+  },
+  {
+    "name": "zumba/SQpWMdiKptQ_000047_000057",
+    "label": 299
+  },
+  {
+    "name": "weaving_basket/0zlg92Y2h1w_000012_000022",
+    "label": 189
+  },
+  {
+    "name": "making_tea/qGtlWvj-_zI_000017_000027",
+    "label": 179
+  },
+  {
+    "name": "surfing_water/85qv4qUIxkI_000082_000092",
+    "label": 366
+  },
+  {
+    "name": "eating_hotdog/sHsIYIUCyV4_000256_000266",
+    "label": 358
+  },
+  {
+    "name": "snowboarding/RfBisuFLL60_000011_000021",
+    "label": 92
+  },
+  {
+    "name": "garbage_collecting/zsc1YkjC91E_000040_000050",
+    "label": 323
+  },
+  {
+    "name": "playing_recorder/OMbjXHMqWN8_000012_000022",
+    "label": 309
+  },
+  {
+    "name": "riding_elephant/Ys6s40Gc_oQ_000403_000413",
+    "label": 264
+  },
+  {
+    "name": "reading_book/uOgredtY0cc_000065_000075",
+    "label": 246
+  },
+  {
+    "name": "feeding_fish/kjuXhSn-OnQ_000041_000051",
+    "label": 346
+  },
+  {
+    "name": "welding/zjQeuTM-Tks_000018_000028",
+    "label": 30
+  },
+  {
+    "name": "massaging_back/-xoG4NiicYM_000320_000330",
+    "label": 55
+  },
+  {
+    "name": "cartwheeling/0PStjrGD_-A_000001_000011",
+    "label": 27
+  },
+  {
+    "name": "mowing_lawn/8nvJHJNRDSg_000023_000033",
+    "label": 306
+  },
+  {
+    "name": "triple_jump/zob56hap41Y_000024_000034",
+    "label": 215
+  },
+  {
+    "name": "cheerleading/t8b6bQuax_o_000114_000124",
+    "label": 202
+  },
+  {
+    "name": "headbanging/ZNAnIDp2QJg_000004_000014",
+    "label": 138
+  },
+  {
+    "name": "making_pizza/OrEmMXSgRmU_000005_000015",
+    "label": 300
+  },
+  {
+    "name": "swimming_butterfly_stroke/PaMpeaAZ_nQ_000029_000039",
+    "label": 161
+  },
+  {
+    "name": "milking_cow/Q_na-2GhMj0_000000_000010",
+    "label": 318
+  },
+  {
+    "name": "ice_climbing/o4_fwe1x0pg_000224_000234",
+    "label": 106
+  },
+  {
+    "name": "giving_or_receiving_award/IfN6b48tU4E_000149_000159",
+    "label": 291
+  },
+  {
+    "name": "situp/LDEAB4cWirU_000000_000010",
+    "label": 192
+  },
+  {
+    "name": "playing_tennis/ix0RvakZ6Lk_000077_000087",
+    "label": 277
+  },
+  {
+    "name": "water_sliding/RJ-5Dhe_i8s_000000_000010",
+    "label": 180
+  },
+  {
+    "name": "playing_didgeridoo/mpftshnRuRo_000039_000049",
+    "label": 350
+  },
+  {
+    "name": "squat/AfeYDp0PRfs_000001_000011",
+    "label": 288
+  },
+  {
+    "name": "sharpening_knives/XWVZhQe4egw_000002_000012",
+    "label": 73
+  },
+  {
+    "name": "salsa_dancing/0j9QZ8LnfCs_000215_000225",
+    "label": 57
+  },
+  {
+    "name": "eating_hotdog/ITQBC62yLjM_000000_000010",
+    "label": 358
+  },
+  {
+    "name": "auctioning/eCvS5GtdpkE_000328_000338",
+    "label": 165
+  },
+  {
+    "name": "triple_jump/RMhbfDEw2Qw_000003_000013",
+    "label": 215
+  },
+  {
+    "name": "pushing_cart/WUKvV5QwoXY_000001_000011",
+    "label": 74
+  },
+  {
+    "name": "dancing_gangnam_style/pLR7UGt7z0o_000140_000150",
+    "label": 395
+  },
+  {
+    "name": "riding_mechanical_bull/5qpSDQ1QTfk_000018_000028",
+    "label": 140
+  },
+  {
+    "name": "climbing_tree/nwDZBzNLsRU_000084_000094",
+    "label": 209
+  },
+  {
+    "name": "planting_trees/Ux5CKotcgkY_000048_000058",
+    "label": 332
+  },
+  {
+    "name": "testifying/Bh9sS3Q-b8w_000052_000062",
+    "label": 196
+  },
+  {
+    "name": "jetskiing/1hnDIpbQbo8_000019_000029",
+    "label": 247
+  },
+  {
+    "name": "shaving_head/o6kIOQL0LAs_000130_000140",
+    "label": 319
+  },
+  {
+    "name": "spraying/ppnNyKX3DhQ_000046_000056",
+    "label": 63
+  },
+  {
+    "name": "riding_or_walking_with_horse/jA1Ch8IIozs_000185_000195",
+    "label": 373
+  },
+  {
+    "name": "throwing_ball/MX9-1c1FG-Q_000000_000010",
+    "label": 271
+  },
+  {
+    "name": "kitesurfing/3sIdiwSsDxY_000012_000022",
+    "label": 316
+  },
+  {
+    "name": "bartending/G63B07gqvs4_000171_000181",
+    "label": 183
+  },
+  {
+    "name": "folding_napkins/_VYX5QKBGpo_000203_000213",
+    "label": 112
+  },
+  {
+    "name": "playing_basketball/cFzD8nkQws0_000017_000027",
+    "label": 70
+  },
+  {
+    "name": "pumping_fist/RKFaHIC8IQE_000009_000019",
+    "label": 119
+  },
+  {
+    "name": "juggling_fire/SKi_ns9pm84_000043_000053",
+    "label": 312
+  },
+  {
+    "name": "waxing_chest/0rcf6GcvHVU_000153_000163",
+    "label": 35
+  },
+  {
+    "name": "drop_kicking/s8Foid_xIr0_000003_000013",
+    "label": 184
+  },
+  {
+    "name": "pumping_fist/_YRc74XW_PY_000001_000011",
+    "label": 119
+  },
+  {
+    "name": "smoking/37NYCvGpc30_000132_000142",
+    "label": 64
+  },
+  {
+    "name": "stomping_grapes/B4oyaYLa6GE_000059_000069",
+    "label": 251
+  },
+  {
+    "name": "singing/qdQyIO86as4_000000_000010",
+    "label": 372
+  },
+  {
+    "name": "digging/nxT9-GwdRjY_000007_000017",
+    "label": 244
+  },
+  {
+    "name": "playing_kickball/waUXW1hXv1s_000064_000074",
+    "label": 111
+  },
+  {
+    "name": "bench_pressing/0QA5xS5Zyz0_000002_000012",
+    "label": 171
+  },
+  {
+    "name": "bending_metal/2lWALocksxg_000046_000056",
+    "label": 38
+  },
+  {
+    "name": "motorcycling/DjHvWlGMZtc_000104_000114",
+    "label": 340
+  },
+  {
+    "name": "dancing_gangnam_style/fBOq7QOS9PU_000003_000013",
+    "label": 395
+  },
+  {
+    "name": "eating_carrots/bBCHuEDw99s_000347_000357",
+    "label": 142
+  },
+  {
+    "name": "slapping/uE5ERlkvo-I_000001_000011",
+    "label": 325
+  },
+  {
+    "name": "juggling_balls/Cz_NiEq4riU_000003_000013",
+    "label": 301
+  },
+  {
+    "name": "playing_violin/4OOUuDaDV5o_000163_000173",
+    "label": 225
+  },
+  {
+    "name": "capoeira/0gtH41PqUJs_000074_000084",
+    "label": 370
+  },
+  {
+    "name": "opening_present/0foVlayF72U_000006_000016",
+    "label": 51
+  },
+  {
+    "name": "playing_badminton/cgjitgKb_8s_000446_000456",
+    "label": 6
+  },
+  {
+    "name": "punching_bag/zDGx9BOg_Nc_000116_000126",
+    "label": 48
+  },
+  {
+    "name": "grooming_dog/ZYdAKwiBF3w_000197_000207",
+    "label": 120
+  },
+  {
+    "name": "playing_cards/fBmIzTJqAP4_000141_000151",
+    "label": 293
+  },
+  {
+    "name": "passing_American_football_(not_in_game)/Fr3UdpjDQI4_000262_000272",
+    "label": 216
+  },
+  {
+    "name": "getting_a_tattoo/1fmaEo3wzxg_000133_000143",
+    "label": 29
+  },
+  {
+    "name": "playing_basketball/5un0O7mIITs_000004_000014",
+    "label": 70
+  },
+  {
+    "name": "jetskiing/Rxe4l39E-e4_000038_000048",
+    "label": 247
+  },
+  {
+    "name": "filling_eyebrows/Vp6VSBUhBdM_000099_000109",
+    "label": 283
+  },
+  {
+    "name": "bungee_jumping/JO7Rsykqzy4_000016_000026",
+    "label": 188
+  },
+  {
+    "name": "hula_hooping/s2fyTqLP6dA_000002_000012",
+    "label": 292
+  },
+  {
+    "name": "feeding_birds/_g-uiubmzxI_000005_000015",
+    "label": 241
+  },
+  {
+    "name": "knitting/pTk7qGSxHms_000075_000085",
+    "label": 317
+  },
+  {
+    "name": "brush_painting/PO-TILVHb20_001661_001671",
+    "label": 190
+  },
+  {
+    "name": "windsurfing/_kmUjNGTUrc_000158_000168",
+    "label": 11
+  },
+  {
+    "name": "making_bed/X_caxB5qeHE_000059_000069",
+    "label": 12
+  },
+  {
+    "name": "snowmobiling/MVKbParKp18_000158_000168",
+    "label": 100
+  },
+  {
+    "name": "changing_oil/uYBKs73nmtU_000066_000076",
+    "label": 93
+  },
+  {
+    "name": "throwing_axe/YOhZ0P8Aq2o_000000_000010",
+    "label": 137
+  },
+  {
+    "name": "playing_harp/T8e8191BCvM_000027_000037",
+    "label": 160
+  },
+  {
+    "name": "ice_climbing/IehAdl40lJE_000110_000120",
+    "label": 106
+  },
+  {
+    "name": "salsa_dancing/rP_728wd860_000350_000360",
+    "label": 57
+  },
+  {
+    "name": "eating_burger/7_a_ONcCGzU_000069_000079",
+    "label": 322
+  },
+  {
+    "name": "rock_climbing/RbKU0r_pmRk_000000_000010",
+    "label": 144
+  },
+  {
+    "name": "crawling_baby/df_mzLFBf5I_000029_000039",
+    "label": 213
+  },
+  {
+    "name": "crawling_baby/1xfZl1CIg9g_000025_000035",
+    "label": 213
+  },
+  {
+    "name": "chopping_wood/YnExl0ZgHis_000032_000042",
+    "label": 199
+  },
+  {
+    "name": "triple_jump/lzlAAGf_Nxg_000079_000089",
+    "label": 215
+  },
+  {
+    "name": "bowling/_uOhm_9yXxs_000007_000017",
+    "label": 125
+  },
+  {
+    "name": "cutting_watermelon/TerYmfKuPyg_000004_000014",
+    "label": 382
+  },
+  {
+    "name": "punching_person_(boxing)/J8G3l880Uis_000040_000050",
+    "label": 88
+  },
+  {
+    "name": "motorcycling/A0GKbveHOeI_000295_000305",
+    "label": 340
+  },
+  {
+    "name": "playing_recorder/mdXU_sBB5ZM_000076_000086",
+    "label": 309
+  },
+  {
+    "name": "walking_the_dog/VVtECMlShTM_000010_000020",
+    "label": 130
+  },
+  {
+    "name": "singing/ox1UTc1Rvsk_000311_000321",
+    "label": 372
+  },
+  {
+    "name": "flipping_pancake/-LxaYFnEu2U_000026_000036",
+    "label": 330
+  },
+  {
+    "name": "riding_elephant/Zg4LCcou3Zw_000000_000010",
+    "label": 264
+  },
+  {
+    "name": "dunking_basketball/G71ZIbT1Mtc_000001_000011",
+    "label": 298
+  },
+  {
+    "name": "eating_cake/shKOwIUhfAk_000018_000028",
+    "label": 25
+  },
+  {
+    "name": "playing_squash_or_racquetball/4V29MLQ6AgU_000064_000074",
+    "label": 270
+  },
+  {
+    "name": "driving_car/9fec_WlULz8_000230_000240",
+    "label": 287
+  },
+  {
+    "name": "bee_keeping/DCkAtZkncy8_000201_000211",
+    "label": 197
+  },
+  {
+    "name": "surfing_crowd/gW7hBqV-mGA_000033_000043",
+    "label": 147
+  },
+  {
+    "name": "passing_American_football_(in_game)/QbnU_5LK2Cw_000002_000012",
+    "label": 151
+  },
+  {
+    "name": "drinking_shots/bQTbM9LES0s_000044_000054",
+    "label": 334
+  },
+  {
+    "name": "blowing_out_candles/HgOlLJL1UoY_000052_000062",
+    "label": 175
+  },
+  {
+    "name": "playing_cymbals/E3W7gT9URBE_000006_000016",
+    "label": 336
+  },
+  {
+    "name": "washing_feet/WQKw-TmKihs_000026_000036",
+    "label": 347
+  },
+  {
+    "name": "abseiling/-_VFi7OFbJY_000064_000074",
+    "label": 290
+  },
+  {
+    "name": "jetskiing/-kH1enBWm-8_000042_000052",
+    "label": 247
+  },
+  {
+    "name": "tossing_salad/CHnkiSnQENM_000201_000211",
+    "label": 361
+  },
+  {
+    "name": "playing_poker/myjhstDVDpM_000040_000050",
+    "label": 203
+  },
+  {
+    "name": "skiing_(not_slalom_or_crosscountry)/yQ40S0kyFMw_000213_000223",
+    "label": 128
+  },
+  {
+    "name": "mowing_lawn/CvYv_xviEVA_000010_000020",
+    "label": 306
+  },
+  {
+    "name": "tapping_guitar/BbfMNkEhfCc_000046_000056",
+    "label": 275
+  },
+  {
+    "name": "snowboarding/9lE94OCXZRg_000073_000083",
+    "label": 92
+  },
+  {
+    "name": "playing_harp/mEYLL1hhqyo_000026_000036",
+    "label": 160
+  },
+  {
+    "name": "dining/YaBBwVEFlTE_000053_000063",
+    "label": 257
+  },
+  {
+    "name": "hurdling/c6UJefBeKzE_000010_000020",
+    "label": 49
+  },
+  {
+    "name": "flying_kite/a-M9AboLOps_000062_000072",
+    "label": 354
+  },
+  {
+    "name": "crossing_river/sFJd397v5hs_000001_000011",
+    "label": 367
+  },
+  {
+    "name": "golf_chipping/YiKNN0iMTmg_000067_000077",
+    "label": 19
+  },
+  {
+    "name": "belly_dancing/SkB06xareqg_000022_000032",
+    "label": 321
+  },
+  {
+    "name": "counting_money/ZrUOZpY_c78_000036_000046",
+    "label": 131
+  },
+  {
+    "name": "unboxing/lv_ceExTUkQ_000000_000010",
+    "label": 53
+  },
+  {
+    "name": "playing_flute/tV2k1g35hVA_000115_000125",
+    "label": 126
+  },
+  {
+    "name": "playing_cello/hQ9GcZiTs-c_000015_000025",
+    "label": 14
+  },
+  {
+    "name": "blasting_sand/NWj8XqknOPM_000000_000010",
+    "label": 396
+  },
+  {
+    "name": "playing_tennis/mCJ3vxWghv0_000316_000326",
+    "label": 277
+  },
+  {
+    "name": "passing_American_football_(in_game)/mmgebR7jJxM_000003_000013",
+    "label": 151
+  },
+  {
+    "name": "reading_book/SR_oPt2TqmI_000048_000058",
+    "label": 246
+  },
+  {
+    "name": "spinning_poi/ylkQMZ3ftqE_000094_000104",
+    "label": 158
+  },
+  {
+    "name": "playing_tennis/y4HWdPS2ipI_000074_000084",
+    "label": 277
+  },
+  {
+    "name": "gymnastics_tumbling/BLm9i-rkveo_000001_000011",
+    "label": 91
+  },
+  {
+    "name": "spinning_poi/fnxK9KyZ9Bo_000127_000137",
+    "label": 158
+  },
+  {
+    "name": "tai_chi/e5BAa19VTq0_000267_000277",
+    "label": 400
+  },
+  {
+    "name": "pole_vault/X217IrdwqQE_000004_000014",
+    "label": 386
+  },
+  {
+    "name": "pushing_cart/LFg_9-eO5vk_000001_000011",
+    "label": 74
+  },
+  {
+    "name": "playing_tennis/E57sgphpvyc_000022_000032",
+    "label": 277
+  },
+  {
+    "name": "chopping_wood/itFQBcXrCNQ_000000_000010",
+    "label": 199
+  },
+  {
+    "name": "playing_monopoly/485qIv3FE3o_000002_000012",
+    "label": 31
+  },
+  {
+    "name": "rock_scissors_paper/KCRQNeOqFhE_000002_000012",
+    "label": 178
+  },
+  {
+    "name": "dodgeball/gI_7QNtFSCQ_000011_000021",
+    "label": 110
+  },
+  {
+    "name": "smoking_hookah/J27dBmSpRW4_000042_000052",
+    "label": 24
+  },
+  {
+    "name": "playing_ice_hockey/kMNwwdXYIAo_000032_000042",
+    "label": 278
+  },
+  {
+    "name": "snowmobiling/JttZ1QaP_IU_000025_000035",
+    "label": 100
+  },
+  {
+    "name": "hurling_(sport)/PLXR-YPYD0E_000306_000316",
+    "label": 66
+  },
+  {
+    "name": "using_computer/Qjc8i_vZy0U_000059_000069",
+    "label": 248
+  },
+  {
+    "name": "flipping_pancake/ZugR4LA0_ks_000000_000010",
+    "label": 330
+  },
+  {
+    "name": "snowkiting/Nl4PRYi39Z8_000002_000012",
+    "label": 362
+  },
+  {
+    "name": "playing_drums/Rvf5bTOPhWc_000015_000025",
+    "label": 295
+  },
+  {
+    "name": "tying_knot_(not_on_a_tie)/O0b6jZTNUBs_000037_000047",
+    "label": 307
+  },
+  {
+    "name": "bobsledding/P58ea6ohQTQ_000024_000034",
+    "label": 227
+  },
+  {
+    "name": "snowmobiling/TlJ4glYlDK0_000000_000010",
+    "label": 100
+  },
+  {
+    "name": "pull_ups/Ch8JRPtJX_0_000005_000015",
+    "label": 352
+  },
+  {
+    "name": "golf_putting/QzECOiOsRJ8_000113_000123",
+    "label": 187
+  },
+  {
+    "name": "tap_dancing/9O6BnQ674zo_000185_000195",
+    "label": 79
+  },
+  {
+    "name": "playing_poker/kw8I29d1R1c_000019_000029",
+    "label": 203
+  },
+  {
+    "name": "jumpstyle_dancing/ve2t8CfvFPw_000007_000017",
+    "label": 255
+  },
+  {
+    "name": "cooking_chicken/9LDznozzzoQ_000158_000168",
+    "label": 351
+  },
+  {
+    "name": "riding_unicycle/Aoyxkja2Low_000038_000048",
+    "label": 76
+  },
+  {
+    "name": "catching_or_throwing_softball/nQAWFR809ME_000001_000011",
+    "label": 343
+  },
+  {
+    "name": "playing_trumpet/4IJz6SDn1UQ_000001_000011",
+    "label": 82
+  },
+  {
+    "name": "ripping_paper/0B7YiFODRFA_000087_000097",
+    "label": 296
+  },
+  {
+    "name": "baby_waking_up/FDO5AWnQbyA_000004_000014",
+    "label": 9
+  },
+  {
+    "name": "contact_juggling/D8TO8Tl3zKY_000118_000128",
+    "label": 221
+  },
+  {
+    "name": "trapezing/bVDaToU25Mg_000086_000096",
+    "label": 238
+  },
+  {
+    "name": "headbanging/ksi7M_zfR5Y_000160_000170",
+    "label": 138
+  },
+  {
+    "name": "catching_or_throwing_frisbee/LUQNxctOoYg_000016_000026",
+    "label": 344
+  },
+  {
+    "name": "baking_cookies/7a_tBDe0FZc_000210_000220",
+    "label": 311
+  },
+  {
+    "name": "flying_kite/Q6WxIy2rUmI_000023_000033",
+    "label": 354
+  },
+  {
+    "name": "playing_bass_guitar/fQIVDWq4N2s_000113_000123",
+    "label": 103
+  },
+  {
+    "name": "riding_camel/zHUKcExAApM_000072_000082",
+    "label": 326
+  },
+  {
+    "name": "playing_cello/meHRkDm7D2M_000002_000012",
+    "label": 14
+  },
+  {
+    "name": "grinding_meat/flocYedktH4_000031_000041",
+    "label": 200
+  },
+  {
+    "name": "situp/1S1n3W7xpXo_000000_000010",
+    "label": 192
+  },
+  {
+    "name": "opening_present/cDdZu3rUqwA_000011_000021",
+    "label": 51
+  },
+  {
+    "name": "crossing_river/x2RnfLCCrzw_000005_000015",
+    "label": 367
+  },
+  {
+    "name": "tap_dancing/g_SGv35QudI_000000_000010",
+    "label": 79
+  },
+  {
+    "name": "riding_elephant/xPJrLCaEp4I_000011_000021",
+    "label": 264
+  },
+  {
+    "name": "ripping_paper/8PfUPWPk9yU_000392_000402",
+    "label": 296
+  },
+  {
+    "name": "grooming_horse/Ql_XctM7_Eg_000591_000601",
+    "label": 141
+  },
+  {
+    "name": "somersaulting/KCyHJagH-k8_000002_000012",
+    "label": 253
+  },
+  {
+    "name": "ski_jumping/LLd0LQZy4Mo_000013_000023",
+    "label": 397
+  },
+  {
+    "name": "dying_hair/mH-UYGp2ILY_000194_000204",
+    "label": 107
+  },
+  {
+    "name": "weaving_basket/-PaGzrsfEWA_000177_000187",
+    "label": 189
+  },
+  {
+    "name": "tai_chi/IHnGNQdeq2s_000038_000048",
+    "label": 400
+  },
+  {
+    "name": "bench_pressing/gvSeD1K8ckA_000011_000021",
+    "label": 171
+  },
+  {
+    "name": "trimming_trees/1EGQZzliOrE_000531_000541",
+    "label": 195
+  },
+  {
+    "name": "playing_bagpipes/982wjsdo5PM_000057_000067",
+    "label": 150
+  },
+  {
+    "name": "baby_waking_up/4WqnzltijVE_000029_000039",
+    "label": 9
+  },
+  {
+    "name": "snowkiting/1kyNOG6oymQ_000097_000107",
+    "label": 362
+  },
+  {
+    "name": "brush_painting/WN_hGhU0E7w_000100_000110",
+    "label": 190
+  },
+  {
+    "name": "fixing_hair/IpxEUWSv6II_000004_000014",
+    "label": 198
+  },
+  {
+    "name": "skydiving/DWDR57phY7k_000016_000026",
+    "label": 345
+  },
+  {
+    "name": "drinking/UiCmzFyfmyg_000125_000135",
+    "label": 97
+  },
+  {
+    "name": "reading_newspaper/1bxgd3_srgU_000052_000062",
+    "label": 272
+  },
+  {
+    "name": "washing_hands/PUruv5uIMqc_000039_000049",
+    "label": 136
+  },
+  {
+    "name": "passing_American_football_(in_game)/mQhYrEpM2v0_000103_000113",
+    "label": 151
+  },
+  {
+    "name": "dancing_gangnam_style/2SRJFtZUFeA_000150_000160",
+    "label": 395
+  },
+  {
+    "name": "dancing_gangnam_style/LYU5XG2L1p8_000155_000165",
+    "label": 395
+  },
+  {
+    "name": "clay_pottery_making/cpG_rkIvIdc_000094_000104",
+    "label": 201
+  },
+  {
+    "name": "writing/Mf_Ks1xxBfg_000104_000114",
+    "label": 149
+  },
+  {
+    "name": "high_jump/jaDCsSxoCeQ_000003_000013",
+    "label": 123
+  },
+  {
+    "name": "petting_animal_(not_cat)/CHTZN9iNp9E_000003_000013",
+    "label": 72
+  },
+  {
+    "name": "passing_American_football_(not_in_game)/1DZidfcpumo_000012_000022",
+    "label": 216
+  },
+  {
+    "name": "dining/-GGNhyjmgF8_000033_000043",
+    "label": 257
+  },
+  {
+    "name": "finger_snapping/otCc2l0Grmk_000010_000020",
+    "label": 117
+  },
+  {
+    "name": "milking_cow/KcDcL93jKrY_000023_000033",
+    "label": 318
+  },
+  {
+    "name": "tasting_food/-LVbgohI4HA_000307_000317",
+    "label": 338
+  },
+  {
+    "name": "playing_badminton/Ko7URUOGVE4_000004_000014",
+    "label": 6
+  },
+  {
+    "name": "squat/mzMnP8zCNMo_000029_000039",
+    "label": 288
+  },
+  {
+    "name": "playing_trumpet/kdhv-Dg9pDw_000003_000013",
+    "label": 82
+  },
+  {
+    "name": "crying/yDKz5An0qd0_000024_000034",
+    "label": 368
+  },
+  {
+    "name": "skiing_(not_slalom_or_crosscountry)/uYQzgT1UBZI_000075_000085",
+    "label": 128
+  },
+  {
+    "name": "country_line_dancing/E6c_EpmBm3c_000008_000018",
+    "label": 77
+  },
+  {
+    "name": "playing_xylophone/-SIJLK07FM0_000036_000046",
+    "label": 87
+  },
+  {
+    "name": "bouncing_on_trampoline/UZk4Cgw5N4k_000152_000162",
+    "label": 152
+  },
+  {
+    "name": "passing_American_football_(not_in_game)/UjFt5ZvpvKU_000285_000295",
+    "label": 216
+  },
+  {
+    "name": "cheerleading/qEVDPYMdsxU_000002_000012",
+    "label": 202
+  },
+  {
+    "name": "tossing_salad/dK01cNE0eSc_000764_000774",
+    "label": 361
+  },
+  {
+    "name": "flying_kite/rFpFVqmj86A_000006_000016",
+    "label": 354
+  },
+  {
+    "name": "skiing_slalom/y85K6MZykxg_000023_000033",
+    "label": 52
+  },
+  {
+    "name": "blasting_sand/wHgvDv-zVUU_000005_000015",
+    "label": 396
+  },
+  {
+    "name": "drinking/5QzNSYPD3gU_000108_000118",
+    "label": 97
+  },
+  {
+    "name": "grooming_horse/dPj2eeaAk3M_000100_000110",
+    "label": 141
+  },
+  {
+    "name": "clapping/SM6xZ4ak3ws_000027_000037",
+    "label": 114
+  },
+  {
+    "name": "making_pizza/-jswxUe334A_000114_000124",
+    "label": 300
+  },
+  {
+    "name": "carrying_baby/tRIxzOSmetg_000001_000011",
+    "label": 85
+  },
+  {
+    "name": "washing_feet/VAEAgx7q5lM_000017_000027",
+    "label": 347
+  },
+  {
+    "name": "pumping_fist/roUbDDk-hQc_000004_000014",
+    "label": 119
+  },
+  {
+    "name": "kicking_soccer_ball/bCVrmUt8Qsc_000019_000029",
+    "label": 260
+  },
+  {
+    "name": "catching_or_throwing_softball/x3N7J5IUQDY_000003_000013",
+    "label": 343
+  },
+  {
+    "name": "country_line_dancing/r3JDPpjD8l8_000018_000028",
+    "label": 77
+  },
+  {
+    "name": "biking_through_snow/V_5N9qkRmrQ_000107_000117",
+    "label": 377
+  },
+  {
+    "name": "sneezing/0rlW_IJNc3s_000025_000035",
+    "label": 356
+  },
+  {
+    "name": "stretching_arm/b7826Sv_EAM_000005_000015",
+    "label": 194
+  },
+  {
+    "name": "climbing_ladder/8KGAwaXWSIQ_000027_000037",
+    "label": 45
+  },
+  {
+    "name": "tobogganing/b3d7NHy4Uow_000003_000013",
+    "label": 145
+  },
+  {
+    "name": "opening_present/A56VU48dN4Q_000055_000065",
+    "label": 51
+  },
+  {
+    "name": "driving_tractor/VKKbtt4MUlw_000010_000020",
+    "label": 286
+  },
+  {
+    "name": "climbing_ladder/OLn-3fWjwy8_000001_000011",
+    "label": 45
+  },
+  {
+    "name": "dunking_basketball/kJekrU-xLdc_000004_000014",
+    "label": 298
+  },
+  {
+    "name": "ice_skating/yxO1j1nLzMo_000026_000036",
+    "label": 349
+  },
+  {
+    "name": "weaving_basket/jbyUwvHN1VE_000049_000059",
+    "label": 189
+  },
+  {
+    "name": "lunge/G1l7VuqFUtM_000024_000034",
+    "label": 239
+  },
+  {
+    "name": "blowing_glass/I6B5zaNJJI0_000034_000044",
+    "label": 124
+  },
+  {
+    "name": "canoeing_or_kayaking/-cGpCRJ4u2k_000034_000044",
+    "label": 20
+  },
+  {
+    "name": "swimming_butterfly_stroke/lpXJlW0Quhs_000001_000011",
+    "label": 161
+  },
+  {
+    "name": "ice_skating/lqO7wC1QzLA_000007_000017",
+    "label": 349
+  },
+  {
+    "name": "mopping_floor/n9MHjYPzHd8_000658_000668",
+    "label": 40
+  },
+  {
+    "name": "snowboarding/iqzE5z2tlpY_000172_000182",
+    "label": 92
+  },
+  {
+    "name": "snowboarding/S4Lbh_T8s-Y_000224_000234",
+    "label": 92
+  },
+  {
+    "name": "catching_or_throwing_frisbee/yDYeZKTlc1U_000004_000014",
+    "label": 344
+  },
+  {
+    "name": "skiing_crosscountry/xn78Ti4WnaM_000024_000034",
+    "label": 169
+  },
+  {
+    "name": "tapping_pen/bg_wT-1TG54_000022_000032",
+    "label": 394
+  },
+  {
+    "name": "vault/e_AgdnF_jCI_000015_000025",
+    "label": 210
+  },
+  {
+    "name": "salsa_dancing/5X4Br_ktjRY_000044_000054",
+    "label": 57
+  },
+  {
+    "name": "tai_chi/MpPoqJjOmwU_000034_000044",
+    "label": 400
+  },
+  {
+    "name": "shaving_head/CwMarA5OH_U_000001_000011",
+    "label": 319
+  },
+  {
+    "name": "riding_unicycle/_GZhEPzz-tw_000016_000026",
+    "label": 76
+  },
+  {
+    "name": "playing_cricket/mlPVDy4gezs_000138_000148",
+    "label": 380
+  },
+  {
+    "name": "salsa_dancing/lhzIxy0HUlE_000004_000014",
+    "label": 57
+  },
+  {
+    "name": "pull_ups/U4KuHaPqm6c_000026_000036",
+    "label": 352
+  },
+  {
+    "name": "picking_fruit/JtXWVZj0Lxk_000006_000016",
+    "label": 267
+  },
+  {
+    "name": "archery/D4Pqm5Zhstw_000012_000022",
+    "label": 116
+  },
+  {
+    "name": "waiting_in_line/s7_ZkQmz6_s_000002_000012",
+    "label": 208
+  },
+  {
+    "name": "playing_guitar/KO0i84WOrZI_000094_000104",
+    "label": 155
+  },
+  {
+    "name": "shredding_paper/6JeRGeHkpDg_000007_000017",
+    "label": 315
+  },
+  {
+    "name": "doing_nails/BTTzp6xggQ4_000085_000095",
+    "label": 250
+  },
+  {
+    "name": "stomping_grapes/wSTsmaehb3g_000003_000013",
+    "label": 251
+  },
+  {
+    "name": "gymnastics_tumbling/kvHOUhy39Lc_000007_000017",
+    "label": 91
+  },
+  {
+    "name": "playing_volleyball/vCX9OI6uXXE_000001_000011",
+    "label": 172
+  },
+  {
+    "name": "tying_tie/LUoT39ZuevE_000230_000240",
+    "label": 167
+  },
+  {
+    "name": "jumpstyle_dancing/sT_Dp74_JHc_000003_000013",
+    "label": 255
+  },
+  {
+    "name": "scrambling_eggs/pLb6JdcR91g_000076_000086",
+    "label": 62
+  },
+  {
+    "name": "moving_furniture/6ZvtnTyiBgk_000008_000018",
+    "label": 127
+  },
+  {
+    "name": "climbing_ladder/ievGeQM-ZS0_000183_000193",
+    "label": 45
+  },
+  {
+    "name": "sharpening_pencil/y2GRvhVmDlA_000162_000172",
+    "label": 302
+  },
+  {
+    "name": "windsurfing/K3oQH800u-4_000201_000211",
+    "label": 11
+  },
+  {
+    "name": "eating_ice_cream/gobeVMO6bks_000000_000010",
+    "label": 156
+  },
+  {
+    "name": "writing/hGPZERQiWTM_000315_000325",
+    "label": 149
+  },
+  {
+    "name": "sled_dog_racing/7LRwvd6zNXI_000025_000035",
+    "label": 154
+  },
+  {
+    "name": "massaging_person's_head/pfj_UIo8nKY_000024_000034",
+    "label": 15
+  },
+  {
+    "name": "cleaning_shoes/aqjCQe_sXq8_000024_000034",
+    "label": 392
+  },
+  {
+    "name": "vault/aVyY_MkuZcI_000022_000032",
+    "label": 210
+  },
+  {
+    "name": "opening_present/-Q83wlepp48_000014_000024",
+    "label": 51
+  },
+  {
+    "name": "sailing/-KE4Qn7xb2A_000051_000061",
+    "label": 305
+  },
+  {
+    "name": "bungee_jumping/TYU-_mAH2AA_000023_000033",
+    "label": 188
+  },
+  {
+    "name": "throwing_axe/OpXsN2MUyIE_000004_000014",
+    "label": 137
+  },
+  {
+    "name": "baking_cookies/4WwzlnssXRY_000757_000767",
+    "label": 311
+  },
+  {
+    "name": "playing_bass_guitar/9y9IfbfA7uQ_000032_000042",
+    "label": 103
+  },
+  {
+    "name": "dining/oqbSSg-FRQ4_000114_000124",
+    "label": 257
+  },
+  {
+    "name": "water_skiing/X4LpRmmPo4k_000003_000013",
+    "label": 245
+  },
+  {
+    "name": "playing_ice_hockey/iBmOkMVq9gc_000016_000026",
+    "label": 278
+  },
+  {
+    "name": "crawling_baby/qcYY9_ntVmw_000037_000047",
+    "label": 213
+  },
+  {
+    "name": "folding_clothes/ss_XRZDkzAU_000307_000317",
+    "label": 121
+  },
+  {
+    "name": "tasting_beer/wZgexXeGM1c_000103_000113",
+    "label": 390
+  },
+  {
+    "name": "smoking_hookah/ykszFNs0ATY_000190_000200",
+    "label": 24
+  },
+  {
+    "name": "brushing_hair/hLR_sQs7oR8_000308_000318",
+    "label": 236
+  },
+  {
+    "name": "swimming_butterfly_stroke/h-PlUxtikh0_000008_000018",
+    "label": 161
+  },
+  {
+    "name": "strumming_guitar/aAg74kQcd-U_000003_000013",
+    "label": 383
+  },
+  {
+    "name": "eating_spaghetti/ks6c8sOMn9g_000029_000039",
+    "label": 364
+  },
+  {
+    "name": "squat/xwFdL0mZ8Kg_000001_000011",
+    "label": 288
+  },
+  {
+    "name": "salsa_dancing/dimT0h0nCjs_000000_000010",
+    "label": 57
+  },
+  {
+    "name": "skydiving/7tsbBoWd3UE_000384_000394",
+    "label": 345
+  },
+  {
+    "name": "milking_cow/XvvnULbh9hk_000016_000026",
+    "label": 318
+  },
+  {
+    "name": "shoveling_snow/9Gm3HlDKGNI_000089_000099",
+    "label": 335
+  },
+  {
+    "name": "clean_and_jerk/vg6MFiMHJ6s_000003_000013",
+    "label": 78
+  },
+  {
+    "name": "carving_pumpkin/K8TUrUMorbs_000013_000023",
+    "label": 83
+  },
+  {
+    "name": "riding_elephant/i-eA6bKXA1s_000027_000037",
+    "label": 264
+  },
+  {
+    "name": "krumping/9LdPPWzmkg8_000281_000291",
+    "label": 229
+  },
+  {
+    "name": "carving_pumpkin/GJrkCGZ4wNA_000022_000032",
+    "label": 83
+  },
+  {
+    "name": "deadlifting/XxpgVJ5gAPs_000000_000010",
+    "label": 359
+  },
+  {
+    "name": "playing_flute/adpfKuhE8Go_000136_000146",
+    "label": 126
+  },
+  {
+    "name": "surfing_water/oZJ0qR4vak8_000040_000050",
+    "label": 366
+  },
+  {
+    "name": "biking_through_snow/zoKw1XoMYTg_000024_000034",
+    "label": 377
+  },
+  {
+    "name": "cutting_nails/KfjxYNlFBu0_000001_000011",
+    "label": 237
+  },
+  {
+    "name": "side_kick/oj0KivE_PPU_000001_000011",
+    "label": 98
+  },
+  {
+    "name": "ice_skating/t3h2JhbU-Yg_000019_000029",
+    "label": 349
+  },
+  {
+    "name": "presenting_weather_forecast/HwzKXSktjQI_000027_000037",
+    "label": 41
+  },
+  {
+    "name": "tossing_coin/EpVKDO5dLzM_000016_000026",
+    "label": 224
+  },
+  {
+    "name": "strumming_guitar/C2xJUrstqiY_000018_000028",
+    "label": 383
+  },
+  {
+    "name": "scrambling_eggs/tAgpgbwT4Sw_000041_000051",
+    "label": 62
+  },
+  {
+    "name": "trapezing/AUNnRL-qsUE_000000_000010",
+    "label": 238
+  },
+  {
+    "name": "blowing_out_candles/lFoOoVlrfJc_000000_000010",
+    "label": 175
+  },
+  {
+    "name": "hoverboarding/WbM1BybeyrY_000001_000011",
+    "label": 371
+  },
+  {
+    "name": "catching_fish/9uFlYeTMlI0_000004_000014",
+    "label": 348
+  },
+  {
+    "name": "trimming_trees/yZdxR1CCbso_000044_000054",
+    "label": 195
+  },
+  {
+    "name": "belly_dancing/HDLLXUaqZxg_000189_000199",
+    "label": 321
+  },
+  {
+    "name": "playing_cymbals/TM06NRut0F0_000030_000040",
+    "label": 336
+  },
+  {
+    "name": "playing_cards/2XMikppqEoA_000429_000439",
+    "label": 293
+  },
+  {
+    "name": "barbequing/gFu3uJgAIqE_000703_000713",
+    "label": 90
+  },
+  {
+    "name": "air_drumming/_dbcJuKJQNs_000040_000050",
+    "label": 4
+  },
+  {
+    "name": "cheerleading/QFXKWk4__6o_000220_000230",
+    "label": 202
+  },
+  {
+    "name": "contact_juggling/OGgsQsMWfmU_000203_000213",
+    "label": 221
+  },
+  {
+    "name": "tango_dancing/GUjEd0zSKmY_000034_000044",
+    "label": 385
+  },
+  {
+    "name": "welding/dYf_RmRRQ9I_000570_000580",
+    "label": 30
+  },
+  {
+    "name": "ski_jumping/D7pkRSKWRxs_000004_000014",
+    "label": 397
+  },
+  {
+    "name": "pushing_wheelchair/Tq7CzKcz2AQ_000003_000013",
+    "label": 308
+  },
+  {
+    "name": "eating_spaghetti/QIwHZ87cLDU_000060_000070",
+    "label": 364
+  },
+  {
+    "name": "situp/oP8INkrmqyY_000019_000029",
+    "label": 192
+  },
+  {
+    "name": "arranging_flowers/HqbEvh0tdUk_000119_000129",
+    "label": 170
+  },
+  {
+    "name": "petting_cat/oCdqrrMvieo_000091_000101",
+    "label": 146
+  },
+  {
+    "name": "pushing_car/ELib3WhRG-c_000013_000023",
+    "label": 54
+  },
+  {
+    "name": "pumping_gas/Wv15uminQgc_000008_000018",
+    "label": 2
+  },
+  {
+    "name": "tickling/5KvNU_p8cxo_000031_000041",
+    "label": 80
+  },
+  {
+    "name": "pushing_cart/lQb_k8xIrS4_000054_000064",
+    "label": 74
+  },
+  {
+    "name": "drop_kicking/c_VTV5CBhss_000002_000012",
+    "label": 184
+  },
+  {
+    "name": "waxing_eyebrows/3Uw1fs_TXYw_000037_000047",
+    "label": 374
+  },
+  {
+    "name": "tai_chi/m0LoXWxpTuo_000008_000018",
+    "label": 400
+  },
+  {
+    "name": "arm_wrestling/YsC-KI-H4bw_000015_000025",
+    "label": 46
+  },
+  {
+    "name": "punching_bag/OFz6piDe82o_000072_000082",
+    "label": 48
+  },
+  {
+    "name": "juggling_fire/cHW3Yy0k3uE_000132_000142",
+    "label": 312
+  },
+  {
+    "name": "balloon_blowing/fJSyHI9ziuE_000024_000034",
+    "label": 284
+  },
+  {
+    "name": "playing_badminton/l46_g7P_U7c_000183_000193",
+    "label": 6
+  },
+  {
+    "name": "headbanging/J28UtVIm7u0_000000_000010",
+    "label": 138
+  },
+  {
+    "name": "driving_car/jp3CtvLxIaM_000035_000045",
+    "label": 287
+  },
+  {
+    "name": "blowing_glass/PKFFJuGvHiw_000075_000085",
+    "label": 124
+  },
+  {
+    "name": "water_skiing/55W6XDKGMK8_000004_000014",
+    "label": 245
+  },
+  {
+    "name": "catching_or_throwing_softball/AH1freBkzic_000017_000027",
+    "label": 343
+  },
+  {
+    "name": "welding/pbo4SKjHeaY_000249_000259",
+    "label": 30
+  },
+  {
+    "name": "taking_a_shower/Iw6BMipHBxM_000003_000013",
+    "label": 42
+  },
+  {
+    "name": "playing_basketball/PU192V6mhDQ_000018_000028",
+    "label": 70
+  },
+  {
+    "name": "smoking_hookah/Vfn9qsMfK_s_000000_000010",
+    "label": 24
+  },
+  {
+    "name": "playing_bagpipes/FJMggkm-PrQ_000001_000011",
+    "label": 150
+  },
+  {
+    "name": "hopscotch/Fi9PuUp5uQI_000000_000010",
+    "label": 256
+  },
+  {
+    "name": "grooming_dog/WCC3ZVpDZ5A_000116_000126",
+    "label": 120
+  },
+  {
+    "name": "wrestling/SRQ_6NmpOKE_000085_000095",
+    "label": 265
+  },
+  {
+    "name": "throwing_axe/BLXkVUDpTu0_000097_000107",
+    "label": 137
+  },
+  {
+    "name": "carving_pumpkin/buM__ylqDQA_000099_000109",
+    "label": 83
+  },
+  {
+    "name": "wrapping_present/bXLxyM0jVdE_000159_000169",
+    "label": 211
+  },
+  {
+    "name": "headbanging/5yeOvv86Xus_000006_000016",
+    "label": 138
+  },
+  {
+    "name": "air_drumming/f0tLe6IauDo_000055_000065",
+    "label": 4
+  },
+  {
+    "name": "dunking_basketball/qxXoxPU242o_000000_000010",
+    "label": 298
+  },
+  {
+    "name": "playing_basketball/JbkaTekA0Pg_000060_000070",
+    "label": 70
+  },
+  {
+    "name": "crawling_baby/AdKd8T_lyMw_000001_000011",
+    "label": 213
+  },
+  {
+    "name": "krumping/hmz7CX4NMzg_000001_000011",
+    "label": 229
+  },
+  {
+    "name": "unloading_truck/AxHWyaH-JcA_000097_000107",
+    "label": 231
+  },
+  {
+    "name": "mopping_floor/BhGrdNRhDbA_000015_000025",
+    "label": 40
+  },
+  {
+    "name": "ice_skating/i0wJzLzgd3E_000005_000015",
+    "label": 349
+  },
+  {
+    "name": "wrapping_present/4Pk9G60qB1M_000074_000084",
+    "label": 211
+  },
+  {
+    "name": "catching_fish/yXneatdXNKo_000015_000025",
+    "label": 348
+  },
+  {
+    "name": "riding_or_walking_with_horse/EiQz2GQpkr0_000159_000169",
+    "label": 373
+  },
+  {
+    "name": "salsa_dancing/pw_ckmqIJTk_000145_000155",
+    "label": 57
+  },
+  {
+    "name": "breading_or_breadcrumbing/Mp4omPVEl5E_000013_000023",
+    "label": 399
+  },
+  {
+    "name": "washing_hands/0XcnMt3TGP4_000021_000031",
+    "label": 136
+  },
+  {
+    "name": "sniffing/SIwMR_gXWVY_000003_000013",
+    "label": 10
+  },
+  {
+    "name": "playing_basketball/cCQ8-MUWOnY_000033_000043",
+    "label": 70
+  },
+  {
+    "name": "playing_clarinet/8nryYWivhoY_000040_000050",
+    "label": 36
+  },
+  {
+    "name": "pull_ups/Zx7joCymgvw_000003_000013",
+    "label": 352
+  },
+  {
+    "name": "cleaning_pool/UDjM3hnyZ_Q_000028_000038",
+    "label": 47
+  },
+  {
+    "name": "blasting_sand/c2FwjAKdjys_000304_000314",
+    "label": 396
+  },
+  {
+    "name": "squat/yt92AzS7S_c_000008_000018",
+    "label": 288
+  },
+  {
+    "name": "robot_dancing/Cyk3wx4pQ2M_000001_000011",
+    "label": 133
+  },
+  {
+    "name": "tapping_guitar/uolUWzL0vZ0_000000_000010",
+    "label": 275
+  },
+  {
+    "name": "carrying_baby/AEmsx7Bpd14_000010_000020",
+    "label": 85
+  },
+  {
+    "name": "opening_present/negqEtTQOHQ_000049_000059",
+    "label": 51
+  },
+  {
+    "name": "sign_language_interpreting/-V8ApSSg0Kg_000428_000438",
+    "label": 32
+  },
+  {
+    "name": "throwing_axe/2B7j-LdlMjA_000003_000013",
+    "label": 137
+  },
+  {
+    "name": "golf_putting/Vq-6UT8ERtc_000111_000121",
+    "label": 187
+  },
+  {
+    "name": "egg_hunting/tA50ipMoUjY_000046_000056",
+    "label": 75
+  },
+  {
+    "name": "contact_juggling/EmPuo_pT0Xk_000161_000171",
+    "label": 221
+  },
+  {
+    "name": "playing_bagpipes/hycRjbuPIM4_000133_000143",
+    "label": 150
+  },
+  {
+    "name": "flying_kite/NYx137eq4Zc_000001_000011",
+    "label": 354
+  },
+  {
+    "name": "filling_eyebrows/Gpjapx6i7wU_000007_000017",
+    "label": 283
+  },
+  {
+    "name": "hurling_(sport)/d-WIGqdqE94_000037_000047",
+    "label": 66
+  },
+  {
+    "name": "bartending/RiuzzgI72gY_000267_000277",
+    "label": 183
+  },
+  {
+    "name": "stretching_arm/p3LZGL-ESH4_000051_000061",
+    "label": 194
+  },
+  {
+    "name": "catching_or_throwing_frisbee/yDvCpNUedbM_000000_000010",
+    "label": 344
+  },
+  {
+    "name": "filling_eyebrows/uVZTCzDSsz0_000107_000117",
+    "label": 283
+  },
+  {
+    "name": "barbequing/eA-A9K-2yWM_000068_000078",
+    "label": 90
+  },
+  {
+    "name": "contact_juggling/KbuuJ9RDm2k_000014_000024",
+    "label": 221
+  },
+  {
+    "name": "cutting_pineapple/L13nEWBZxqM_000241_000251",
+    "label": 134
+  },
+  {
+    "name": "situp/IsW45xrM1sA_000015_000025",
+    "label": 192
+  },
+  {
+    "name": "getting_a_tattoo/vjCcrtp6y4k_000004_000014",
+    "label": 29
+  },
+  {
+    "name": "tai_chi/C0T23bpyzDU_000246_000256",
+    "label": 400
+  },
+  {
+    "name": "trapezing/z6TJvjhTaNo_000001_000011",
+    "label": 238
+  },
+  {
+    "name": "snowkiting/SOT8lKZYqNA_000020_000030",
+    "label": 362
+  },
+  {
+    "name": "shaking_head/wqP0MEV1c_o_000072_000082",
+    "label": 101
+  },
+  {
+    "name": "hockey_stop/hMRPnNsZhKY_000116_000126",
+    "label": 8
+  },
+  {
+    "name": "braiding_hair/810o7zVP42E_000023_000033",
+    "label": 65
+  },
+  {
+    "name": "arm_wrestling/FThqs3ZGdOE_000002_000012",
+    "label": 46
+  },
+  {
+    "name": "trapezing/WocJIi5jQFw_000000_000010",
+    "label": 238
+  },
+  {
+    "name": "bending_metal/g19EvIkEgP8_000090_000100",
+    "label": 38
+  },
+  {
+    "name": "tai_chi/UQOE634ziLY_000088_000098",
+    "label": 400
+  },
+  {
+    "name": "presenting_weather_forecast/5COnsXNAGZE_000066_000076",
+    "label": 41
+  },
+  {
+    "name": "folding_paper/xfONFW8NArk_000802_000812",
+    "label": 28
+  },
+  {
+    "name": "headbanging/kaBFBccnMds_000001_000011",
+    "label": 138
+  },
+  {
+    "name": "breakdancing/4w-S9xez0D8_000013_000023",
+    "label": 157
+  },
+  {
+    "name": "pushing_wheelchair/rToFV0VG3TA_000013_000023",
+    "label": 308
+  },
+  {
+    "name": "javelin_throw/EzKTxv4ow3I_000005_000015",
+    "label": 243
+  },
+  {
+    "name": "cheerleading/Laig0_E5DKc_000331_000341",
+    "label": 202
+  },
+  {
+    "name": "drinking_beer/SxTGIupfLec_000004_000014",
+    "label": 235
+  },
+  {
+    "name": "tap_dancing/ilEzwahbcMA_000032_000042",
+    "label": 79
+  },
+  {
+    "name": "kitesurfing/78usKX95alg_000030_000040",
+    "label": 316
+  },
+  {
+    "name": "playing_paintball/339Svgk3nUA_000231_000241",
+    "label": 242
+  },
+  {
+    "name": "shaking_head/Hz2CnIPFbcU_000012_000022",
+    "label": 101
+  },
+  {
+    "name": "snowboarding/rrnolq6aCVI_000019_000029",
+    "label": 92
+  },
+  {
+    "name": "opening_present/s1flietftSA_000032_000042",
+    "label": 51
+  },
+  {
+    "name": "cleaning_gutters/DpnFY_7V7cg_000125_000135",
+    "label": 240
+  },
+  {
+    "name": "beatboxing/_UKOkmlpiVs_000058_000068",
+    "label": 143
+  },
+  {
+    "name": "windsurfing/7EY-pw3thh8_000099_000109",
+    "label": 11
+  },
+  {
+    "name": "eating_ice_cream/hgGSG7HQS2w_000092_000102",
+    "label": 156
+  },
+  {
+    "name": "playing_guitar/k5pN2_X59Qg_000567_000577",
+    "label": 155
+  },
+  {
+    "name": "eating_spaghetti/ZSFymdJbq3s_000000_000010",
+    "label": 364
+  },
+  {
+    "name": "playing_volleyball/RKflr6MhesA_000021_000031",
+    "label": 172
+  },
+  {
+    "name": "giving_or_receiving_award/DQUT6uq1Yqw_000089_000099",
+    "label": 291
+  },
+  {
+    "name": "pumping_fist/m5EVbwDs5Zg_000011_000021",
+    "label": 119
+  },
+  {
+    "name": "drinking/sXNxd4o2ILw_000015_000025",
+    "label": 97
+  },
+  {
+    "name": "throwing_axe/N_235PGY6lI_000000_000010",
+    "label": 137
+  },
+  {
+    "name": "playing_basketball/SGrcs_I2PSI_000008_000018",
+    "label": 70
+  },
+  {
+    "name": "somersaulting/MGWpyemduxg_000000_000010",
+    "label": 253
+  },
+  {
+    "name": "reading_newspaper/4hlk-7eLH7U_000257_000267",
+    "label": 272
+  },
+  {
+    "name": "catching_or_throwing_softball/3agBuZIBKHY_000002_000012",
+    "label": 343
+  },
+  {
+    "name": "spraying/32PMc66nDGs_000153_000163",
+    "label": 63
+  },
+  {
+    "name": "washing_hands/CSuzuJsqeRo_000002_000012",
+    "label": 136
+  },
+  {
+    "name": "jumpstyle_dancing/bGOLkLHizuY_000010_000020",
+    "label": 255
+  },
+  {
+    "name": "bowling/sJrTyDOWgb8_000098_000108",
+    "label": 125
+  },
+  {
+    "name": "yoga/1_bUrKpKqwA_000018_000028",
+    "label": 353
+  },
+  {
+    "name": "filling_eyebrows/Lhx0kVqHsGg_000035_000045",
+    "label": 283
+  },
+  {
+    "name": "eating_burger/tdoAlcCRybQ_000167_000177",
+    "label": 322
+  },
+  {
+    "name": "playing_clarinet/Z_8w3zHzznU_000191_000201",
+    "label": 36
+  },
+  {
+    "name": "shining_shoes/bidUcS2q-0g_000015_000025",
+    "label": 294
+  },
+  {
+    "name": "playing_guitar/Qs1FKdo40wI_000004_000014",
+    "label": 155
+  },
+  {
+    "name": "water_skiing/Eicuw5kjUtA_000001_000011",
+    "label": 245
+  },
+  {
+    "name": "sled_dog_racing/HmO_ORTlrMs_000058_000068",
+    "label": 154
+  },
+  {
+    "name": "passing_American_football_(in_game)/-JPvnASE7j8_000002_000012",
+    "label": 151
+  },
+  {
+    "name": "capoeira/v-z84PNKr5s_000185_000195",
+    "label": 370
+  },
+  {
+    "name": "cutting_nails/nKcZ6humd3c_000072_000082",
+    "label": 237
+  },
+  {
+    "name": "tapping_pen/NoEQTS6QiG8_000193_000203",
+    "label": 394
+  },
+  {
+    "name": "skydiving/dm-4PuVxfZA_000401_000411",
+    "label": 345
+  },
+  {
+    "name": "eating_watermelon/w-sa2DKC2xk_000030_000040",
+    "label": 37
+  },
+  {
+    "name": "breakdancing/vsEusfSVkLY_000028_000038",
+    "label": 157
+  },
+  {
+    "name": "playing_violin/H1iciTTbQfM_000061_000071",
+    "label": 225
+  },
+  {
+    "name": "shearing_sheep/n5Td-tb1wVU_000315_000325",
+    "label": 233
+  },
+  {
+    "name": "playing_poker/0L3VVj5duzk_000107_000117",
+    "label": 203
+  },
+  {
+    "name": "sanding_floor/gqPMay1-iHU_000198_000208",
+    "label": 58
+  },
+  {
+    "name": "high_kick/yvMSObPcvyA_000016_000026",
+    "label": 81
+  },
+  {
+    "name": "somersaulting/ZXHmMgO9CUM_000002_000012",
+    "label": 253
+  },
+  {
+    "name": "deadlifting/6As7JsbDozk_000004_000014",
+    "label": 359
+  },
+  {
+    "name": "peeling_potatoes/sb66J49fz0g_000009_000019",
+    "label": 43
+  },
+  {
+    "name": "dancing_charleston/MOj_P0flREw_000000_000010",
+    "label": 381
+  },
+  {
+    "name": "shaking_hands/mDUx99Pssfo_000010_000020",
+    "label": 327
+  },
+  {
+    "name": "sticking_tongue_out/2CeqKBA1WhQ_000018_000028",
+    "label": 1
+  },
+  {
+    "name": "playing_recorder/ya_21J9iP30_000016_000026",
+    "label": 309
+  },
+  {
+    "name": "strumming_guitar/cR4o8DcKs4w_000184_000194",
+    "label": 383
+  },
+  {
+    "name": "motorcycling/4ngLAR6yZOk_000006_000016",
+    "label": 340
+  },
+  {
+    "name": "parasailing/M7T2_TSWRKA_000001_000011",
+    "label": 230
+  },
+  {
+    "name": "driving_tractor/OavDRqmvaxc_000000_000010",
+    "label": 286
+  },
+  {
+    "name": "contact_juggling/87oi8DzjvGM_000001_000011",
+    "label": 221
+  },
+  {
+    "name": "shaving_head/_4oDZd2qpGc_000233_000243",
+    "label": 319
+  },
+  {
+    "name": "riding_or_walking_with_horse/tEgYXzP_68w_000240_000250",
+    "label": 373
+  },
+  {
+    "name": "spinning_poi/7JgxZ8CjHYg_000017_000027",
+    "label": 158
+  },
+  {
+    "name": "blowing_out_candles/yU_Ap0l0zRE_000011_000021",
+    "label": 175
+  },
+  {
+    "name": "crossing_river/AqA7z5mwM7I_000192_000202",
+    "label": 367
+  },
+  {
+    "name": "petting_cat/iI3XjrQ6rII_000015_000025",
+    "label": 146
+  },
+  {
+    "name": "giving_or_receiving_award/FnA3-H7vqvE_000019_000029",
+    "label": 291
+  },
+  {
+    "name": "breading_or_breadcrumbing/OeBtEQ9NdLE_000216_000226",
+    "label": 399
+  },
+  {
+    "name": "eating_spaghetti/GVsd9ak6fbM_000002_000012",
+    "label": 364
+  },
+  {
+    "name": "high_kick/ai_mF5qz8lA_000022_000032",
+    "label": 81
+  },
+  {
+    "name": "roller_skating/nJjpZ6qqIqM_000043_000053",
+    "label": 18
+  },
+  {
+    "name": "folding_clothes/NPKVfQ_tDtI_000054_000064",
+    "label": 121
+  },
+  {
+    "name": "tobogganing/ySg4KhuLoAw_000013_000023",
+    "label": 145
+  },
+  {
+    "name": "spinning_poi/ETk7YZUtMes_000012_000022",
+    "label": 158
+  },
+  {
+    "name": "snowmobiling/ANNWXBx2vpc_000149_000159",
+    "label": 100
+  },
+  {
+    "name": "deadlifting/POqYfF_hpxE_000008_000018",
+    "label": 359
+  },
+  {
+    "name": "playing_violin/XqQB6nRt_YQ_000040_000050",
+    "label": 225
+  },
+  {
+    "name": "playing_paintball/b1uHCPnX7k8_000649_000659",
+    "label": 242
+  },
+  {
+    "name": "carving_pumpkin/wcuZTRAX7ns_000123_000133",
+    "label": 83
+  },
+  {
+    "name": "playing_squash_or_racquetball/Izd3BG6D1S4_000012_000022",
+    "label": 270
+  },
+  {
+    "name": "eating_cake/48ezk8aL8oU_000105_000115",
+    "label": 25
+  },
+  {
+    "name": "skateboarding/cd2H0zlGzJg_000071_000081",
+    "label": 191
+  },
+  {
+    "name": "golf_putting/VCMTsnv1xzQ_000071_000081",
+    "label": 187
+  },
+  {
+    "name": "water_skiing/BSwhu1nxzCY_000001_000011",
+    "label": 245
+  },
+  {
+    "name": "drinking_beer/8HyQrQVfGQQ_000464_000474",
+    "label": 235
+  },
+  {
+    "name": "playing_recorder/fyf4JXG6K9c_000027_000037",
+    "label": 309
+  },
+  {
+    "name": "taking_a_shower/nWUWIFLz3dY_000000_000010",
+    "label": 42
+  },
+  {
+    "name": "rock_scissors_paper/gVZYFwHFNI0_000000_000010",
+    "label": 178
+  },
+  {
+    "name": "ice_climbing/i459blDv6pA_000113_000123",
+    "label": 106
+  },
+  {
+    "name": "dancing_macarena/ib16W_odt1k_000000_000010",
+    "label": 387
+  },
+  {
+    "name": "celebrating/CSF8sfHS5as_000005_000015",
+    "label": 181
+  },
+  {
+    "name": "skiing_crosscountry/3DU8hg6jwm4_000000_000010",
+    "label": 169
+  },
+  {
+    "name": "cleaning_pool/IAhr2gIW-3s_000004_000014",
+    "label": 47
+  },
+  {
+    "name": "balloon_blowing/n0lqxGodg_k_000015_000025",
+    "label": 284
+  },
+  {
+    "name": "beatboxing/3WrohXQZbhg_000148_000158",
+    "label": 143
+  },
+  {
+    "name": "faceplanting/DnxygkTssDc_000004_000014",
+    "label": 148
+  },
+  {
+    "name": "recording_music/_ku4uyTd8vs_000022_000032",
+    "label": 384
+  },
+  {
+    "name": "drop_kicking/FWAcc8a1MQU_000002_000012",
+    "label": 184
+  },
+  {
+    "name": "faceplanting/oxTCMYOiC-E_000001_000011",
+    "label": 148
+  },
+  {
+    "name": "ski_jumping/H8kFHXs3moU_000000_000010",
+    "label": 397
+  },
+  {
+    "name": "shoveling_snow/6vJCKACIO4k_000000_000010",
+    "label": 335
+  },
+  {
+    "name": "hammer_throw/YEVMHKvRV0w_000022_000032",
+    "label": 13
+  },
+  {
+    "name": "playing_accordion/9Bugi4uUgKw_000022_000032",
+    "label": 56
+  },
+  {
+    "name": "waxing_legs/0YqAhW904L0_000013_000023",
+    "label": 228
+  },
+  {
+    "name": "sneezing/D4KKLCF6Rgk_000037_000047",
+    "label": 356
+  },
+  {
+    "name": "setting_table/2Po6jyPRtlU_000151_000161",
+    "label": 16
+  },
+  {
+    "name": "bending_back/75HiO7H9BJ4_000003_000013",
+    "label": 363
+  },
+  {
+    "name": "playing_recorder/SD8uW1R_AVE_000003_000013",
+    "label": 309
+  },
+  {
+    "name": "long_jump/K7SB3h5nwvo_000356_000366",
+    "label": 33
+  },
+  {
+    "name": "ripping_paper/_oYfq687Gos_000000_000010",
+    "label": 296
+  },
+  {
+    "name": "tobogganing/03bjtsA_ZNg_000001_000011",
+    "label": 145
+  },
+  {
+    "name": "snowkiting/15zLkgRVwOw_000095_000105",
+    "label": 362
+  },
+  {
+    "name": "tossing_salad/63t4HVoBqB4_000001_000011",
+    "label": 361
+  },
+  {
+    "name": "texting/nQ72IJHnmpU_000027_000037",
+    "label": 193
+  },
+  {
+    "name": "playing_accordion/EQcZeDie9tQ_000057_000067",
+    "label": 56
+  },
+  {
+    "name": "pushing_cart/jZ8IlZwc26E_000000_000010",
+    "label": 74
+  },
+  {
+    "name": "long_jump/X_ghgQf9zAk_000009_000019",
+    "label": 33
+  },
+  {
+    "name": "swing_dancing/ezzmVLn8qQw_000094_000104",
+    "label": 341
+  },
+  {
+    "name": "parasailing/GltXr8oT2u4_000000_000010",
+    "label": 230
+  },
+  {
+    "name": "tobogganing/QSBn6I7sktg_000001_000011",
+    "label": 145
+  },
+  {
+    "name": "fixing_hair/20rBRzMtHUg_000005_000015",
+    "label": 198
+  },
+  {
+    "name": "washing_hands/1YPJT-P3Zo8_000092_000102",
+    "label": 136
+  },
+  {
+    "name": "triple_jump/2UxrvsURNms_000058_000068",
+    "label": 215
+  },
+  {
+    "name": "throwing_axe/kyFku1dl7u4_000000_000010",
+    "label": 137
+  },
+  {
+    "name": "filling_eyebrows/K6Rr1HYDKEQ_000099_000109",
+    "label": 283
+  },
+  {
+    "name": "snowkiting/mmIHdf2p5yk_000000_000010",
+    "label": 362
+  },
+  {
+    "name": "making_snowman/3lwUAOqiIRA_000058_000068",
+    "label": 259
+  },
+  {
+    "name": "playing_xylophone/BLAQ0myEFgA_000237_000247",
+    "label": 87
+  },
+  {
+    "name": "playing_keyboard/lJSN1GtswBM_000009_000019",
+    "label": 268
+  },
+  {
+    "name": "tango_dancing/8u9Va_6Z5To_000057_000067",
+    "label": 385
+  },
+  {
+    "name": "eating_carrots/uc-tu9lIr44_000014_000024",
+    "label": 142
+  },
+  {
+    "name": "making_tea/Ll1j5j7DPBA_000001_000011",
+    "label": 179
+  },
+  {
+    "name": "marching/EcDfCkzLrH0_000004_000014",
+    "label": 174
+  },
+  {
+    "name": "throwing_axe/K0zr1xKM4kk_000015_000025",
+    "label": 137
+  },
+  {
+    "name": "country_line_dancing/Q3fudfjWp-k_000035_000045",
+    "label": 77
+  },
+  {
+    "name": "playing_guitar/xneS_TzKbxs_000094_000104",
+    "label": 155
+  },
+  {
+    "name": "giving_or_receiving_award/OYRw6UPRSa0_000074_000084",
+    "label": 291
+  },
+  {
+    "name": "crawling_baby/q5WXeAfzvfI_000094_000104",
+    "label": 213
+  },
+  {
+    "name": "shot_put/kBsrKPFofdk_000085_000095",
+    "label": 218
+  },
+  {
+    "name": "news_anchoring/pc_Vjpz8Wvg_000020_000030",
+    "label": 132
+  },
+  {
+    "name": "blowing_out_candles/_nfGOghYsMU_000016_000026",
+    "label": 175
+  },
+  {
+    "name": "skateboarding/jtedA2YAJx0_000074_000084",
+    "label": 191
+  },
+  {
+    "name": "climbing_tree/4LP0HGX7QRQ_000004_000014",
+    "label": 209
+  },
+  {
+    "name": "chopping_wood/X0qEqpNY0cs_000013_000023",
+    "label": 199
+  },
+  {
+    "name": "riding_elephant/SaNW9V0VRec_000006_000016",
+    "label": 264
+  },
+  {
+    "name": "hula_hooping/O4KHM3P3rKw_000000_000010",
+    "label": 292
+  },
+  {
+    "name": "tasting_beer/jKCT5fG3Vmo_001026_001036",
+    "label": 390
+  },
+  {
+    "name": "unboxing/tDqvcDA31ac_000065_000075",
+    "label": 53
+  },
+  {
+    "name": "washing_dishes/aRjw4MiL268_000018_000028",
+    "label": 273
+  },
+  {
+    "name": "curling_hair/zwUP0C6zoGo_000329_000339",
+    "label": 314
+  },
+  {
+    "name": "texting/wIk8GQZvJmE_000079_000089",
+    "label": 193
+  },
+  {
+    "name": "sailing/xvNLP53nfZA_000035_000045",
+    "label": 305
+  },
+  {
+    "name": "hitting_baseball/kK4iy4kENjE_000020_000030",
+    "label": 7
+  },
+  {
+    "name": "answering_questions/-g3JhkJRVY4_000333_000343",
+    "label": 252
+  },
+  {
+    "name": "presenting_weather_forecast/tHVTXRpFd4s_000062_000072",
+    "label": 41
+  },
+  {
+    "name": "water_skiing/_KC5vgZjOOY_000056_000066",
+    "label": 245
+  },
+  {
+    "name": "capoeira/iWDK2BcoCFo_000004_000014",
+    "label": 370
+  },
+  {
+    "name": "pushing_cart/W4TL4hyfxtA_000021_000031",
+    "label": 74
+  },
+  {
+    "name": "shaking_hands/gqipcPAVI_0_000000_000010",
+    "label": 327
+  },
+  {
+    "name": "shooting_basketball/LjQXZqUz6Pg_000004_000014",
+    "label": 21
+  },
+  {
+    "name": "curling_hair/baOg76YkmFs_000481_000491",
+    "label": 314
+  },
+  {
+    "name": "playing_basketball/W1rNiEqvxRY_000039_000049",
+    "label": 70
+  },
+  {
+    "name": "playing_bass_guitar/oSqXQc5w7Gs_000007_000017",
+    "label": 103
+  },
+  {
+    "name": "crossing_river/SipaYBc1dBk_000004_000014",
+    "label": 367
+  },
+  {
+    "name": "air_drumming/AvnrSo44k4g_000000_000010",
+    "label": 4
+  },
+  {
+    "name": "folding_clothes/uvHfOHRVqIY_000018_000028",
+    "label": 121
+  },
+  {
+    "name": "sweeping_floor/oYNt73V1BXY_000001_000011",
+    "label": 261
+  },
+  {
+    "name": "hula_hooping/4_XFw-txDMs_000026_000036",
+    "label": 292
+  },
+  {
+    "name": "stretching_arm/mdDc6Z7WhpA_000271_000281",
+    "label": 194
+  },
+  {
+    "name": "smoking/VStX2tCWx70_000019_000029",
+    "label": 64
+  },
+  {
+    "name": "playing_guitar/x7Y2DCIC3SU_000142_000152",
+    "label": 155
+  },
+  {
+    "name": "juggling_soccer_ball/ZNESn1aZ_D4_000051_000061",
+    "label": 355
+  },
+  {
+    "name": "air_drumming/C8LG6sa7JkM_000039_000049",
+    "label": 4
+  },
+  {
+    "name": "playing_paintball/2bzTepo6zeo_000110_000120",
+    "label": 242
+  },
+  {
+    "name": "playing_paintball/XWvjQ0YmP8g_000006_000016",
+    "label": 242
+  },
+  {
+    "name": "pushing_car/qoz7EVe_hWk_000015_000025",
+    "label": 54
+  },
+  {
+    "name": "waxing_eyebrows/AqYSYO8qUOM_000004_000014",
+    "label": 374
+  },
+  {
+    "name": "walking_the_dog/5DoHSvxdcvs_000011_000021",
+    "label": 130
+  },
+  {
+    "name": "cutting_watermelon/MmSRSs8gBMQ_000008_000018",
+    "label": 382
+  },
+  {
+    "name": "sharpening_pencil/8p3LG2nb9Gw_000080_000090",
+    "label": 302
+  },
+  {
+    "name": "crawling_baby/R-CHzvnwdrI_000206_000216",
+    "label": 213
+  },
+  {
+    "name": "climbing_tree/L_77hpLxnpY_000047_000057",
+    "label": 209
+  },
+  {
+    "name": "eating_spaghetti/8_arFs3daVk_000168_000178",
+    "label": 364
+  },
+  {
+    "name": "ice_climbing/vtWdp1ZAMi8_000093_000103",
+    "label": 106
+  },
+  {
+    "name": "tango_dancing/QcSdaKSytYM_000174_000184",
+    "label": 385
+  },
+  {
+    "name": "kicking_field_goal/oXZOgnZTgGU_000001_000011",
+    "label": 266
+  },
+  {
+    "name": "bench_pressing/jxz6cpktV6A_000025_000035",
+    "label": 171
+  },
+  {
+    "name": "folding_paper/luT0ospCyK0_000061_000071",
+    "label": 28
+  },
+  {
+    "name": "belly_dancing/BWTYOGWww7A_000157_000167",
+    "label": 321
+  },
+  {
+    "name": "washing_dishes/lTGK6aTbRys_000031_000041",
+    "label": 273
+  },
+  {
+    "name": "golf_putting/TSGGTZXd0ok_000029_000039",
+    "label": 187
+  },
+  {
+    "name": "pumping_fist/podETBHkcVE_000057_000067",
+    "label": 119
+  },
+  {
+    "name": "bungee_jumping/3smrXEWhQgg_000047_000057",
+    "label": 188
+  },
+  {
+    "name": "sled_dog_racing/8vj4mkA-IXU_000331_000341",
+    "label": 154
+  },
+  {
+    "name": "washing_feet/wdq47cZ1v90_000117_000127",
+    "label": 347
+  },
+  {
+    "name": "sword_fighting/RvfBQinT5qo_000012_000022",
+    "label": 118
+  },
+  {
+    "name": "smoking/cxCF3cQYINw_000000_000010",
+    "label": 64
+  },
+  {
+    "name": "abseiling/DpAPeQ61Gqo_000190_000200",
+    "label": 290
+  },
+  {
+    "name": "texting/emu25nWf2Do_000099_000109",
+    "label": 193
+  },
+  {
+    "name": "bouncing_on_trampoline/LVlwsrunH1c_000199_000209",
+    "label": 152
+  },
+  {
+    "name": "shoveling_snow/l43IgyydvTg_000037_000047",
+    "label": 335
+  },
+  {
+    "name": "petting_animal_(not_cat)/zNCfK0u-tfY_000039_000049",
+    "label": 72
+  },
+  {
+    "name": "playing_xylophone/QArQ9zZ6v4k_000095_000105",
+    "label": 87
+  },
+  {
+    "name": "finger_snapping/q_LAB-FBCME_000072_000082",
+    "label": 117
+  },
+  {
+    "name": "archery/zVjdzax519A_000110_000120",
+    "label": 116
+  },
+  {
+    "name": "tobogganing/vX83hA6Hf8U_000000_000010",
+    "label": 145
+  },
+  {
+    "name": "cutting_watermelon/gyl8xpupuUU_000060_000070",
+    "label": 382
+  },
+  {
+    "name": "motorcycling/sN3du79NQI8_000023_000033",
+    "label": 340
+  },
+  {
+    "name": "catching_or_throwing_frisbee/XZFSCIdjg-E_000009_000019",
+    "label": 344
+  },
+  {
+    "name": "doing_nails/JCLiY9qQMpQ_000004_000014",
+    "label": 250
+  },
+  {
+    "name": "washing_hair/HFHVUxMdwQA_000055_000065",
+    "label": 129
+  },
+  {
+    "name": "crawling_baby/yQaaCH3vTVQ_000048_000058",
+    "label": 213
+  },
+  {
+    "name": "playing_bagpipes/MAEhr5Pmttk_000040_000050",
+    "label": 150
+  },
+  {
+    "name": "playing_violin/eJ6uDyra_hA_000008_000018",
+    "label": 225
+  },
+  {
+    "name": "swimming_butterfly_stroke/MCkuW5cHkoQ_000008_000018",
+    "label": 161
+  },
+  {
+    "name": "gymnastics_tumbling/CiI87x2IopM_000007_000017",
+    "label": 91
+  },
+  {
+    "name": "feeding_birds/obXyMYJUAdU_000053_000063",
+    "label": 241
+  },
+  {
+    "name": "playing_piano/5GML5p3dQxE_000007_000017",
+    "label": 186
+  },
+  {
+    "name": "blasting_sand/Gmd1LRCHhpA_000037_000047",
+    "label": 396
+  },
+  {
+    "name": "riding_mechanical_bull/Pc53OAvbWh0_000019_000029",
+    "label": 140
+  },
+  {
+    "name": "playing_xylophone/c5bI8v3Q9bg_000053_000063",
+    "label": 87
+  },
+  {
+    "name": "diving_cliff/kJfuX5A9pjU_000003_000013",
+    "label": 219
+  },
+  {
+    "name": "punching_person_(boxing)/mWrHcSYa9Gk_000044_000054",
+    "label": 88
+  },
+  {
+    "name": "disc_golfing/Z8Gt7fgXM6k_000032_000042",
+    "label": 68
+  },
+  {
+    "name": "bartending/e0UFrV-cgyg_000241_000251",
+    "label": 183
+  },
+  {
+    "name": "catching_or_throwing_frisbee/aCeBkn7hjbM_000029_000039",
+    "label": 344
+  },
+  {
+    "name": "milking_cow/hWCA3iIlSP8_000014_000024",
+    "label": 318
+  },
+  {
+    "name": "playing_basketball/BfR7FNo0uyY_000018_000028",
+    "label": 70
+  },
+  {
+    "name": "ice_skating/2tC1VrYf8gM_000015_000025",
+    "label": 349
+  },
+  {
+    "name": "dancing_charleston/GilV6uHWL-M_000013_000023",
+    "label": 381
+  },
+  {
+    "name": "making_snowman/ZdXo3Y7aAOE_000070_000080",
+    "label": 259
+  },
+  {
+    "name": "deadlifting/x5mW6O3zlfM_000046_000056",
+    "label": 359
+  },
+  {
+    "name": "crawling_baby/V7fDywM_sCM_000016_000026",
+    "label": 213
+  },
+  {
+    "name": "waxing_legs/0QUUquT2Ao8_000118_000128",
+    "label": 228
+  },
+  {
+    "name": "eating_carrots/rOLV2-u2lx8_000000_000010",
+    "label": 142
+  },
+  {
+    "name": "playing_trumpet/OCbRn1b5ctY_000001_000011",
+    "label": 82
+  },
+  {
+    "name": "skateboarding/M9vxvMSyn6Y_000073_000083",
+    "label": 191
+  },
+  {
+    "name": "clean_and_jerk/rH00cdD_svo_000055_000065",
+    "label": 78
+  },
+  {
+    "name": "using_computer/hex5evEYvYs_000027_000037",
+    "label": 248
+  },
+  {
+    "name": "getting_a_haircut/fmfGY_9ilZ0_000003_000013",
+    "label": 328
+  },
+  {
+    "name": "laying_bricks/bBcRxkfWyRo_000377_000387",
+    "label": 258
+  },
+  {
+    "name": "taking_a_shower/5JTev1xr7LI_000016_000026",
+    "label": 42
+  },
+  {
+    "name": "giving_or_receiving_award/KWkjOIl_ycE_000014_000024",
+    "label": 291
+  },
+  {
+    "name": "feeding_fish/J8Ag-sshxTc_000008_000018",
+    "label": 346
+  },
+  {
+    "name": "jumping_into_pool/CqJGTThNjfc_000000_000010",
+    "label": 391
+  },
+  {
+    "name": "smoking/HqAtxZk4Owk_000024_000034",
+    "label": 64
+  },
+  {
+    "name": "swimming_backstroke/foMX-_STDDc_000043_000053",
+    "label": 254
+  },
+  {
+    "name": "catching_or_throwing_baseball/S_yPj2bRRUs_000019_000029",
+    "label": 139
+  },
+  {
+    "name": "feeding_fish/_dIS0FCZurs_000031_000041",
+    "label": 346
+  },
+  {
+    "name": "golf_chipping/TBAVO2byOyQ_000011_000021",
+    "label": 19
+  },
+  {
+    "name": "getting_a_haircut/KbM1Q8oj4Gw_000000_000010",
+    "label": 328
+  },
+  {
+    "name": "playing_drums/7QIZZ9jg0fA_000201_000211",
+    "label": 295
+  },
+  {
+    "name": "pushing_car/w7audA5S9S8_000000_000010",
+    "label": 54
+  },
+  {
+    "name": "shoveling_snow/DRCUfedhKgM_000037_000047",
+    "label": 335
+  },
+  {
+    "name": "counting_money/0u_WQyfsUa4_000000_000010",
+    "label": 131
+  },
+  {
+    "name": "catching_or_throwing_softball/GHiJb-qQdU4_000006_000016",
+    "label": 343
+  },
+  {
+    "name": "shoveling_snow/-aYH7Dw-Edk_000411_000421",
+    "label": 335
+  },
+  {
+    "name": "filling_eyebrows/LpQI6AX2ykw_000325_000335",
+    "label": 283
+  },
+  {
+    "name": "playing_accordion/qx17E2uoDc4_000168_000178",
+    "label": 56
+  },
+  {
+    "name": "scrambling_eggs/hXa_6qNpzxU_000060_000070",
+    "label": 62
+  },
+  {
+    "name": "kicking_field_goal/ciDk83XMeTk_000110_000120",
+    "label": 266
+  },
+  {
+    "name": "riding_mechanical_bull/jR8UXQUd_2Q_000004_000014",
+    "label": 140
+  },
+  {
+    "name": "getting_a_haircut/0lUXVZCtkxs_000017_000027",
+    "label": 328
+  },
+  {
+    "name": "arranging_flowers/t2X-l9LFXJY_000065_000075",
+    "label": 170
+  },
+  {
+    "name": "waxing_legs/iy_5sRJox7w_000069_000079",
+    "label": 228
+  },
+  {
+    "name": "playing_kickball/dznRFxgO2T8_000072_000082",
+    "label": 111
+  },
+  {
+    "name": "driving_tractor/0NUTcXmBjRs_000068_000078",
+    "label": 286
+  },
+  {
+    "name": "singing/gTeaGN5QgMY_000019_000029",
+    "label": 372
+  },
+  {
+    "name": "kitesurfing/ddYLp1doygA_000104_000114",
+    "label": 316
+  },
+  {
+    "name": "deadlifting/DWhZm0KYBsk_000030_000040",
+    "label": 359
+  },
+  {
+    "name": "catching_or_throwing_frisbee/uXoPZSFG-dg_000001_000011",
+    "label": 344
+  },
+  {
+    "name": "cleaning_floor/L_FqffsxlkU_000032_000042",
+    "label": 44
+  },
+  {
+    "name": "baking_cookies/Ed3c0vGCx0c_000509_000519",
+    "label": 311
+  },
+  {
+    "name": "contact_juggling/uvEo2EW96Hc_000175_000185",
+    "label": 221
+  },
+  {
+    "name": "playing_violin/_l0lYFuLLec_000002_000012",
+    "label": 225
+  },
+  {
+    "name": "gymnastics_tumbling/Hb0CksJayZ4_000002_000012",
+    "label": 91
+  },
+  {
+    "name": "rock_climbing/dAQfHE_UJ80_000042_000052",
+    "label": 144
+  },
+  {
+    "name": "punching_bag/-aOVo-6wAJw_000002_000012",
+    "label": 48
+  },
+  {
+    "name": "flipping_pancake/AAPCBudAyOM_000004_000014",
+    "label": 330
+  },
+  {
+    "name": "dining/QLmg2wM0Mrs_000095_000105",
+    "label": 257
+  },
+  {
+    "name": "push_up/-rIzgTPyzpk_000011_000021",
+    "label": 331
+  },
+  {
+    "name": "skiing_crosscountry/K-Aqb8VT10g_000417_000427",
+    "label": 169
+  },
+  {
+    "name": "waxing_legs/MfOTB0SrND4_000025_000035",
+    "label": 228
+  },
+  {
+    "name": "chopping_wood/Sl2jFNE0M7Y_000157_000167",
+    "label": 199
+  },
+  {
+    "name": "climbing_a_rope/9QkAIfORFZo_000039_000049",
+    "label": 276
+  },
+  {
+    "name": "feeding_birds/didRhyAIAuA_000002_000012",
+    "label": 241
+  },
+  {
+    "name": "capoeira/02haHiGAEWA_000164_000174",
+    "label": 370
+  },
+  {
+    "name": "cleaning_shoes/AZyxCZYXqzY_000070_000080",
+    "label": 392
+  },
+  {
+    "name": "spinning_poi/Loy1qdyWQiA_000004_000014",
+    "label": 158
+  },
+  {
+    "name": "playing_cards/YlxhiJNuDtY_000060_000070",
+    "label": 293
+  },
+  {
+    "name": "marching/FyhPyXAOMNs_000074_000084",
+    "label": 174
+  },
+  {
+    "name": "milking_cow/N_9HS5pyn4g_000000_000010",
+    "label": 318
+  },
+  {
+    "name": "using_segway/RdSiR-FoodE_000297_000307",
+    "label": 96
+  },
+  {
+    "name": "playing_trumpet/vT6w4TZFoXs_000002_000012",
+    "label": 82
+  },
+  {
+    "name": "playing_flute/ZzlFWOCG_5c_000003_000013",
+    "label": 126
+  },
+  {
+    "name": "shot_put/FOocrJwkOfg_000000_000010",
+    "label": 218
+  },
+  {
+    "name": "tossing_coin/-jskAtCipd8_000002_000012",
+    "label": 224
+  },
+  {
+    "name": "diving_cliff/f64NSxBzdfU_000002_000012",
+    "label": 219
+  },
+  {
+    "name": "blowing_out_candles/WpnIPQPnIbs_000033_000043",
+    "label": 175
+  },
+  {
+    "name": "sailing/HQYY3edCwdU_000005_000015",
+    "label": 305
+  },
+  {
+    "name": "hugging/Gh2s9I-2PcA_000012_000022",
+    "label": 337
+  },
+  {
+    "name": "dancing_ballet/LiiWqoPyxSc_000000_000010",
+    "label": 168
+  },
+  {
+    "name": "feeding_birds/GoCwJ18RGn0_000000_000010",
+    "label": 241
+  },
+  {
+    "name": "making_bed/a7hojhg3TC4_000000_000010",
+    "label": 12
+  },
+  {
+    "name": "playing_controller/JfJaw2Djxl0_000022_000032",
+    "label": 84
+  },
+  {
+    "name": "salsa_dancing/ixquDNV9sfM_000007_000017",
+    "label": 57
+  },
+  {
+    "name": "welding/ogto9umTExQ_000277_000287",
+    "label": 30
+  },
+  {
+    "name": "diving_cliff/RDDPZsP3B-A_000013_000023",
+    "label": 219
+  },
+  {
+    "name": "pushing_cart/ymFqvYy1dpc_000017_000027",
+    "label": 74
+  },
+  {
+    "name": "headbutting/x7fZGDLqvMY_000001_000011",
+    "label": 320
+  },
+  {
+    "name": "bungee_jumping/GLdSHv1o-6w_000048_000058",
+    "label": 188
+  },
+  {
+    "name": "watering_plants/3GDoihVKtJU_000051_000061",
+    "label": 95
+  },
+  {
+    "name": "presenting_weather_forecast/oi2lbMJM3FM_000000_000010",
+    "label": 41
+  },
+  {
+    "name": "shredding_paper/iMlgC2wHi6E_000017_000027",
+    "label": 315
+  },
+  {
+    "name": "catching_or_throwing_baseball/dny8-JMnT_k_000026_000036",
+    "label": 139
+  },
+  {
+    "name": "pole_vault/fwQaFPoZgMM_000003_000013",
+    "label": 386
+  },
+  {
+    "name": "peeling_potatoes/zuK24BJBfBE_000089_000099",
+    "label": 43
+  },
+  {
+    "name": "driving_tractor/OXJVQ7SIwaE_000128_000138",
+    "label": 286
+  },
+  {
+    "name": "driving_tractor/IJ2w3EOe0ew_000097_000107",
+    "label": 286
+  },
+  {
+    "name": "pole_vault/ZoN5tkPJcOw_000040_000050",
+    "label": 386
+  },
+  {
+    "name": "kitesurfing/hf2nj3WcKew_000069_000079",
+    "label": 316
+  },
+  {
+    "name": "pushing_cart/C5p1afTlskc_000048_000058",
+    "label": 74
+  },
+  {
+    "name": "using_computer/k_kJj_A3xAU_000042_000052",
+    "label": 248
+  },
+  {
+    "name": "shaking_hands/DVlTcEkBuY8_000008_000018",
+    "label": 327
+  },
+  {
+    "name": "opening_bottle/nZQVvovxTSU_000093_000103",
+    "label": 159
+  },
+  {
+    "name": "playing_flute/XaQIN9vusQs_000046_000056",
+    "label": 126
+  },
+  {
+    "name": "headbutting/6VJNVMl2hWU_000000_000010",
+    "label": 320
+  },
+  {
+    "name": "catching_or_throwing_baseball/bUPlIr8jSeU_000076_000086",
+    "label": 139
+  },
+  {
+    "name": "cartwheeling/xCBzNfaShkA_000000_000010",
+    "label": 27
+  },
+  {
+    "name": "ice_skating/qSOkdUs86GI_000236_000246",
+    "label": 349
+  },
+  {
+    "name": "surfing_crowd/AficHgRp3vc_000077_000087",
+    "label": 147
+  },
+  {
+    "name": "crawling_baby/Wy9mus5K9uU_000036_000046",
+    "label": 213
+  },
+  {
+    "name": "pumping_gas/hdMf2Odj1SQ_000000_000010",
+    "label": 2
+  },
+  {
+    "name": "folding_clothes/5ZJ0T-E-cN8_000112_000122",
+    "label": 121
+  },
+  {
+    "name": "high_jump/pzA38H4RK4M_000000_000010",
+    "label": 123
+  },
+  {
+    "name": "playing_controller/kVdxPpQq-rg_000525_000535",
+    "label": 84
+  },
+  {
+    "name": "getting_a_haircut/0Dso0QYzni0_000006_000016",
+    "label": 328
+  },
+  {
+    "name": "snowkiting/F6UDWIyVHyk_000028_000038",
+    "label": 362
+  },
+  {
+    "name": "swimming_backstroke/SEjYBZuyVvo_000054_000064",
+    "label": 254
+  },
+  {
+    "name": "chopping_wood/KpR6bRjvFmA_000049_000059",
+    "label": 199
+  },
+  {
+    "name": "throwing_discus/q_is4J88tB8_000003_000013",
+    "label": 222
+  },
+  {
+    "name": "playing_recorder/EUD0EshJ5QM_000000_000010",
+    "label": 309
+  },
+  {
+    "name": "playing_recorder/GG5sXMzWQ58_000023_000033",
+    "label": 309
+  },
+  {
+    "name": "drumming_fingers/0nxZe3k3AmI_000034_000044",
+    "label": 204
+  },
+  {
+    "name": "playing_xylophone/pYTA2T1ccTY_000005_000015",
+    "label": 87
+  },
+  {
+    "name": "ski_jumping/dnAxJInifN0_000014_000024",
+    "label": 397
+  },
+  {
+    "name": "dying_hair/IyiXn26Cu_k_000169_000179",
+    "label": 107
+  },
+  {
+    "name": "salsa_dancing/1CDdTJ3dRYM_000063_000073",
+    "label": 57
+  },
+  {
+    "name": "picking_fruit/nAm_I9wY31I_000165_000175",
+    "label": 267
+  },
+  {
+    "name": "cleaning_windows/mcDNwYt46do_000020_000030",
+    "label": 185
+  },
+  {
+    "name": "bungee_jumping/Xzt0myNXqyw_000035_000045",
+    "label": 188
+  },
+  {
+    "name": "canoeing_or_kayaking/ff14HWPBxJ8_000015_000025",
+    "label": 20
+  },
+  {
+    "name": "making_jewelry/zhtOJMyZ2MY_000354_000364",
+    "label": 34
+  },
+  {
+    "name": "cooking_egg/YNFkGtrCpaA_000033_000043",
+    "label": 206
+  },
+  {
+    "name": "petting_cat/iKAUPLgGAXI_000681_000691",
+    "label": 146
+  },
+  {
+    "name": "playing_trumpet/_uMMHCJ09lY_000051_000061",
+    "label": 82
+  },
+  {
+    "name": "finger_snapping/pU00IItPMiI_000142_000152",
+    "label": 117
+  },
+  {
+    "name": "playing_cricket/axAwg3ARI0c_000236_000246",
+    "label": 380
+  },
+  {
+    "name": "playing_accordion/nZ6DSUCJTX0_000113_000123",
+    "label": 56
+  },
+  {
+    "name": "sharpening_pencil/oRdJQ_A-U74_000051_000061",
+    "label": 302
+  },
+  {
+    "name": "motorcycling/yKyljq68rTY_000164_000174",
+    "label": 340
+  },
+  {
+    "name": "sweeping_floor/2uEU-2LRmMk_000016_000026",
+    "label": 261
+  },
+  {
+    "name": "training_dog/JDfRND3HgR8_000022_000032",
+    "label": 379
+  },
+  {
+    "name": "vault/M6RSvr1d8bI_000002_000012",
+    "label": 210
+  },
+  {
+    "name": "doing_nails/V1ziwL0LlzM_000085_000095",
+    "label": 250
+  },
+  {
+    "name": "counting_money/Ow4THqAfTtY_000001_000011",
+    "label": 131
+  },
+  {
+    "name": "cleaning_toilet/XO4eYrXVkXw_000015_000025",
+    "label": 262
+  },
+  {
+    "name": "blowing_out_candles/0eQb87i18v0_000017_000027",
+    "label": 175
+  },
+  {
+    "name": "welding/i8zCd8JKJ9k_000040_000050",
+    "label": 30
+  },
+  {
+    "name": "playing_tennis/919BZ31uIlU_000099_000109",
+    "label": 277
+  },
+  {
+    "name": "waxing_legs/txVMvWDaMp0_000079_000089",
+    "label": 228
+  },
+  {
+    "name": "shaking_head/lBzz5Bkgnm8_000000_000010",
+    "label": 101
+  },
+  {
+    "name": "swimming_butterfly_stroke/mRdig_nLd_I_000014_000024",
+    "label": 161
+  },
+  {
+    "name": "hula_hooping/eJGPOq-hMKw_000004_000014",
+    "label": 292
+  },
+  {
+    "name": "spinning_poi/yjhQeb5k-g8_000058_000068",
+    "label": 158
+  },
+  {
+    "name": "baby_waking_up/_K8SThimKj8_000001_000011",
+    "label": 9
+  },
+  {
+    "name": "jumpstyle_dancing/UnahetvXrnE_000015_000025",
+    "label": 255
+  },
+  {
+    "name": "dying_hair/9NG_SQbYqtQ_000059_000069",
+    "label": 107
+  },
+  {
+    "name": "opening_bottle/0xoo3cByDYM_000031_000041",
+    "label": 159
+  },
+  {
+    "name": "pushing_cart/GP9sjYW6058_000017_000027",
+    "label": 74
+  },
+  {
+    "name": "rock_climbing/EDjZ3azjOPw_000003_000013",
+    "label": 144
+  },
+  {
+    "name": "dancing_gangnam_style/mxPxOJoU7pQ_000087_000097",
+    "label": 395
+  },
+  {
+    "name": "passing_American_football_(in_game)/E_iPzpgw8xo_000020_000030",
+    "label": 151
+  },
+  {
+    "name": "smoking/B2Ew3BC_6H8_000134_000144",
+    "label": 64
+  },
+  {
+    "name": "plastering/uNislrCt02c_000209_000219",
+    "label": 67
+  },
+  {
+    "name": "cheerleading/6hSi3NhBnGg_000157_000167",
+    "label": 202
+  },
+  {
+    "name": "playing_squash_or_racquetball/q7gT_VeOoWk_000161_000171",
+    "label": 270
+  },
+  {
+    "name": "snowboarding/KxOm-YPl4aA_000236_000246",
+    "label": 92
+  },
+  {
+    "name": "surfing_water/ZKe14sGV5DU_000098_000108",
+    "label": 366
+  },
+  {
+    "name": "catching_fish/xMFayFQqDmw_000040_000050",
+    "label": 348
+  },
+  {
+    "name": "eating_spaghetti/6Wk0iXwsJsk_000039_000049",
+    "label": 364
+  },
+  {
+    "name": "scuba_diving/l_K98osVk2Y_000102_000112",
+    "label": 226
+  },
+  {
+    "name": "playing_clarinet/A79-HCNzCfY_000453_000463",
+    "label": 36
+  },
+  {
+    "name": "zumba/G9maRqamIYQ_000021_000031",
+    "label": 299
+  },
+  {
+    "name": "punching_bag/Bs2mMaqrXzo_000003_000013",
+    "label": 48
+  },
+  {
+    "name": "bouncing_on_trampoline/n-LilCVOcn8_000089_000099",
+    "label": 152
+  },
+  {
+    "name": "recording_music/ZvmkI1g8nSU_000001_000011",
+    "label": 384
+  },
+  {
+    "name": "filling_eyebrows/Xulp9TIb11Y_000159_000169",
+    "label": 283
+  },
+  {
+    "name": "javelin_throw/Ii6gGcVyLrU_000037_000047",
+    "label": 243
+  },
+  {
+    "name": "bench_pressing/Kti6wMnJYrU_000000_000010",
+    "label": 171
+  },
+  {
+    "name": "golf_putting/YE2d2kwcbjY_000002_000012",
+    "label": 187
+  },
+  {
+    "name": "swimming_backstroke/v9MTXaODZv4_000090_000100",
+    "label": 254
+  },
+  {
+    "name": "catching_or_throwing_baseball/DJKfqatZB3c_000030_000040",
+    "label": 139
+  },
+  {
+    "name": "slapping/rH5JGpvDV30_000000_000010",
+    "label": 325
+  },
+  {
+    "name": "busking/nl2a4VFr3zQ_000247_000257",
+    "label": 269
+  },
+  {
+    "name": "abseiling/XsEw1vd32l8_000052_000062",
+    "label": 290
+  },
+  {
+    "name": "golf_chipping/UMxZuJNyoq8_000044_000054",
+    "label": 19
+  },
+  {
+    "name": "playing_organ/idnF8pI8vX0_000000_000010",
+    "label": 26
+  },
+  {
+    "name": "sword_fighting/2niNGGRmwuM_000040_000050",
+    "label": 118
+  },
+  {
+    "name": "weaving_basket/zvuKkHbcliQ_000523_000533",
+    "label": 189
+  },
+  {
+    "name": "playing_recorder/OT_uQqmNVK8_000029_000039",
+    "label": 309
+  },
+  {
+    "name": "riding_mule/APNhiKmRAXM_000011_000021",
+    "label": 94
+  },
+  {
+    "name": "feeding_birds/nkxJQk-mt_g_000116_000126",
+    "label": 241
+  },
+  {
+    "name": "sweeping_floor/cvRSDEzQD3E_000000_000010",
+    "label": 261
+  },
+  {
+    "name": "shooting_goal_(soccer)/_HwRj4wmY3U_000199_000209",
+    "label": 135
+  },
+  {
+    "name": "high_jump/prWKG5eDll4_000002_000012",
+    "label": 123
+  },
+  {
+    "name": "swing_dancing/zkrWUj-zYTc_000000_000010",
+    "label": 341
+  },
+  {
+    "name": "egg_hunting/5IqQ7eXFjK8_000026_000036",
+    "label": 75
+  },
+  {
+    "name": "eating_spaghetti/fyJLmkZOlA4_000003_000013",
+    "label": 364
+  },
+  {
+    "name": "running_on_treadmill/xCOokxng-94_000002_000012",
+    "label": 376
+  },
+  {
+    "name": "spraying/R2Be-l-2PuQ_000047_000057",
+    "label": 63
+  },
+  {
+    "name": "robot_dancing/eWTk_kqIRyo_000074_000084",
+    "label": 133
+  },
+  {
+    "name": "catching_or_throwing_softball/rv60gmato-E_000020_000030",
+    "label": 343
+  },
+  {
+    "name": "lunge/_y7u8yLVeOI_000023_000033",
+    "label": 239
+  },
+  {
+    "name": "bowling/0H7GPGkV9Mg_000006_000016",
+    "label": 125
+  },
+  {
+    "name": "playing_violin/NUeaozD1xig_000041_000051",
+    "label": 225
+  },
+  {
+    "name": "eating_cake/S-zKcLAfwp8_000254_000264",
+    "label": 25
+  },
+  {
+    "name": "dribbling_basketball/gZyu2WqRCAI_000001_000011",
+    "label": 105
+  },
+  {
+    "name": "throwing_discus/phFgPYeIbjU_000008_000018",
+    "label": 222
+  },
+  {
+    "name": "cheerleading/WCs5jjZsSkc_000035_000045",
+    "label": 202
+  },
+  {
+    "name": "getting_a_haircut/gn_1CaOiGGM_000054_000064",
+    "label": 328
+  },
+  {
+    "name": "playing_drums/-3Esu7rw6DM_000103_000113",
+    "label": 295
+  },
+  {
+    "name": "pull_ups/DM7V1XOoITg_000075_000085",
+    "label": 352
+  },
+  {
+    "name": "giving_or_receiving_award/s8U9JBJTm40_000162_000172",
+    "label": 291
+  },
+  {
+    "name": "applying_cream/HLd0x0WLMwQ_000010_000020",
+    "label": 61
+  },
+  {
+    "name": "dribbling_basketball/o8U7PWt0Cy4_000014_000024",
+    "label": 105
+  },
+  {
+    "name": "gymnastics_tumbling/0A7D2NFvs0I_000028_000038",
+    "label": 91
+  },
+  {
+    "name": "playing_trombone/PVvSDZMvyoE_000037_000047",
+    "label": 17
+  },
+  {
+    "name": "eating_spaghetti/N-JYGijM6W8_000029_000039",
+    "label": 364
+  },
+  {
+    "name": "crying/K-zJddf5FFA_000148_000158",
+    "label": 368
+  },
+  {
+    "name": "sailing/PInnDL9nx7k_001371_001381",
+    "label": 305
+  },
+  {
+    "name": "eating_burger/uizQFvBWL3Y_000059_000069",
+    "label": 322
+  },
+  {
+    "name": "skiing_(not_slalom_or_crosscountry)/0gTtqi2IkAg_000100_000110",
+    "label": 128
+  },
+  {
+    "name": "carrying_baby/JYJ6qZ2DevY_000068_000078",
+    "label": 85
+  },
+  {
+    "name": "situp/FlOcNnoDZos_000007_000017",
+    "label": 192
+  },
+  {
+    "name": "feeding_fish/szWoY26xlHY_000078_000088",
+    "label": 346
+  },
+  {
+    "name": "cooking_sausages/tW1PaH7Nof0_000024_000034",
+    "label": 217
+  },
+  {
+    "name": "gymnastics_tumbling/K7qi-tZB8-0_000037_000047",
+    "label": 91
+  },
+  {
+    "name": "washing_hands/RpAsHk3b6Z8_000003_000013",
+    "label": 136
+  },
+  {
+    "name": "shaving_legs/H8m5_uuF3P0_000110_000120",
+    "label": 339
+  },
+  {
+    "name": "zumba/GbG6bqJMqyo_000282_000292",
+    "label": 299
+  },
+  {
+    "name": "diving_cliff/pHg9jMAoTGg_000012_000022",
+    "label": 219
+  },
+  {
+    "name": "kicking_field_goal/Z4wsXIMHGlI_000000_000010",
+    "label": 266
+  },
+  {
+    "name": "playing_cricket/ZbtiL4g-Gv8_000001_000011",
+    "label": 380
+  },
+  {
+    "name": "flying_kite/25wVJiSAJFU_000020_000030",
+    "label": 354
+  },
+  {
+    "name": "crossing_river/I3ie7sIJ9I8_000061_000071",
+    "label": 367
+  },
+  {
+    "name": "eating_watermelon/JqWC-OX_iYI_000130_000140",
+    "label": 37
+  },
+  {
+    "name": "contact_juggling/HNqgkMqmBQg_000000_000010",
+    "label": 221
+  },
+  {
+    "name": "petting_animal_(not_cat)/pF2kA9Gnius_000040_000050",
+    "label": 72
+  },
+  {
+    "name": "pushing_car/4p-7jLPkk0g_000001_000011",
+    "label": 54
+  },
+  {
+    "name": "diving_cliff/rUIJz5L30ss_000000_000010",
+    "label": 219
+  },
+  {
+    "name": "zumba/1q2cGKgZbqQ_000043_000053",
+    "label": 299
+  },
+  {
+    "name": "getting_a_tattoo/nliKsScsbNA_000442_000452",
+    "label": 29
+  },
+  {
+    "name": "tobogganing/Syxp0_oKyBs_000033_000043",
+    "label": 145
+  },
+  {
+    "name": "shooting_goal_(soccer)/5kkT3rKh1NY_000002_000012",
+    "label": 135
+  },
+  {
+    "name": "filling_eyebrows/tulrGF96QwA_000329_000339",
+    "label": 283
+  },
+  {
+    "name": "unboxing/DuwZCZsZcLw_000000_000010",
+    "label": 53
+  },
+  {
+    "name": "bandaging/BKts5TkA7Uc_000106_000116",
+    "label": 115
+  },
+  {
+    "name": "waxing_legs/tg6HOGy0BBQ_000144_000154",
+    "label": 228
+  },
+  {
+    "name": "sticking_tongue_out/9a_PL7tDFFA_000034_000044",
+    "label": 1
+  },
+  {
+    "name": "jetskiing/4qlXmWKyxtg_000098_000108",
+    "label": 247
+  },
+  {
+    "name": "playing_bagpipes/GWWgIIlr3is_000003_000013",
+    "label": 150
+  },
+  {
+    "name": "answering_questions/SZWOuiHrPOU_000016_000026",
+    "label": 252
+  },
+  {
+    "name": "throwing_axe/fOgqDzuVfBg_000000_000010",
+    "label": 137
+  },
+  {
+    "name": "playing_guitar/xXQeLqHOukQ_000217_000227",
+    "label": 155
+  },
+  {
+    "name": "pull_ups/sw7nPVQ88Vg_000000_000010",
+    "label": 352
+  },
+  {
+    "name": "playing_bagpipes/t5uCzawdiYQ_000123_000133",
+    "label": 150
+  },
+  {
+    "name": "snatch_weight_lifting/H_QjmILm5HQ_000013_000023",
+    "label": 389
+  },
+  {
+    "name": "capoeira/k0pDKMw66CY_000013_000023",
+    "label": 370
+  },
+  {
+    "name": "situp/l8qur6kQQMs_000037_000047",
+    "label": 192
+  },
+  {
+    "name": "snowkiting/dcPKNaCuGVc_000001_000011",
+    "label": 362
+  },
+  {
+    "name": "catching_or_throwing_softball/5KPs8zKLKtA_000015_000025",
+    "label": 343
+  },
+  {
+    "name": "throwing_ball/YIiPLFhM_uE_000004_000014",
+    "label": 271
+  },
+  {
+    "name": "punching_bag/RrKYPFb0V5Y_000003_000013",
+    "label": 48
+  },
+  {
+    "name": "tying_knot_(not_on_a_tie)/jwIB9wuheSM_000039_000049",
+    "label": 307
+  },
+  {
+    "name": "hitting_baseball/mjmVbAcUeVU_000057_000067",
+    "label": 7
+  },
+  {
+    "name": "sticking_tongue_out/69ch3X6Frpg_000013_000023",
+    "label": 1
+  },
+  {
+    "name": "shaving_head/_4oxxQeQ2aM_000300_000310",
+    "label": 319
+  },
+  {
+    "name": "cleaning_gutters/znOu2XK3Q9I_000108_000118",
+    "label": 240
+  },
+  {
+    "name": "stretching_leg/Jc8d0qmLKyA_000050_000060",
+    "label": 164
+  },
+  {
+    "name": "feeding_fish/ndgkpowUvdk_000002_000012",
+    "label": 346
+  },
+  {
+    "name": "making_tea/YyLvhig5ZPE_000274_000284",
+    "label": 179
+  },
+  {
+    "name": "breading_or_breadcrumbing/TsPWyH2z69s_000107_000117",
+    "label": 399
+  },
+  {
+    "name": "changing_wheel/xkY6XaN_GKs_000042_000052",
+    "label": 324
+  },
+  {
+    "name": "sailing/yQaHo3XGEy0_000012_000022",
+    "label": 305
+  },
+  {
+    "name": "scuba_diving/huGh2z5ztyg_000053_000063",
+    "label": 226
+  },
+  {
+    "name": "swinging_on_something/TR06jtVhvGk_000070_000080",
+    "label": 89
+  },
+  {
+    "name": "playing_bagpipes/9MYIMsHZmvE_000001_000011",
+    "label": 150
+  },
+  {
+    "name": "riding_elephant/Po1m8mPd6No_000055_000065",
+    "label": 264
+  },
+  {
+    "name": "yoga/A74BpTDeovU_000107_000117",
+    "label": 353
+  },
+  {
+    "name": "playing_chess/ZG1kJxXlSR0_000001_000011",
+    "label": 5
+  },
+  {
+    "name": "diving_cliff/PtE7m_TkMl0_000030_000040",
+    "label": 219
+  },
+  {
+    "name": "crossing_river/OJYKv5nb-70_000023_000033",
+    "label": 367
+  },
+  {
+    "name": "trapezing/HWGPwNrJuTs_000075_000085",
+    "label": 238
+  },
+  {
+    "name": "smoking_hookah/q29zaB9rJe0_000000_000010",
+    "label": 24
+  },
+  {
+    "name": "opening_present/WpIrPpkqxis_000096_000106",
+    "label": 51
+  },
+  {
+    "name": "sneezing/c2qSlekEOYI_000008_000018",
+    "label": 356
+  },
+  {
+    "name": "baking_cookies/OSaP0HsK1AM_000101_000111",
+    "label": 311
+  },
+  {
+    "name": "cleaning_pool/cppB5kHAAJE_000026_000036",
+    "label": 47
+  },
+  {
+    "name": "blowing_glass/iTFMlmOu6O8_000063_000073",
+    "label": 124
+  },
+  {
+    "name": "playing_recorder/uRi3F5rmXIw_000016_000026",
+    "label": 309
+  },
+  {
+    "name": "shaving_head/NXWP9jV5bcs_000140_000150",
+    "label": 319
+  },
+  {
+    "name": "shot_put/dFst0CtNlyU_000012_000022",
+    "label": 218
+  },
+  {
+    "name": "snorkeling/-mhDeqhDpuk_000031_000041",
+    "label": 297
+  },
+  {
+    "name": "tapping_pen/ZNQf1VERDz8_000010_000020",
+    "label": 394
+  },
+  {
+    "name": "sharpening_pencil/OpHu6tW3Bcc_000020_000030",
+    "label": 302
+  },
+  {
+    "name": "tossing_salad/bhQVD9YarWs_000178_000188",
+    "label": 361
+  },
+  {
+    "name": "catching_fish/_zs48HD0x5w_000090_000100",
+    "label": 348
+  },
+  {
+    "name": "cartwheeling/5Hz92oN_T9Y_000003_000013",
+    "label": 27
+  },
+  {
+    "name": "making_pizza/iI4HVcKwA5A_000001_000011",
+    "label": 300
+  },
+  {
+    "name": "playing_cards/TqaZaiT6Owo_000155_000165",
+    "label": 293
+  },
+  {
+    "name": "gymnastics_tumbling/ijqRR2AEhTU_000003_000013",
+    "label": 91
+  },
+  {
+    "name": "flying_kite/HhAXEZ2RWic_000000_000010",
+    "label": 354
+  },
+  {
+    "name": "driving_car/LC5ld79joIA_000000_000010",
+    "label": 287
+  },
+  {
+    "name": "tapping_guitar/NF_66ns0NJg_000032_000042",
+    "label": 275
+  },
+  {
+    "name": "jumpstyle_dancing/EFKwjTqHmiQ_000058_000068",
+    "label": 255
+  },
+  {
+    "name": "trimming_or_shaving_beard/EoSABtLjlqs_000087_000097",
+    "label": 393
+  },
+  {
+    "name": "drumming_fingers/FV6DtMjmj-8_000145_000155",
+    "label": 204
+  },
+  {
+    "name": "scuba_diving/j4OmdiVsubo_000059_000069",
+    "label": 226
+  },
+  {
+    "name": "stretching_leg/z3S_VzWmxw4_000024_000034",
+    "label": 164
+  },
+  {
+    "name": "balloon_blowing/Nr91kRm2fJo_000702_000712",
+    "label": 284
+  },
+  {
+    "name": "washing_feet/GzJNlwx222o_000133_000143",
+    "label": 347
+  },
+  {
+    "name": "plastering/91hhw-QdgXA_000025_000035",
+    "label": 67
+  },
+  {
+    "name": "folding_paper/mAIv38UjyoU_000040_000050",
+    "label": 28
+  },
+  {
+    "name": "writing/l49PjI8w0UY_000260_000270",
+    "label": 149
+  },
+  {
+    "name": "pushing_car/SwmH_SwZR0o_000181_000191",
+    "label": 54
+  },
+  {
+    "name": "eating_hotdog/cld7yGRdIDY_000003_000013",
+    "label": 358
+  },
+  {
+    "name": "hitting_baseball/3LqqSpinRYQ_000004_000014",
+    "label": 7
+  },
+  {
+    "name": "eating_ice_cream/yAjtJ_OJVSk_000003_000013",
+    "label": 156
+  },
+  {
+    "name": "drumming_fingers/3RRC8t9CBDc_000001_000011",
+    "label": 204
+  },
+  {
+    "name": "trapezing/EVUqQ_4D0bI_000051_000061",
+    "label": 238
+  },
+  {
+    "name": "curling_hair/YdNKY2mqVsg_000092_000102",
+    "label": 314
+  },
+  {
+    "name": "crossing_river/oHIZsglpVHM_000000_000010",
+    "label": 367
+  },
+  {
+    "name": "skateboarding/OWQJJC2H3_M_000033_000043",
+    "label": 191
+  },
+  {
+    "name": "shaking_head/zac4Ty39dok_000041_000051",
+    "label": 101
+  },
+  {
+    "name": "drinking_beer/YMEK4TkCTGg_000008_000018",
+    "label": 235
+  },
+  {
+    "name": "skipping_rope/3kPmuDnNDqA_000099_000109",
+    "label": 279
+  },
+  {
+    "name": "blowing_out_candles/k6K1JjOQ7bs_000033_000043",
+    "label": 175
+  },
+  {
+    "name": "waxing_eyebrows/UINstjxmUGc_000000_000010",
+    "label": 374
+  },
+  {
+    "name": "playing_cymbals/SK28iVnPkJ0_000854_000864",
+    "label": 336
+  },
+  {
+    "name": "bandaging/MRfToHJgJxM_000288_000298",
+    "label": 115
+  },
+  {
+    "name": "reading_book/Y2eIultRORk_001336_001346",
+    "label": 246
+  },
+  {
+    "name": "slapping/ooIDaC571gc_000004_000014",
+    "label": 325
+  },
+  {
+    "name": "shaving_legs/6NteqNKOm-4_000002_000012",
+    "label": 339
+  },
+  {
+    "name": "making_jewelry/sSMzf1qakug_000076_000086",
+    "label": 34
+  },
+  {
+    "name": "kicking_field_goal/UFWlVTxCv1E_000084_000094",
+    "label": 266
+  },
+  {
+    "name": "playing_ukulele/fwPTsPApp3c_000024_000034",
+    "label": 280
+  },
+  {
+    "name": "climbing_tree/NwALs1cTF0A_000225_000235",
+    "label": 209
+  },
+  {
+    "name": "baby_waking_up/vgVvA7yXReE_000007_000017",
+    "label": 9
+  },
+  {
+    "name": "motorcycling/NStTmUXQ_kQ_000087_000097",
+    "label": 340
+  },
+  {
+    "name": "headbanging/9rEFct1-YWk_000075_000085",
+    "label": 138
+  },
+  {
+    "name": "eating_spaghetti/bIg_U8fB20g_000040_000050",
+    "label": 364
+  },
+  {
+    "name": "shuffling_cards/X-d3EVNh9TE_000003_000013",
+    "label": 285
+  },
+  {
+    "name": "carving_pumpkin/NbJJDNSB6cc_000061_000071",
+    "label": 83
+  },
+  {
+    "name": "feeding_birds/oF_Lq73TJVo_000024_000034",
+    "label": 241
+  },
+  {
+    "name": "playing_harmonica/4kZVhI_SJ6I_000009_000019",
+    "label": 59
+  },
+  {
+    "name": "yoga/YnMMMWcB8mw_000234_000244",
+    "label": 353
+  },
+  {
+    "name": "jumping_into_pool/8g9wVi9U0PE_000000_000010",
+    "label": 391
+  },
+  {
+    "name": "playing_volleyball/r5jWGpW6NO0_000104_000114",
+    "label": 172
+  },
+  {
+    "name": "hitting_baseball/2YW5CVm4jvs_000002_000012",
+    "label": 7
+  },
+  {
+    "name": "smoking/tiZs2RH65i4_000045_000055",
+    "label": 64
+  },
+  {
+    "name": "whistling/wdqGyDmkKPE_000009_000019",
+    "label": 342
+  },
+  {
+    "name": "motorcycling/SajIE3C3LRk_000032_000042",
+    "label": 340
+  },
+  {
+    "name": "playing_recorder/_r8rdNOUAiw_000012_000022",
+    "label": 309
+  },
+  {
+    "name": "ski_jumping/JUU7VujGkFA_000004_000014",
+    "label": 397
+  },
+  {
+    "name": "playing_ice_hockey/dFiJAoWC9tk_000136_000146",
+    "label": 278
+  },
+  {
+    "name": "shaving_legs/BETmyHqvAyc_000024_000034",
+    "label": 339
+  },
+  {
+    "name": "surfing_crowd/znlFeBEL9iU_000007_000017",
+    "label": 147
+  },
+  {
+    "name": "spinning_poi/dRav1YPpTds_000055_000065",
+    "label": 158
+  },
+  {
+    "name": "taking_a_shower/8Mply8H4FmU_000031_000041",
+    "label": 42
+  },
+  {
+    "name": "trapezing/U5iV3LOhRfQ_000001_000011",
+    "label": 238
+  },
+  {
+    "name": "playing_accordion/PVNAGGsZqHM_000026_000036",
+    "label": 56
+  },
+  {
+    "name": "capoeira/SNLOAGWu7A0_000006_000016",
+    "label": 370
+  },
+  {
+    "name": "busking/eXKwvE3FKhA_000005_000015",
+    "label": 269
+  },
+  {
+    "name": "playing_paintball/9k39HZ4NiV0_000107_000117",
+    "label": 242
+  },
+  {
+    "name": "folding_napkins/RVoC19C420Y_000031_000041",
+    "label": 112
+  },
+  {
+    "name": "punching_person_(boxing)/mrg-7qutWmQ_000052_000062",
+    "label": 88
+  },
+  {
+    "name": "robot_dancing/EdDX85ytsyo_000000_000010",
+    "label": 133
+  },
+  {
+    "name": "playing_clarinet/iUVBSDPawDw_000218_000228",
+    "label": 36
+  },
+  {
+    "name": "air_drumming/VA9_S-HlRuM_000057_000067",
+    "label": 4
+  },
+  {
+    "name": "throwing_ball/_vD8Ke1l_CM_000004_000014",
+    "label": 271
+  },
+  {
+    "name": "crying/6KQEGTfY3B8_000018_000028",
+    "label": 368
+  },
+  {
+    "name": "hockey_stop/Y5TPr-HxmbI_000006_000016",
+    "label": 8
+  },
+  {
+    "name": "feeding_fish/yoY5C2e1kRM_000009_000019",
+    "label": 346
+  },
+  {
+    "name": "feeding_fish/RwbdoFy5Gjo_000038_000048",
+    "label": 346
+  },
+  {
+    "name": "making_bed/4A3lg2hj8-E_000101_000111",
+    "label": 12
+  },
+  {
+    "name": "sharpening_pencil/sUfiTu3bdQ8_000003_000013",
+    "label": 302
+  },
+  {
+    "name": "sailing/HjIrATWxpPI_000011_000021",
+    "label": 305
+  },
+  {
+    "name": "paragliding/GvIfaZGyPjg_000011_000021",
+    "label": 263
+  },
+  {
+    "name": "playing_didgeridoo/H7DlOkfEaH0_000090_000100",
+    "label": 350
+  },
+  {
+    "name": "marching/l36OECBC5ww_000059_000069",
+    "label": 174
+  },
+  {
+    "name": "watering_plants/I3H9wZDbNok_000079_000089",
+    "label": 95
+  },
+  {
+    "name": "writing/1W2-thF1RX8_000076_000086",
+    "label": 149
+  },
+  {
+    "name": "dancing_ballet/kK4CrT8DvXA_000032_000042",
+    "label": 168
+  },
+  {
+    "name": "tobogganing/ArYXbtwb92Y_000004_000014",
+    "label": 145
+  },
+  {
+    "name": "roller_skating/gkCrM-ZpVFo_000206_000216",
+    "label": 18
+  },
+  {
+    "name": "tying_tie/Xtw2eCywJAk_000101_000111",
+    "label": 167
+  },
+  {
+    "name": "shearing_sheep/zkgAHQ61kWo_000113_000123",
+    "label": 233
+  },
+  {
+    "name": "doing_nails/DpoFpd9dT5Y_000104_000114",
+    "label": 250
+  },
+  {
+    "name": "barbequing/a4m4L6USE_I_000180_000190",
+    "label": 90
+  },
+  {
+    "name": "barbequing/wCep5Gi6f88_000822_000832",
+    "label": 90
+  },
+  {
+    "name": "hitting_baseball/m5HeRYmd82o_000089_000099",
+    "label": 7
+  },
+  {
+    "name": "filling_eyebrows/5hEsZ1gXkjY_000319_000329",
+    "label": 283
+  },
+  {
+    "name": "grooming_horse/qCkc2mmZ_I4_000001_000011",
+    "label": 141
+  },
+  {
+    "name": "playing_ice_hockey/hkC-BscQ5qo_000079_000089",
+    "label": 278
+  },
+  {
+    "name": "dancing_gangnam_style/C_AnnNpzZDo_000246_000256",
+    "label": 395
+  },
+  {
+    "name": "canoeing_or_kayaking/amqajbjKa9c_000045_000055",
+    "label": 20
+  },
+  {
+    "name": "bandaging/MGu0YFo3Zgg_000025_000035",
+    "label": 115
+  },
+  {
+    "name": "side_kick/uAS0uTZB_ek_000073_000083",
+    "label": 98
+  },
+  {
+    "name": "throwing_discus/oMDCkEI6iHs_000007_000017",
+    "label": 222
+  },
+  {
+    "name": "recording_music/hkL7zuHsOzM_000002_000012",
+    "label": 384
+  },
+  {
+    "name": "trimming_trees/1AlSW6WX_hk_000002_000012",
+    "label": 195
+  },
+  {
+    "name": "playing_drums/dF4jpY1p8Qc_000028_000038",
+    "label": 295
+  },
+  {
+    "name": "cheerleading/8Sfwcrj8UZA_000134_000144",
+    "label": 202
+  },
+  {
+    "name": "dining/LlidkVkMJqc_000137_000147",
+    "label": 257
+  },
+  {
+    "name": "using_segway/rnuVhK-AIGg_000030_000040",
+    "label": 96
+  },
+  {
+    "name": "blowing_glass/28BR7xzS-l4_000044_000054",
+    "label": 124
+  },
+  {
+    "name": "filling_eyebrows/RVfVmrzUrf4_000092_000102",
+    "label": 283
+  },
+  {
+    "name": "feeding_birds/D_O3RcS_AcQ_000007_000017",
+    "label": 241
+  },
+  {
+    "name": "carrying_baby/_ztr_sNy4mI_000053_000063",
+    "label": 85
+  },
+  {
+    "name": "bouncing_on_trampoline/c3_5L2kCFYY_000284_000294",
+    "label": 152
+  },
+  {
+    "name": "air_drumming/JSecEBjkUdY_000151_000161",
+    "label": 4
+  },
+  {
+    "name": "opening_bottle/O5NjIGcK8S4_000011_000021",
+    "label": 159
+  },
+  {
+    "name": "cleaning_floor/8OrfaWbzZEw_000106_000116",
+    "label": 44
+  },
+  {
+    "name": "taking_a_shower/BAV1X8R-ZLc_000038_000048",
+    "label": 42
+  },
+  {
+    "name": "push_up/NMYGQqZm3fo_000001_000011",
+    "label": 331
+  },
+  {
+    "name": "spinning_poi/f5_XSYyVXXI_000063_000073",
+    "label": 158
+  },
+  {
+    "name": "playing_organ/wWVMjmQFACU_000069_000079",
+    "label": 26
+  },
+  {
+    "name": "ironing/HixHqevqN_w_000197_000207",
+    "label": 182
+  },
+  {
+    "name": "flying_kite/l3Ysp2i65E0_000007_000017",
+    "label": 354
+  },
+  {
+    "name": "smoking/XwAO3dlYj2o_000001_000011",
+    "label": 64
+  },
+  {
+    "name": "swimming_backstroke/hjONYhNpHbo_000040_000050",
+    "label": 254
+  },
+  {
+    "name": "high_jump/IC1f5yO_fEo_000051_000061",
+    "label": 123
+  },
+  {
+    "name": "making_sushi/IaME-V1rqTE_000012_000022",
+    "label": 329
+  },
+  {
+    "name": "mopping_floor/TE49NdASxsE_000009_000019",
+    "label": 40
+  },
+  {
+    "name": "long_jump/AQUT1Pq4ia0_000002_000012",
+    "label": 33
+  },
+  {
+    "name": "shooting_basketball/Eg4CnBq4VNI_000076_000086",
+    "label": 21
+  },
+  {
+    "name": "skateboarding/CKxBBzITzAE_000089_000099",
+    "label": 191
+  },
+  {
+    "name": "air_drumming/wfacC32CdTU_000000_000010",
+    "label": 4
+  },
+  {
+    "name": "bandaging/3oG8UXXrstU_000061_000071",
+    "label": 115
+  },
+  {
+    "name": "waxing_chest/fM1ey9Z7Ub0_000074_000084",
+    "label": 35
+  },
+  {
+    "name": "tango_dancing/e-rdlVVAyFQ_000046_000056",
+    "label": 385
+  },
+  {
+    "name": "snowkiting/VqUDwKu6SmE_000108_000118",
+    "label": 362
+  },
+  {
+    "name": "dying_hair/UBn0yUro3eU_000126_000136",
+    "label": 107
+  },
+  {
+    "name": "juggling_balls/PM1gUMiaweg_000104_000114",
+    "label": 301
+  },
+  {
+    "name": "smoking_hookah/9N-F6DNDwNc_000030_000040",
+    "label": 24
+  },
+  {
+    "name": "riding_mechanical_bull/_n-6kIVAMKs_000009_000019",
+    "label": 140
+  },
+  {
+    "name": "making_sushi/QRSaHgSDfx8_000184_000194",
+    "label": 329
+  },
+  {
+    "name": "cheerleading/UxPA13atc-w_000325_000335",
+    "label": 202
+  },
+  {
+    "name": "front_raises/hV1eOTkZVD8_000002_000012",
+    "label": 176
+  },
+  {
+    "name": "flying_kite/VK4n4nUyRzM_000024_000034",
+    "label": 354
+  },
+  {
+    "name": "bungee_jumping/hKXKo5moSYo_000001_000011",
+    "label": 188
+  },
+  {
+    "name": "juggling_fire/p-QXCfWIUes_000009_000019",
+    "label": 312
+  },
+  {
+    "name": "brush_painting/onT64Si0sJg_000004_000014",
+    "label": 190
+  },
+  {
+    "name": "golf_putting/PafCh6I9odo_000025_000035",
+    "label": 187
+  },
+  {
+    "name": "playing_cards/KdLd8R1VuaQ_000036_000046",
+    "label": 293
+  },
+  {
+    "name": "cleaning_floor/deJFo0Jx4Fs_000007_000017",
+    "label": 44
+  },
+  {
+    "name": "eating_carrots/lvtG3eFarAc_000001_000011",
+    "label": 142
+  },
+  {
+    "name": "abseiling/a-3KRovAH-k_000106_000116",
+    "label": 290
+  },
+  {
+    "name": "presenting_weather_forecast/Fv8l39EuVyw_000162_000172",
+    "label": 41
+  },
+  {
+    "name": "unboxing/pXaXmSIzFDM_000001_000011",
+    "label": 53
+  },
+  {
+    "name": "tango_dancing/Oz-3XXET63U_000008_000018",
+    "label": 385
+  },
+  {
+    "name": "reading_book/ghIgeeoxz4E_000065_000075",
+    "label": 246
+  },
+  {
+    "name": "dancing_macarena/E-mY5Tlt_T4_000002_000012",
+    "label": 387
+  },
+  {
+    "name": "marching/u3MCALL0-6U_000012_000022",
+    "label": 174
+  },
+  {
+    "name": "flipping_pancake/x70WynScogI_000005_000015",
+    "label": 330
+  },
+  {
+    "name": "flipping_pancake/p6idffHLtXQ_000005_000015",
+    "label": 330
+  },
+  {
+    "name": "belly_dancing/9UJor-rkMcw_000152_000162",
+    "label": 321
+  },
+  {
+    "name": "juggling_soccer_ball/1pvPkWmvfc4_000071_000081",
+    "label": 355
+  },
+  {
+    "name": "using_segway/cbTiUNASuT4_000023_000033",
+    "label": 96
+  },
+  {
+    "name": "riding_unicycle/JMYWulbWSjg_000002_000012",
+    "label": 76
+  },
+  {
+    "name": "salsa_dancing/CNnW9-Bd1Zw_000021_000031",
+    "label": 57
+  },
+  {
+    "name": "eating_watermelon/JM0WgOIFvG4_000040_000050",
+    "label": 37
+  },
+  {
+    "name": "making_snowman/Vq0GEFr8FKI_000007_000017",
+    "label": 259
+  },
+  {
+    "name": "cleaning_pool/AxtMn_FHTvY_000000_000010",
+    "label": 47
+  },
+  {
+    "name": "cutting_pineapple/xCBZD31OMzc_000000_000010",
+    "label": 134
+  },
+  {
+    "name": "scuba_diving/ia8Co7Z536s_000078_000088",
+    "label": 226
+  },
+  {
+    "name": "headbanging/gMrJP8U2mNE_000027_000037",
+    "label": 138
+  },
+  {
+    "name": "presenting_weather_forecast/C3kcz3ReDrQ_000232_000242",
+    "label": 41
+  },
+  {
+    "name": "blowing_out_candles/QdKaGNVCmuE_000012_000022",
+    "label": 175
+  },
+  {
+    "name": "riding_scooter/oSebN_qQoU0_000005_000015",
+    "label": 378
+  },
+  {
+    "name": "riding_elephant/gQD0rGu7U90_000050_000060",
+    "label": 264
+  },
+  {
+    "name": "triple_jump/HolNe88Ejb0_000004_000014",
+    "label": 215
+  },
+  {
+    "name": "playing_trombone/1gX31edvYiE_000269_000279",
+    "label": 17
+  },
+  {
+    "name": "feeding_goats/b5Cqg5JCI6M_000082_000092",
+    "label": 223
+  },
+  {
+    "name": "mowing_lawn/f4OyAeQAOi4_000000_000010",
+    "label": 306
+  },
+  {
+    "name": "hugging/it4aN7DJIaI_000072_000082",
+    "label": 337
+  },
+  {
+    "name": "sailing/arCZQhQR3tE_000031_000041",
+    "label": 305
+  },
+  {
+    "name": "parkour/VeI55gcTkfU_000006_000016",
+    "label": 108
+  },
+  {
+    "name": "jumpstyle_dancing/xCNZBGaxgIc_000048_000058",
+    "label": 255
+  },
+  {
+    "name": "playing_trombone/HYBrs1-pM3Q_000013_000023",
+    "label": 17
+  },
+  {
+    "name": "flying_kite/8tBi0R1NhnY_000048_000058",
+    "label": 354
+  },
+  {
+    "name": "playing_ice_hockey/6kvdgtl4XzI_000031_000041",
+    "label": 278
+  },
+  {
+    "name": "drop_kicking/tWIvW0a7IUE_000007_000017",
+    "label": 184
+  },
+  {
+    "name": "robot_dancing/LebYFzruSKE_000081_000091",
+    "label": 133
+  },
+  {
+    "name": "springboard_diving/B4tKrx_3-c8_000019_000029",
+    "label": 162
+  },
+  {
+    "name": "stretching_arm/_e1hQUxTAHc_000127_000137",
+    "label": 194
+  },
+  {
+    "name": "playing_cello/mvV1C0kV7rE_000097_000107",
+    "label": 14
+  },
+  {
+    "name": "playing_paintball/BKcFNj5kW5A_000071_000081",
+    "label": 242
+  },
+  {
+    "name": "hula_hooping/6YsFYB-ETDE_000005_000015",
+    "label": 292
+  },
+  {
+    "name": "tapping_guitar/1JlTj508AOI_000138_000148",
+    "label": 275
+  },
+  {
+    "name": "tickling/p-CESkX8c_Q_000011_000021",
+    "label": 80
+  },
+  {
+    "name": "biking_through_snow/jiz-kxn-sD0_000144_000154",
+    "label": 377
+  },
+  {
+    "name": "driving_tractor/BVmVLuglCyc_000046_000056",
+    "label": 286
+  },
+  {
+    "name": "shearing_sheep/KZ9oWYGsBYM_000003_000013",
+    "label": 233
+  },
+  {
+    "name": "arm_wrestling/kpfNEOoeBRg_000010_000020",
+    "label": 46
+  },
+  {
+    "name": "singing/Nv0pw5uGoo4_000150_000160",
+    "label": 372
+  },
+  {
+    "name": "massaging_back/6ex1xOMXr4A_000007_000017",
+    "label": 55
+  },
+  {
+    "name": "arranging_flowers/lAWOFRaJc0Q_000092_000102",
+    "label": 170
+  },
+  {
+    "name": "playing_bagpipes/hj2I33NwH1Y_000026_000036",
+    "label": 150
+  },
+  {
+    "name": "waxing_back/lpfUowq3M5I_000074_000084",
+    "label": 281
+  },
+  {
+    "name": "singing/78UboxGi9hM_000051_000061",
+    "label": 372
+  },
+  {
+    "name": "long_jump/ZPZ9_khYyJ4_000001_000011",
+    "label": 33
+  },
+  {
+    "name": "playing_drums/Z-EU556cWJ8_000000_000010",
+    "label": 295
+  },
+  {
+    "name": "diving_cliff/Rc1HlqFmGOQ_000011_000021",
+    "label": 219
+  },
+  {
+    "name": "playing_accordion/6WM7MIx_zb4_000003_000013",
+    "label": 56
+  },
+  {
+    "name": "baby_waking_up/ikG32HnQnYE_000015_000025",
+    "label": 9
+  },
+  {
+    "name": "hockey_stop/CSfxPcJInAw_000052_000062",
+    "label": 8
+  },
+  {
+    "name": "climbing_tree/xuJoFJzW1yo_000025_000035",
+    "label": 209
+  },
+  {
+    "name": "playing_flute/MmQIOvGBh_0_000005_000015",
+    "label": 126
+  },
+  {
+    "name": "kitesurfing/bqnGrSvapXs_000096_000106",
+    "label": 316
+  },
+  {
+    "name": "skateboarding/HlBQAEkKPGo_006565_006575",
+    "label": 191
+  },
+  {
+    "name": "hurdling/XcIDqptvzcg_000012_000022",
+    "label": 49
+  },
+  {
+    "name": "playing_harmonica/GhPCAjJohtQ_000002_000012",
+    "label": 59
+  },
+  {
+    "name": "exercising_arm/_mxGj5qfgRQ_000010_000020",
+    "label": 289
+  },
+  {
+    "name": "swimming_breast_stroke/s3zb6ZRarIA_000034_000044",
+    "label": 39
+  },
+  {
+    "name": "eating_spaghetti/F3HtNwZeBYI_000095_000105",
+    "label": 364
+  },
+  {
+    "name": "pushing_cart/2F4OFFRKE_o_000008_000018",
+    "label": 74
+  },
+  {
+    "name": "headbanging/CIAGaV1CXAo_000011_000021",
+    "label": 138
+  },
+  {
+    "name": "bookbinding/LXjSGSixpdE_000000_000010",
+    "label": 313
+  },
+  {
+    "name": "shaving_head/RjTBcsbgb7w_000538_000548",
+    "label": 319
+  },
+  {
+    "name": "capoeira/2FK9owo2y1s_000040_000050",
+    "label": 370
+  },
+  {
+    "name": "playing_volleyball/KDyD1jaadDc_000004_000014",
+    "label": 172
+  },
+  {
+    "name": "capoeira/oWHeVKd1rdM_000277_000287",
+    "label": 370
+  },
+  {
+    "name": "vault/gE2jy_RhA0M_000014_000024",
+    "label": 210
+  },
+  {
+    "name": "deadlifting/9GNbAP8RBek_000000_000010",
+    "label": 359
+  },
+  {
+    "name": "contact_juggling/yMSTah7-aSs_000064_000074",
+    "label": 221
+  },
+  {
+    "name": "triple_jump/WI4M_v58rIQ_000047_000057",
+    "label": 215
+  },
+  {
+    "name": "spinning_poi/0sM4TerfQts_000034_000044",
+    "label": 158
+  },
+  {
+    "name": "riding_mechanical_bull/lAVWLcWF4PQ_000000_000010",
+    "label": 140
+  },
+  {
+    "name": "playing_volleyball/KXQbvhwz-5o_000009_000019",
+    "label": 172
+  },
+  {
+    "name": "playing_accordion/qQ2NRx1xmcE_000024_000034",
+    "label": 56
+  },
+  {
+    "name": "tai_chi/vM8sJRRGJCE_000230_000240",
+    "label": 400
+  },
+  {
+    "name": "bowling/YzsVDHIElQI_000036_000046",
+    "label": 125
+  },
+  {
+    "name": "blasting_sand/gs3W0sptdfg_000101_000111",
+    "label": 396
+  },
+  {
+    "name": "folding_napkins/kcxO1rtdAnQ_000008_000018",
+    "label": 112
+  },
+  {
+    "name": "juggling_fire/_UpfqvduTeM_000011_000021",
+    "label": 312
+  },
+  {
+    "name": "side_kick/DxlgjmUa88E_000002_000012",
+    "label": 98
+  },
+  {
+    "name": "playing_poker/i4vgGFhRzPo_000001_000011",
+    "label": 203
+  },
+  {
+    "name": "bungee_jumping/EqGVuen5pe4_000009_000019",
+    "label": 188
+  },
+  {
+    "name": "punching_person_(boxing)/1X_d9kWynQ0_000078_000088",
+    "label": 88
+  },
+  {
+    "name": "doing_nails/pYuK47Vrn_c_000036_000046",
+    "label": 250
+  },
+  {
+    "name": "playing_piano/9UJOfCgdmqU_000034_000044",
+    "label": 186
+  },
+  {
+    "name": "news_anchoring/GRVv1sRX-o0_000243_000253",
+    "label": 132
+  },
+  {
+    "name": "shaking_head/4HIC9KzUmUE_000001_000011",
+    "label": 101
+  },
+  {
+    "name": "eating_ice_cream/2G-0IKeodCo_001064_001074",
+    "label": 156
+  },
+  {
+    "name": "brushing_hair/_HZZM6uWlEs_000022_000032",
+    "label": 236
+  },
+  {
+    "name": "tying_tie/NsLzAvovmJE_000035_000045",
+    "label": 167
+  },
+  {
+    "name": "decorating_the_christmas_tree/xDiWzL0kaKY_000038_000048",
+    "label": 109
+  },
+  {
+    "name": "climbing_tree/qKALQfSfe1I_000004_000014",
+    "label": 209
+  },
+  {
+    "name": "hopscotch/xfz4yHJGk0o_000000_000010",
+    "label": 256
+  },
+  {
+    "name": "yawning/PPElje45tts_000008_000018",
+    "label": 166
+  },
+  {
+    "name": "baking_cookies/RMlcr-8uYio_000000_000010",
+    "label": 311
+  },
+  {
+    "name": "feeding_birds/SENjdgX_fAo_000071_000081",
+    "label": 241
+  },
+  {
+    "name": "cutting_watermelon/jjvYJZEMIuU_000026_000036",
+    "label": 382
+  },
+  {
+    "name": "pumping_fist/M_aWUUVqknk_000002_000012",
+    "label": 119
+  },
+  {
+    "name": "blowing_glass/kvCGQNBaIPA_000069_000079",
+    "label": 124
+  },
+  {
+    "name": "catching_fish/1cltuoSYDVM_000029_000039",
+    "label": 348
+  },
+  {
+    "name": "digging/x7u1Py1F-lc_000061_000071",
+    "label": 244
+  },
+  {
+    "name": "playing_badminton/f1PKDzB-618_000039_000049",
+    "label": 6
+  },
+  {
+    "name": "pumping_fist/y3NkuwEiKj0_000002_000012",
+    "label": 119
+  },
+  {
+    "name": "trimming_trees/VPY7msyulac_000063_000073",
+    "label": 195
+  },
+  {
+    "name": "blowing_out_candles/crPivOnqjcA_000006_000016",
+    "label": 175
+  },
+  {
+    "name": "breakdancing/W1ZS7jazZ_4_000003_000013",
+    "label": 157
+  },
+  {
+    "name": "ice_skating/ltdId7gmgdQ_000030_000040",
+    "label": 349
+  },
+  {
+    "name": "clean_and_jerk/I2Lxa6snJCo_000002_000012",
+    "label": 78
+  },
+  {
+    "name": "singing/vGcT2s7BvCk_000235_000245",
+    "label": 372
+  },
+  {
+    "name": "golf_driving/hMrb5DoTrKI_000001_000011",
+    "label": 234
+  },
+  {
+    "name": "blowing_glass/PehheMkPwss_000004_000014",
+    "label": 124
+  },
+  {
+    "name": "feeding_birds/vEaY5pxQaaM_000001_000011",
+    "label": 241
+  },
+  {
+    "name": "playing_violin/EcrdSx4hgt0_000000_000010",
+    "label": 225
+  },
+  {
+    "name": "bench_pressing/-NAi85LLBoc_000019_000029",
+    "label": 171
+  },
+  {
+    "name": "diving_cliff/-AiFIrQGTKw_000013_000023",
+    "label": 219
+  },
+  {
+    "name": "ice_skating/cHKwZkrLS4w_000001_000011",
+    "label": 349
+  },
+  {
+    "name": "brushing_teeth/aVban8bLL2U_000019_000029",
+    "label": 153
+  },
+  {
+    "name": "bending_back/JTABh5fvXSE_000011_000021",
+    "label": 363
+  },
+  {
+    "name": "finger_snapping/6bc1CORFUdA_000010_000020",
+    "label": 117
+  },
+  {
+    "name": "driving_tractor/GxkPHGyiV2s_000009_000019",
+    "label": 286
+  },
+  {
+    "name": "waxing_chest/tD-HjnMXJfI_000187_000197",
+    "label": 35
+  },
+  {
+    "name": "playing_keyboard/QITA6zlY8Y4_000001_000011",
+    "label": 268
+  },
+  {
+    "name": "side_kick/72zXBZFPGes_000284_000294",
+    "label": 98
+  },
+  {
+    "name": "laughing/rBNtZILAeh0_000023_000033",
+    "label": 23
+  },
+  {
+    "name": "breakdancing/OlTe8fyTwK4_000064_000074",
+    "label": 157
+  },
+  {
+    "name": "brushing_hair/iSugI481nMs_000005_000015",
+    "label": 236
+  },
+  {
+    "name": "playing_poker/w5zenc1rkMQ_000013_000023",
+    "label": 203
+  },
+  {
+    "name": "juggling_fire/4uf-9K4K4nQ_000045_000055",
+    "label": 312
+  },
+  {
+    "name": "ski_jumping/h0qtMFGW7uU_000009_000019",
+    "label": 397
+  },
+  {
+    "name": "playing_clarinet/eWvnrMnPJI4_000315_000325",
+    "label": 36
+  },
+  {
+    "name": "feeding_birds/FEbp3CNqw_s_000004_000014",
+    "label": 241
+  },
+  {
+    "name": "shining_shoes/c-3ed17J3F8_000140_000150",
+    "label": 294
+  },
+  {
+    "name": "sled_dog_racing/hIe04FqiZIU_000017_000027",
+    "label": 154
+  },
+  {
+    "name": "stretching_leg/0c3PhelPxZA_000001_000011",
+    "label": 164
+  },
+  {
+    "name": "playing_harmonica/11gatdodAnk_000065_000075",
+    "label": 59
+  },
+  {
+    "name": "dribbling_basketball/wvpmuqduyGA_000018_000028",
+    "label": 105
+  },
+  {
+    "name": "playing_flute/EdG1yeHfGuk_000258_000268",
+    "label": 126
+  },
+  {
+    "name": "skateboarding/_WFwhcmbXXY_000129_000139",
+    "label": 191
+  },
+  {
+    "name": "feeding_goats/Zmchifa92zs_000036_000046",
+    "label": 223
+  },
+  {
+    "name": "long_jump/25IdcPfOers_000011_000021",
+    "label": 33
+  },
+  {
+    "name": "blowing_glass/lgMtLwQ3j2c_000032_000042",
+    "label": 124
+  },
+  {
+    "name": "weaving_basket/gnNY-eBGUTQ_000010_000020",
+    "label": 189
+  },
+  {
+    "name": "rock_scissors_paper/7Bf2myUcxwI_000005_000015",
+    "label": 178
+  },
+  {
+    "name": "juggling_balls/-iiZe4Bk2sc_000002_000012",
+    "label": 301
+  },
+  {
+    "name": "parasailing/ib4npoQwIHE_000017_000027",
+    "label": 230
+  },
+  {
+    "name": "bobsledding/k_Oyrv_eUp0_000022_000032",
+    "label": 227
+  },
+  {
+    "name": "milking_cow/70nK2HiIlI4_000007_000017",
+    "label": 318
+  },
+  {
+    "name": "pushing_car/uK5y0z2pcRQ_000494_000504",
+    "label": 54
+  },
+  {
+    "name": "crawling_baby/pxjdb7WqDnI_000005_000015",
+    "label": 213
+  },
+  {
+    "name": "clay_pottery_making/_BieI1S31tU_000088_000098",
+    "label": 201
+  },
+  {
+    "name": "barbequing/t-zEyRPxysY_000159_000169",
+    "label": 90
+  },
+  {
+    "name": "peeling_apples/2hiPMnxCtDw_000060_000070",
+    "label": 3
+  },
+  {
+    "name": "climbing_tree/HxCMhHkcZ2k_000041_000051",
+    "label": 209
+  },
+  {
+    "name": "folding_paper/AC4h2-7ALuA_000095_000105",
+    "label": 28
+  },
+  {
+    "name": "headbanging/LvGNWRrDg1w_000007_000017",
+    "label": 138
+  },
+  {
+    "name": "bandaging/uox5iRVGAkk_000649_000659",
+    "label": 115
+  },
+  {
+    "name": "smoking/PqJ9yPMSKEs_000026_000036",
+    "label": 64
+  },
+  {
+    "name": "golf_putting/utTc6MRpIBo_000002_000012",
+    "label": 187
+  },
+  {
+    "name": "contact_juggling/ePGxEMSJxIY_000119_000129",
+    "label": 221
+  },
+  {
+    "name": "motorcycling/jYuUoIa5q8Q_000004_000014",
+    "label": 340
+  },
+  {
+    "name": "laughing/k1u2HE4m4AM_000572_000582",
+    "label": 23
+  },
+  {
+    "name": "capoeira/iGiykbQSy9g_000026_000036",
+    "label": 370
+  },
+  {
+    "name": "tapping_guitar/VMC0v7xYtug_000018_000028",
+    "label": 275
+  },
+  {
+    "name": "snatch_weight_lifting/cfaKLFFyRPU_000041_000051",
+    "label": 389
+  },
+  {
+    "name": "kissing/giSrnAbBDaw_000048_000058",
+    "label": 163
+  },
+  {
+    "name": "contact_juggling/0GJzBKWPRNg_000060_000070",
+    "label": 221
+  },
+  {
+    "name": "swimming_butterfly_stroke/X8zjUq66auE_000045_000055",
+    "label": 161
+  },
+  {
+    "name": "pumping_fist/7egSg_SmvmU_000069_000079",
+    "label": 119
+  },
+  {
+    "name": "push_up/2zLotEoodhk_000043_000053",
+    "label": 331
+  },
+  {
+    "name": "playing_xylophone/t--FflM59hc_000003_000013",
+    "label": 87
+  },
+  {
+    "name": "changing_oil/EjQ4630pfe4_000013_000023",
+    "label": 93
+  },
+  {
+    "name": "gymnastics_tumbling/Q2-HPjE7_WU_000000_000010",
+    "label": 91
+  },
+  {
+    "name": "feeding_goats/kUFqYWg-EFM_000000_000010",
+    "label": 223
+  },
+  {
+    "name": "crossing_river/lAQJEQRZZiM_000162_000172",
+    "label": 367
+  },
+  {
+    "name": "situp/n0n8teRYjeg_000090_000100",
+    "label": 192
+  },
+  {
+    "name": "tying_bow_tie/QnQ9EZa3f9A_000146_000156",
+    "label": 375
+  },
+  {
+    "name": "dancing_charleston/wQ2llSF0_T4_000053_000063",
+    "label": 381
+  },
+  {
+    "name": "playing_ukulele/fgJQgntLfi4_000001_000011",
+    "label": 280
+  },
+  {
+    "name": "crying/4Kgag5NyLaM_000010_000020",
+    "label": 368
+  },
+  {
+    "name": "unloading_truck/i03WXMSvY7E_000003_000013",
+    "label": 231
+  },
+  {
+    "name": "frying_vegetables/1HYTGM88W3o_000186_000196",
+    "label": 360
+  },
+  {
+    "name": "welding/dftPSxXZtio_000553_000563",
+    "label": 30
+  },
+  {
+    "name": "dancing_charleston/YMr2o_GPbGU_000065_000075",
+    "label": 381
+  },
+  {
+    "name": "peeling_potatoes/B_ySB3TBR5s_000015_000025",
+    "label": 43
+  },
+  {
+    "name": "celebrating/Lm-AkP0rOl8_000150_000160",
+    "label": 181
+  },
+  {
+    "name": "slapping/6BOXX6BteHE_000025_000035",
+    "label": 325
+  },
+  {
+    "name": "sailing/VCPfMc6R2eU_000038_000048",
+    "label": 305
+  },
+  {
+    "name": "breakdancing/0EkwOZ7nesY_000027_000037",
+    "label": 157
+  },
+  {
+    "name": "flying_kite/AUz_ffHF22E_000003_000013",
+    "label": 354
+  },
+  {
+    "name": "unboxing/JZ-AC_37q-c_000051_000061",
+    "label": 53
+  },
+  {
+    "name": "canoeing_or_kayaking/EWZJjvP28h0_000000_000010",
+    "label": 20
+  },
+  {
+    "name": "giving_or_receiving_award/R_7cBCJ5EsE_000039_000049",
+    "label": 291
+  },
+  {
+    "name": "rock_climbing/zruPxddD2CI_000004_000014",
+    "label": 144
+  },
+  {
+    "name": "reading_book/PrXjfYHblBc_000035_000045",
+    "label": 246
+  },
+  {
+    "name": "crossing_river/vRZ-vlqoewk_000001_000011",
+    "label": 367
+  },
+  {
+    "name": "pole_vault/_kN8RQXniLw_000007_000017",
+    "label": 386
+  },
+  {
+    "name": "situp/FlwJlFvZYtI_000017_000027",
+    "label": 192
+  },
+  {
+    "name": "water_skiing/gBwaUHhKEFg_000034_000044",
+    "label": 245
+  },
+  {
+    "name": "playing_paintball/TXrFKDwYuXQ_000013_000023",
+    "label": 242
+  },
+  {
+    "name": "spraying/C--cgZ_lD9s_000028_000038",
+    "label": 63
+  },
+  {
+    "name": "building_shed/BTmh6W2Ig0o_000051_000061",
+    "label": 304
+  },
+  {
+    "name": "catching_or_throwing_frisbee/d_bSrDfkRQo_000012_000022",
+    "label": 344
+  },
+  {
+    "name": "getting_a_tattoo/V0-NZ-4ucCk_000056_000066",
+    "label": 29
+  },
+  {
+    "name": "bookbinding/rMdyFjuz-hs_000366_000376",
+    "label": 313
+  },
+  {
+    "name": "making_jewelry/HAN7NULUyL4_000107_000117",
+    "label": 34
+  },
+  {
+    "name": "making_a_cake/2X40l56krhc_000008_000018",
+    "label": 212
+  },
+  {
+    "name": "bouncing_on_trampoline/CnXoT5G3th4_000137_000147",
+    "label": 152
+  },
+  {
+    "name": "skipping_rope/UPf5wZAHLMs_000062_000072",
+    "label": 279
+  },
+  {
+    "name": "hitting_baseball/7-52LKBCHVA_000325_000335",
+    "label": 7
+  },
+  {
+    "name": "skateboarding/XaE_jxpd-Ek_000159_000169",
+    "label": 191
+  },
+  {
+    "name": "lunge/Jz2Matnx8ro_000003_000013",
+    "label": 239
+  },
+  {
+    "name": "playing_clarinet/Bqcu9NNXSeA_000501_000511",
+    "label": 36
+  },
+  {
+    "name": "washing_feet/QEbafRLlRWo_000118_000128",
+    "label": 347
+  },
+  {
+    "name": "changing_oil/O_J3TgJlM44_000222_000232",
+    "label": 93
+  },
+  {
+    "name": "skateboarding/HJp1SKB9eeg_000026_000036",
+    "label": 191
+  },
+  {
+    "name": "waxing_chest/SJCkgJjdVvs_000118_000128",
+    "label": 35
+  },
+  {
+    "name": "blowing_leaves/McBdP_wueP4_000012_000022",
+    "label": 274
+  },
+  {
+    "name": "laughing/MFR9R0wU8cM_000004_000014",
+    "label": 23
+  },
+  {
+    "name": "yoga/wAhNFc7FQXM_000013_000023",
+    "label": 353
+  },
+  {
+    "name": "riding_mountain_bike/35wbXKvWohI_000077_000087",
+    "label": 99
+  },
+  {
+    "name": "swimming_butterfly_stroke/oP1IW0wT0DQ_000000_000010",
+    "label": 161
+  },
+  {
+    "name": "sled_dog_racing/FlLbrs_p7x0_000041_000051",
+    "label": 154
+  },
+  {
+    "name": "clay_pottery_making/rXxmeB5unOQ_000162_000172",
+    "label": 201
+  },
+  {
+    "name": "garbage_collecting/ILePnRuge7w_000029_000039",
+    "label": 323
+  },
+  {
+    "name": "golf_chipping/YYKG8NFme1k_000003_000013",
+    "label": 19
+  },
+  {
+    "name": "making_pizza/JPONG4Bdf_Q_000021_000031",
+    "label": 300
+  },
+  {
+    "name": "weaving_basket/mwqNsAYBwy0_000016_000026",
+    "label": 189
+  },
+  {
+    "name": "juggling_fire/7aubz5Tg4OA_000049_000059",
+    "label": 312
+  },
+  {
+    "name": "making_snowman/ChIHlGunL7I_000006_000016",
+    "label": 259
+  },
+  {
+    "name": "triple_jump/Q2Kwq2eGXMw_000054_000064",
+    "label": 215
+  },
+  {
+    "name": "ironing/lcEphm5g0Lo_000076_000086",
+    "label": 182
+  },
+  {
+    "name": "water_skiing/2enkznl0dxk_000019_000029",
+    "label": 245
+  },
+  {
+    "name": "trapezing/UvftehUsh9A_000002_000012",
+    "label": 238
+  },
+  {
+    "name": "weaving_basket/Yn3P0uSpOD4_000001_000011",
+    "label": 189
+  },
+  {
+    "name": "folding_napkins/6qJt_5ztGkg_000002_000012",
+    "label": 112
+  },
+  {
+    "name": "busking/zzP84e3rqJk_000118_000128",
+    "label": 269
+  },
+  {
+    "name": "diving_cliff/beOSf2iCHjw_000014_000024",
+    "label": 219
+  },
+  {
+    "name": "jumping_into_pool/NejZNAkxyKo_000001_000011",
+    "label": 391
+  },
+  {
+    "name": "swimming_breast_stroke/5Vjh22pr88A_000055_000065",
+    "label": 39
+  },
+  {
+    "name": "bartending/AxzsyUZSjps_000370_000380",
+    "label": 183
+  },
+  {
+    "name": "filling_eyebrows/PBPKLyUHQ08_000142_000152",
+    "label": 283
+  },
+  {
+    "name": "drop_kicking/bvy-ajnhDr8_000004_000014",
+    "label": 184
+  },
+  {
+    "name": "dying_hair/EXQDnkca8z0_000275_000285",
+    "label": 107
+  },
+  {
+    "name": "hurling_(sport)/Xjf6-qm-2-c_000115_000125",
+    "label": 66
+  },
+  {
+    "name": "strumming_guitar/jQ269Ic_z5I_000067_000077",
+    "label": 383
+  },
+  {
+    "name": "riding_elephant/FgKo9Gw1LKs_000037_000047",
+    "label": 264
+  },
+  {
+    "name": "water_sliding/U5qt8MejCAo_000086_000096",
+    "label": 180
+  },
+  {
+    "name": "swimming_backstroke/N4ZK63JU7jE_000050_000060",
+    "label": 254
+  },
+  {
+    "name": "faceplanting/lsUHXUkb3s8_000006_000016",
+    "label": 148
+  },
+  {
+    "name": "folding_clothes/5ecxTlOwtEc_000087_000097",
+    "label": 121
+  },
+  {
+    "name": "feeding_fish/Yt9SY3fNny8_000078_000088",
+    "label": 346
+  },
+  {
+    "name": "celebrating/gvWoulsl-0o_000031_000041",
+    "label": 181
+  },
+  {
+    "name": "egg_hunting/t-eugQzxpKM_000025_000035",
+    "label": 75
+  },
+  {
+    "name": "playing_cricket/SPijJotj8pk_000020_000030",
+    "label": 380
+  },
+  {
+    "name": "cooking_chicken/0IOzFP3W0VY_000001_000011",
+    "label": 351
+  },
+  {
+    "name": "front_raises/0cyZuKaiFho_000004_000014",
+    "label": 176
+  },
+  {
+    "name": "laying_bricks/9rpj1jDlK9A_000041_000051",
+    "label": 258
+  },
+  {
+    "name": "riding_mule/jd2mz83CuhI_000018_000028",
+    "label": 94
+  },
+  {
+    "name": "abseiling/-qAC8YY5F1Q_000040_000050",
+    "label": 290
+  },
+  {
+    "name": "petting_animal_(not_cat)/WUbRcGckIHs_000065_000075",
+    "label": 72
+  },
+  {
+    "name": "playing_clarinet/zTJXqCIS4d8_000181_000191",
+    "label": 36
+  },
+  {
+    "name": "belly_dancing/YQd4mHG9_E4_000117_000127",
+    "label": 321
+  },
+  {
+    "name": "shuffling_cards/eExO2Vb5xt4_000093_000103",
+    "label": 285
+  },
+  {
+    "name": "passing_American_football_(not_in_game)/JywOft5NXPU_000070_000080",
+    "label": 216
+  },
+  {
+    "name": "ripping_paper/lJX6iWoMzMQ_000066_000076",
+    "label": 296
+  },
+  {
+    "name": "ice_climbing/j3I6nPx-cP0_000006_000016",
+    "label": 106
+  },
+  {
+    "name": "spray_painting/exVfLWonTjc_000019_000029",
+    "label": 122
+  },
+  {
+    "name": "drop_kicking/Vi10ljVRCdg_000037_000047",
+    "label": 184
+  },
+  {
+    "name": "playing_harp/_tN2RQ-QChk_000045_000055",
+    "label": 160
+  },
+  {
+    "name": "pushing_cart/-gxmZpZzlQU_000001_000011",
+    "label": 74
+  },
+  {
+    "name": "texting/_Xsm4QU3dxY_000090_000100",
+    "label": 193
+  },
+  {
+    "name": "situp/Mu472HybCgk_000000_000010",
+    "label": 192
+  },
+  {
+    "name": "crossing_river/EUyfjdXMZnw_000006_000016",
+    "label": 367
+  },
+  {
+    "name": "sneezing/eJCHxYFBMVc_000003_000013",
+    "label": 356
+  },
+  {
+    "name": "climbing_ladder/8zYDOpPYFrs_000019_000029",
+    "label": 45
+  },
+  {
+    "name": "vault/l5VbYCC1HRc_000003_000013",
+    "label": 210
+  },
+  {
+    "name": "dancing_gangnam_style/Umy1idnHzf0_000140_000150",
+    "label": 395
+  },
+  {
+    "name": "bungee_jumping/oBl0mxcGzTk_000111_000121",
+    "label": 188
+  },
+  {
+    "name": "writing/HsVEpoLzqa4_000094_000104",
+    "label": 149
+  },
+  {
+    "name": "petting_animal_(not_cat)/c4kAYJ1d8Ac_000024_000034",
+    "label": 72
+  },
+  {
+    "name": "front_raises/lXa3BVQ1MCQ_000001_000011",
+    "label": 176
+  },
+  {
+    "name": "playing_cymbals/84kWlEg3KgQ_000057_000067",
+    "label": 336
+  },
+  {
+    "name": "kicking_soccer_ball/l28dW9xZ4Dw_000003_000013",
+    "label": 260
+  },
+  {
+    "name": "baby_waking_up/D24lisisZL0_000042_000052",
+    "label": 9
+  },
+  {
+    "name": "push_up/5uE08UTD6oo_000102_000112",
+    "label": 331
+  },
+  {
+    "name": "playing_controller/s08sS92M9U8_000061_000071",
+    "label": 84
+  },
+  {
+    "name": "laughing/AYXsBqZKSGQ_000178_000188",
+    "label": 23
+  },
+  {
+    "name": "playing_drums/Yb7Pn3IngY8_000030_000040",
+    "label": 295
+  },
+  {
+    "name": "eating_carrots/UQXv2PhQptY_000001_000011",
+    "label": 142
+  },
+  {
+    "name": "balloon_blowing/V9EnlswEGJk_000014_000024",
+    "label": 284
+  },
+  {
+    "name": "petting_cat/G2tjr80QX78_000039_000049",
+    "label": 146
+  },
+  {
+    "name": "braiding_hair/MLuXyFiqq6M_000186_000196",
+    "label": 65
+  },
+  {
+    "name": "playing_organ/NV5ufzEHVwk_000133_000143",
+    "label": 26
+  },
+  {
+    "name": "biking_through_snow/9v3qTQ-U-PQ_000030_000040",
+    "label": 377
+  },
+  {
+    "name": "eating_doughnuts/RUWZrf-kab8_000011_000021",
+    "label": 365
+  },
+  {
+    "name": "golf_putting/PueekoHJAPQ_000211_000221",
+    "label": 187
+  },
+  {
+    "name": "making_sushi/Kd0ok-9Pfyg_000016_000026",
+    "label": 329
+  },
+  {
+    "name": "archery/ujP3b29DmRs_000077_000087",
+    "label": 116
+  },
+  {
+    "name": "hockey_stop/eeKeC4L91c0_000007_000017",
+    "label": 8
+  },
+  {
+    "name": "playing_keyboard/RZ1X-Ne4OjA_000018_000028",
+    "label": 268
+  },
+  {
+    "name": "playing_cricket/_TwSQrqFvas_000006_000016",
+    "label": 380
+  },
+  {
+    "name": "sword_fighting/Sw4gz9YmZvg_000007_000017",
+    "label": 118
+  },
+  {
+    "name": "dancing_charleston/73cTZbEvfUA_000000_000010",
+    "label": 381
+  },
+  {
+    "name": "abseiling/QynzC6ptRcQ_000429_000439",
+    "label": 290
+  },
+  {
+    "name": "dying_hair/_2J7CmBfKsc_000459_000469",
+    "label": 107
+  },
+  {
+    "name": "bandaging/PIiqO9LoJfg_000087_000097",
+    "label": 115
+  },
+  {
+    "name": "playing_squash_or_racquetball/7YFuJlZx4Lg_000000_000010",
+    "label": 270
+  },
+  {
+    "name": "making_snowman/CiDMUNYYjvE_000009_000019",
+    "label": 259
+  },
+  {
+    "name": "front_raises/rPROx2MBNZY_000005_000015",
+    "label": 176
+  },
+  {
+    "name": "canoeing_or_kayaking/v-riOC8poAs_000352_000362",
+    "label": 20
+  },
+  {
+    "name": "eating_watermelon/D-9GkgUE7gM_000114_000124",
+    "label": 37
+  },
+  {
+    "name": "dancing_macarena/wPxtod9ARg8_000154_000164",
+    "label": 387
+  },
+  {
+    "name": "laughing/gwVsdVwOkd0_000068_000078",
+    "label": 23
+  },
+  {
+    "name": "blowing_out_candles/M3-qeWSqxoQ_000000_000010",
+    "label": 175
+  },
+  {
+    "name": "playing_keyboard/L2FZlLDeItc_000001_000011",
+    "label": 268
+  },
+  {
+    "name": "diving_cliff/ZpdvU3vhZKA_000003_000013",
+    "label": 219
+  },
+  {
+    "name": "shaving_legs/GGdk41yyyHE_000030_000040",
+    "label": 339
+  },
+  {
+    "name": "digging/EVfsNkNa8YY_000096_000106",
+    "label": 244
+  },
+  {
+    "name": "dying_hair/Pcqj-7iBwL8_000010_000020",
+    "label": 107
+  },
+  {
+    "name": "driving_car/ZgHyz6EslZM_000188_000198",
+    "label": 287
+  },
+  {
+    "name": "hula_hooping/HOv60aOG5Ws_000040_000050",
+    "label": 292
+  },
+  {
+    "name": "playing_paintball/YKT2YIHYEa4_000034_000044",
+    "label": 242
+  },
+  {
+    "name": "washing_dishes/0ToU7j3U0fo_000048_000058",
+    "label": 273
+  },
+  {
+    "name": "driving_tractor/6TuKWGw6Efs_000592_000602",
+    "label": 286
+  },
+  {
+    "name": "surfing_water/lbOabhSvfMY_000000_000010",
+    "label": 366
+  },
+  {
+    "name": "situp/TW-oY9WjYy4_000009_000019",
+    "label": 192
+  },
+  {
+    "name": "cutting_pineapple/PUHoju-IA40_000007_000017",
+    "label": 134
+  },
+  {
+    "name": "paragliding/7oz6XLxPDsY_000027_000037",
+    "label": 263
+  },
+  {
+    "name": "building_shed/SxHSDQrQipI_000066_000076",
+    "label": 304
+  },
+  {
+    "name": "washing_dishes/GqTB01zeJCg_000044_000054",
+    "label": 273
+  },
+  {
+    "name": "skiing_crosscountry/f-ji6Z_WpGw_000110_000120",
+    "label": 169
+  },
+  {
+    "name": "jumping_into_pool/ML86egyd69w_000005_000015",
+    "label": 391
+  },
+  {
+    "name": "ski_jumping/dwHg-DdOgN4_000002_000012",
+    "label": 397
+  },
+  {
+    "name": "robot_dancing/_OKTIyOeqA4_000012_000022",
+    "label": 133
+  },
+  {
+    "name": "pushing_car/IyKKlzn5ifk_000000_000010",
+    "label": 54
+  },
+  {
+    "name": "singing/iUChO1Y5yjQ_000108_000118",
+    "label": 372
+  },
+  {
+    "name": "dancing_gangnam_style/oGj8fFJqLP8_000132_000142",
+    "label": 395
+  },
+  {
+    "name": "riding_unicycle/WzLDOIIcznA_000029_000039",
+    "label": 76
+  },
+  {
+    "name": "filling_eyebrows/CUjRjeesnMk_000110_000120",
+    "label": 283
+  },
+  {
+    "name": "applying_cream/P5sx3MS7H4E_000048_000058",
+    "label": 61
+  },
+  {
+    "name": "zumba/hbY7YAa2RPk_000066_000076",
+    "label": 299
+  },
+  {
+    "name": "playing_ice_hockey/F1jpCBPiWS4_000090_000100",
+    "label": 278
+  },
+  {
+    "name": "tap_dancing/oTEgEHufbkA_000017_000027",
+    "label": 79
+  },
+  {
+    "name": "trimming_or_shaving_beard/Sqae9sMgll0_000003_000013",
+    "label": 393
+  },
+  {
+    "name": "parkour/aVq8PxrHNx8_000090_000100",
+    "label": 108
+  },
+  {
+    "name": "garbage_collecting/7Cg1bs3VE7g_000007_000017",
+    "label": 323
+  },
+  {
+    "name": "tai_chi/NrA6iSZXJRw_000187_000197",
+    "label": 400
+  },
+  {
+    "name": "chopping_wood/8RUGnxg10mM_000060_000070",
+    "label": 199
+  },
+  {
+    "name": "filling_eyebrows/IqnLEIFg4fg_000155_000165",
+    "label": 283
+  },
+  {
+    "name": "climbing_tree/vML7EYHKsYg_000019_000029",
+    "label": 209
+  },
+  {
+    "name": "bowling/X3hS6FYQvLo_000008_000018",
+    "label": 125
+  },
+  {
+    "name": "front_raises/jVFG747lPMo_000005_000015",
+    "label": 176
+  },
+  {
+    "name": "blowing_out_candles/jQUgiCP3Vt0_000002_000012",
+    "label": 175
+  },
+  {
+    "name": "canoeing_or_kayaking/FhjtVr1TiEg_000215_000225",
+    "label": 20
+  },
+  {
+    "name": "making_snowman/csIEUuvvU5w_000004_000014",
+    "label": 259
+  },
+  {
+    "name": "country_line_dancing/HVQnIvfB8lk_000040_000050",
+    "label": 77
+  },
+  {
+    "name": "massaging_person's_head/xpDHTdbhcH4_000025_000035",
+    "label": 15
+  },
+  {
+    "name": "eating_watermelon/i-WtzUesuSM_000034_000044",
+    "label": 37
+  },
+  {
+    "name": "tobogganing/fOBdh9bClA4_000002_000012",
+    "label": 145
+  },
+  {
+    "name": "skiing_(not_slalom_or_crosscountry)/eVRvCPf4NQ0_000084_000094",
+    "label": 128
+  },
+  {
+    "name": "peeling_apples/vyvVTtg1938_000022_000032",
+    "label": 3
+  },
+  {
+    "name": "smoking/Ya61QjFolY4_000031_000041",
+    "label": 64
+  },
+  {
+    "name": "knitting/oCNcZylR2i8_000192_000202",
+    "label": 317
+  },
+  {
+    "name": "sailing/p8sWS_RMWvM_000104_000114",
+    "label": 305
+  },
+  {
+    "name": "washing_dishes/OTMteq6XtXU_000003_000013",
+    "label": 273
+  },
+  {
+    "name": "folding_clothes/XWy4g-7-5I4_000028_000038",
+    "label": 121
+  },
+  {
+    "name": "sailing/lw8Yv-Eha1w_000004_000014",
+    "label": 305
+  },
+  {
+    "name": "shaving_head/uGBwDnKDCP4_000550_000560",
+    "label": 319
+  },
+  {
+    "name": "tossing_coin/fe-7d_xom_U_000009_000019",
+    "label": 224
+  },
+  {
+    "name": "robot_dancing/qdeDHscOSsk_000007_000017",
+    "label": 133
+  },
+  {
+    "name": "high_kick/kSUAIEuY-CE_000008_000018",
+    "label": 81
+  },
+  {
+    "name": "whistling/X3pt8u5anMs_000197_000207",
+    "label": 342
+  },
+  {
+    "name": "dining/amo2gGwZ3b0_000094_000104",
+    "label": 257
+  },
+  {
+    "name": "doing_aerobics/dG49W6TOvps_000046_000056",
+    "label": 69
+  },
+  {
+    "name": "making_pizza/6Ez6PeoaOmc_000232_000242",
+    "label": 300
+  },
+  {
+    "name": "petting_cat/TK6D4UyTlkA_000003_000013",
+    "label": 146
+  },
+  {
+    "name": "golf_chipping/bFPsx7KsGCY_000037_000047",
+    "label": 19
+  },
+  {
+    "name": "swimming_breast_stroke/XnimWzcWSwc_000010_000020",
+    "label": 39
+  },
+  {
+    "name": "playing_bass_guitar/OuKHTNQPZBw_000235_000245",
+    "label": 103
+  },
+  {
+    "name": "snatch_weight_lifting/oSSsdpIn9Ls_000015_000025",
+    "label": 389
+  },
+  {
+    "name": "watering_plants/csCX-Nu63lQ_000006_000016",
+    "label": 95
+  },
+  {
+    "name": "arm_wrestling/3sFpIfmtbL8_000019_000029",
+    "label": 46
+  },
+  {
+    "name": "laughing/7KqgWfut6Ic_000147_000157",
+    "label": 23
+  },
+  {
+    "name": "hockey_stop/q9w8rg2hCPk_000001_000011",
+    "label": 8
+  },
+  {
+    "name": "playing_cards/yamuZEdK46k_000097_000107",
+    "label": 293
+  },
+  {
+    "name": "wrapping_present/HaprTZfP4sQ_000087_000097",
+    "label": 211
+  },
+  {
+    "name": "brushing_teeth/51nF4UINSFY_000007_000017",
+    "label": 153
+  },
+  {
+    "name": "playing_bass_guitar/xCabhxHEJxU_000070_000080",
+    "label": 103
+  },
+  {
+    "name": "tasting_food/8dLg-nv_RUA_000113_000123",
+    "label": 338
+  },
+  {
+    "name": "water_skiing/UX8nb1LoQ6A_000203_000213",
+    "label": 245
+  },
+  {
+    "name": "snorkeling/0XUDKJN0yBI_000163_000173",
+    "label": 297
+  },
+  {
+    "name": "taking_a_shower/Id4NcuQlIMo_000032_000042",
+    "label": 42
+  },
+  {
+    "name": "testifying/80yCm6LI1wY_000173_000183",
+    "label": 196
+  },
+  {
+    "name": "sled_dog_racing/rfIyL-X-56M_000142_000152",
+    "label": 154
+  },
+  {
+    "name": "jetskiing/zRuXqJoDv1w_000034_000044",
+    "label": 247
+  },
+  {
+    "name": "scrambling_eggs/AA_7vSuha-0_000050_000060",
+    "label": 62
+  },
+  {
+    "name": "playing_paintball/WPvKtsbDWCk_000021_000031",
+    "label": 242
+  },
+  {
+    "name": "skateboarding/LK9jQqf4guo_000000_000010",
+    "label": 191
+  },
+  {
+    "name": "stretching_arm/05ajfyAyDUU_000006_000016",
+    "label": 194
+  },
+  {
+    "name": "biking_through_snow/44B2dMyrGC8_000173_000183",
+    "label": 377
+  },
+  {
+    "name": "tasting_beer/eAxn1RPqozk_000001_000011",
+    "label": 390
+  },
+  {
+    "name": "springboard_diving/DXaC9Z0pmSc_000043_000053",
+    "label": 162
+  },
+  {
+    "name": "crossing_river/AL8_-6kZkTU_000010_000020",
+    "label": 367
+  },
+  {
+    "name": "petting_animal_(not_cat)/3Loso8qfLT4_000025_000035",
+    "label": 72
+  },
+  {
+    "name": "watering_plants/4prdI3YMCYg_000044_000054",
+    "label": 95
+  },
+  {
+    "name": "shaving_legs/f5hlegu8ml4_000009_000019",
+    "label": 339
+  },
+  {
+    "name": "unboxing/cuJTCtyzYz0_000215_000225",
+    "label": 53
+  },
+  {
+    "name": "abseiling/X2DbNF9YNjs_000177_000187",
+    "label": 290
+  },
+  {
+    "name": "canoeing_or_kayaking/XzLTSyyQEDg_000580_000590",
+    "label": 20
+  },
+  {
+    "name": "jumpstyle_dancing/kVh1Lpos098_000051_000061",
+    "label": 255
+  },
+  {
+    "name": "baking_cookies/qa_UaV-0Afw_000017_000027",
+    "label": 311
+  },
+  {
+    "name": "playing_ice_hockey/Q8Y9pmhvJqE_000027_000037",
+    "label": 278
+  },
+  {
+    "name": "playing_cymbals/jPghgw460XU_000008_000018",
+    "label": 336
+  },
+  {
+    "name": "presenting_weather_forecast/cXuOUXTqTy0_000028_000038",
+    "label": 41
+  },
+  {
+    "name": "sticking_tongue_out/WFO2T-J7j_k_000000_000010",
+    "label": 1
+  },
+  {
+    "name": "hockey_stop/u9OEE6n89YM_000047_000057",
+    "label": 8
+  },
+  {
+    "name": "playing_ice_hockey/KPG8OAcuYPA_000935_000945",
+    "label": 278
+  },
+  {
+    "name": "making_pizza/pRZIy-sJgfE_000015_000025",
+    "label": 300
+  },
+  {
+    "name": "using_computer/zceo0-JAPvk_000039_000049",
+    "label": 248
+  },
+  {
+    "name": "passing_American_football_(in_game)/j8E43iFvD_Q_000004_000014",
+    "label": 151
+  },
+  {
+    "name": "moving_furniture/VHojvqi8zyw_000000_000010",
+    "label": 127
+  },
+  {
+    "name": "pumping_gas/ZbPf0J619-w_000024_000034",
+    "label": 2
+  },
+  {
+    "name": "sailing/BEqfTkto4AI_000100_000110",
+    "label": 305
+  },
+  {
+    "name": "playing_saxophone/RufQ90QNmYI_000002_000012",
+    "label": 388
+  },
+  {
+    "name": "playing_xylophone/1nHC6GxNPRc_000040_000050",
+    "label": 87
+  },
+  {
+    "name": "balloon_blowing/D9HsRigxwXg_000004_000014",
+    "label": 284
+  },
+  {
+    "name": "picking_fruit/Rb4_qYrQosU_000075_000085",
+    "label": 267
+  },
+  {
+    "name": "dying_hair/uFtIvWqEGuI_000117_000127",
+    "label": 107
+  },
+  {
+    "name": "playing_trombone/BBda_xaBa70_000046_000056",
+    "label": 17
+  },
+  {
+    "name": "lunge/DvdLXl2VEF0_000076_000086",
+    "label": 239
+  },
+  {
+    "name": "celebrating/B4SecpFMfCo_000029_000039",
+    "label": 181
+  },
+  {
+    "name": "swimming_backstroke/RnI75fEM-_Y_000121_000131",
+    "label": 254
+  },
+  {
+    "name": "ice_skating/ESHXUAb94K0_000008_000018",
+    "label": 349
+  },
+  {
+    "name": "making_pizza/C1QToDg3Ow0_000346_000356",
+    "label": 300
+  },
+  {
+    "name": "crawling_baby/ZoXmRcfHbig_000006_000016",
+    "label": 213
+  },
+  {
+    "name": "golf_driving/QdHwQPGmBXU_000012_000022",
+    "label": 234
+  },
+  {
+    "name": "hitting_baseball/-lPyF4ktghY_000018_000028",
+    "label": 7
+  },
+  {
+    "name": "blowing_out_candles/HR-8pZPkMIg_000036_000046",
+    "label": 175
+  },
+  {
+    "name": "ice_climbing/CVCVWmcsglY_000093_000103",
+    "label": 106
+  },
+  {
+    "name": "gargling/n6pNPVNOpf4_000016_000026",
+    "label": 205
+  },
+  {
+    "name": "tobogganing/7jwh9lraHqY_000025_000035",
+    "label": 145
+  },
+  {
+    "name": "crawling_baby/yFfPLTgF6fo_000044_000054",
+    "label": 213
+  },
+  {
+    "name": "crossing_river/6fWHyfU2huI_000056_000066",
+    "label": 367
+  },
+  {
+    "name": "disc_golfing/oQbMYMaxnUc_000002_000012",
+    "label": 68
+  },
+  {
+    "name": "planting_trees/GaKIYNUVZOw_000004_000014",
+    "label": 332
+  },
+  {
+    "name": "throwing_axe/f6v5fFxFDbI_000003_000013",
+    "label": 137
+  },
+  {
+    "name": "paragliding/f86NLdbvoMM_000661_000671",
+    "label": 263
+  },
+  {
+    "name": "blowing_glass/_Qjc-5iepvw_000063_000073",
+    "label": 124
+  },
+  {
+    "name": "scuba_diving/SQeh2dlHKMs_000247_000257",
+    "label": 226
+  },
+  {
+    "name": "tai_chi/FF3K-0ctflk_000312_000322",
+    "label": 400
+  },
+  {
+    "name": "riding_elephant/GBnvnmP528E_000016_000026",
+    "label": 264
+  },
+  {
+    "name": "filling_eyebrows/f69GWewN2i8_000382_000392",
+    "label": 283
+  },
+  {
+    "name": "passing_American_football_(in_game)/CoRSf9VUW8U_000034_000044",
+    "label": 151
+  },
+  {
+    "name": "feeding_birds/0nYkK11fDZk_000000_000010",
+    "label": 241
+  },
+  {
+    "name": "playing_ice_hockey/ynTzrdC0HTA_000001_000011",
+    "label": 278
+  },
+  {
+    "name": "eating_ice_cream/0W-Enb4ARIw_000026_000036",
+    "label": 156
+  },
+  {
+    "name": "exercising_with_an_exercise_ball/1WGwiNyTt48_000029_000039",
+    "label": 303
+  },
+  {
+    "name": "climbing_tree/5km5vkqB2EE_000012_000022",
+    "label": 209
+  },
+  {
+    "name": "counting_money/hmo0-LI2f1Y_000044_000054",
+    "label": 131
+  },
+  {
+    "name": "headbanging/aJeVYiCypKo_000046_000056",
+    "label": 138
+  },
+  {
+    "name": "eating_burger/gmE90XbBgOk_000000_000010",
+    "label": 322
+  },
+  {
+    "name": "sniffing/km2KZv5ld6s_000000_000010",
+    "label": 10
+  },
+  {
+    "name": "tasting_food/CYaZ0Kyvpso_000042_000052",
+    "label": 338
+  },
+  {
+    "name": "breakdancing/Zg6riYNSqG0_000040_000050",
+    "label": 157
+  },
+  {
+    "name": "swinging_legs/qcxz37e0JBs_000035_000045",
+    "label": 173
+  },
+  {
+    "name": "pumping_gas/5DbRjs8pN1Y_000167_000177",
+    "label": 2
+  },
+  {
+    "name": "baby_waking_up/36EsHuXW5jc_000002_000012",
+    "label": 9
+  },
+  {
+    "name": "blowing_out_candles/PmgPajkSXFs_000012_000022",
+    "label": 175
+  },
+  {
+    "name": "playing_didgeridoo/YFa9YMw5cK8_000000_000010",
+    "label": 350
+  },
+  {
+    "name": "swing_dancing/wQdc1MmlLOE_000143_000153",
+    "label": 341
+  },
+  {
+    "name": "eating_watermelon/IlsOigoQoWM_000036_000046",
+    "label": 37
+  },
+  {
+    "name": "diving_cliff/ovWE2GDsRAY_000011_000021",
+    "label": 219
+  },
+  {
+    "name": "riding_unicycle/k0Yhkc0liLI_000094_000104",
+    "label": 76
+  },
+  {
+    "name": "contact_juggling/C_zlTpTz81A_000002_000012",
+    "label": 221
+  },
+  {
+    "name": "folding_paper/4tqFWJfVXYw_000040_000050",
+    "label": 28
+  },
+  {
+    "name": "triple_jump/I1xk7ytTlEs_000002_000012",
+    "label": 215
+  },
+  {
+    "name": "cartwheeling/MlO5JT9y6PE_000021_000031",
+    "label": 27
+  },
+  {
+    "name": "laying_bricks/rHhJHI_iaGs_000126_000136",
+    "label": 258
+  },
+  {
+    "name": "dancing_macarena/y55EsVyDV_4_000118_000128",
+    "label": 387
+  },
+  {
+    "name": "headbutting/8ikRkM0ELrY_000002_000012",
+    "label": 320
+  },
+  {
+    "name": "passing_American_football_(not_in_game)/9N2wprz8JFs_000000_000010",
+    "label": 216
+  },
+  {
+    "name": "golf_putting/v9mtNLE-N3I_000030_000040",
+    "label": 187
+  },
+  {
+    "name": "tai_chi/Jtmv6TGYAQM_000023_000033",
+    "label": 400
+  },
+  {
+    "name": "climbing_tree/iEfohd6DAX4_000009_000019",
+    "label": 209
+  },
+  {
+    "name": "swimming_butterfly_stroke/0l6q5qOZCp8_000023_000033",
+    "label": 161
+  },
+  {
+    "name": "headbanging/TxCfpkJafyk_000016_000026",
+    "label": 138
+  },
+  {
+    "name": "playing_harmonica/MmD3qx8KMCI_000018_000028",
+    "label": 59
+  },
+  {
+    "name": "doing_nails/IctL05l2tHw_000121_000131",
+    "label": 250
+  },
+  {
+    "name": "cleaning_shoes/B2QBC7SgB-E_000004_000014",
+    "label": 392
+  },
+  {
+    "name": "waxing_legs/AH8fuUVKfrc_000010_000020",
+    "label": 228
+  },
+  {
+    "name": "arranging_flowers/YtMJ5QZsXhI_000313_000323",
+    "label": 170
+  },
+  {
+    "name": "capoeira/fBl4GShK3OM_000050_000060",
+    "label": 370
+  },
+  {
+    "name": "playing_poker/ERSf0To7kQQ_000292_000302",
+    "label": 203
+  },
+  {
+    "name": "eating_burger/Ks1xhTlJzH8_000017_000027",
+    "label": 322
+  },
+  {
+    "name": "bookbinding/hokM8dQc3aU_000211_000221",
+    "label": 313
+  },
+  {
+    "name": "rock_scissors_paper/Vc47k1w9wWM_000070_000080",
+    "label": 178
+  },
+  {
+    "name": "motorcycling/QcW4wXVqjGA_000011_000021",
+    "label": 340
+  },
+  {
+    "name": "jogging/W0RogcVL97A_000210_000220",
+    "label": 232
+  },
+  {
+    "name": "riding_or_walking_with_horse/t2auVba-2kM_000058_000068",
+    "label": 373
+  },
+  {
+    "name": "playing_trombone/Lw4NuGuILLg_000026_000036",
+    "label": 17
+  },
+  {
+    "name": "tossing_coin/OAFahreO1WM_000005_000015",
+    "label": 224
+  },
+  {
+    "name": "folding_paper/4U_57DOQ3uQ_000103_000113",
+    "label": 28
+  },
+  {
+    "name": "pole_vault/Lf6o6OSJgAA_000001_000011",
+    "label": 386
+  },
+  {
+    "name": "drinking_beer/axVBCqg6Keg_000052_000062",
+    "label": 235
+  },
+  {
+    "name": "doing_nails/CsqHBib47lU_000210_000220",
+    "label": 250
+  },
+  {
+    "name": "hitting_baseball/Wj8bKdmiSrc_000042_000052",
+    "label": 7
+  },
+  {
+    "name": "cutting_watermelon/aqul1ZAbKYE_000034_000044",
+    "label": 382
+  },
+  {
+    "name": "playing_monopoly/k27lRQCukpo_000136_000146",
+    "label": 31
+  },
+  {
+    "name": "snatch_weight_lifting/6L2c1GJlqoc_000000_000010",
+    "label": 389
+  },
+  {
+    "name": "cooking_on_campfire/YZ9GgSdbiEU_000182_000192",
+    "label": 282
+  },
+  {
+    "name": "drawing/_UZr32eKZxY_000006_000016",
+    "label": 249
+  },
+  {
+    "name": "busking/PIdeod5QFV0_000087_000097",
+    "label": 269
+  },
+  {
+    "name": "shooting_basketball/p60nxfuj-3A_000334_000344",
+    "label": 21
+  },
+  {
+    "name": "drop_kicking/RgrYEBl-tdo_000003_000013",
+    "label": 184
+  },
+  {
+    "name": "blowing_glass/BItRBa0ZsA4_000173_000183",
+    "label": 124
+  },
+  {
+    "name": "brush_painting/1yTgNgWCvic_000111_000121",
+    "label": 190
+  },
+  {
+    "name": "waxing_legs/0reLUhVycGQ_000229_000239",
+    "label": 228
+  },
+  {
+    "name": "singing/e18YdAXKwms_000268_000278",
+    "label": 372
+  },
+  {
+    "name": "making_pizza/7mfFLE2sFIY_000008_000018",
+    "label": 300
+  },
+  {
+    "name": "plastering/imVb_bEMmXI_000016_000026",
+    "label": 67
+  },
+  {
+    "name": "cleaning_windows/NiF_EiHBu80_000006_000016",
+    "label": 185
+  },
+  {
+    "name": "hurdling/Mq45CeIUO_s_000001_000011",
+    "label": 49
+  },
+  {
+    "name": "trimming_or_shaving_beard/xvRpLv5ufak_000054_000064",
+    "label": 393
+  },
+  {
+    "name": "shuffling_cards/JF9CeNGYbJI_000057_000067",
+    "label": 285
+  },
+  {
+    "name": "cleaning_gutters/iZDgdUfkORg_000003_000013",
+    "label": 240
+  },
+  {
+    "name": "shaving_head/M8U9YUW3Vlw_000437_000447",
+    "label": 319
+  },
+  {
+    "name": "doing_aerobics/kzV4iqVKu1o_000559_000569",
+    "label": 69
+  },
+  {
+    "name": "pumping_fist/CGTcMCgCcaw_000001_000011",
+    "label": 119
+  },
+  {
+    "name": "holding_snake/OBzf_bmQ2N4_000000_000010",
+    "label": 214
+  },
+  {
+    "name": "surfing_crowd/QBdRWehCeW8_000008_000018",
+    "label": 147
+  },
+  {
+    "name": "playing_harp/JKr0hKPBFsg_000313_000323",
+    "label": 160
+  },
+  {
+    "name": "disc_golfing/w45QbRD3WRQ_000200_000210",
+    "label": 68
+  },
+  {
+    "name": "salsa_dancing/lvAD-BsLZ5o_000125_000135",
+    "label": 57
+  },
+  {
+    "name": "snowkiting/VHXkpaNVUMY_000041_000051",
+    "label": 362
+  },
+  {
+    "name": "diving_cliff/2neUeBATJPA_000026_000036",
+    "label": 219
+  },
+  {
+    "name": "celebrating/eC6EzO0XhX0_000052_000062",
+    "label": 181
+  },
+  {
+    "name": "throwing_axe/MP1T1QolsLI_000031_000041",
+    "label": 137
+  },
+  {
+    "name": "drumming_fingers/b-S17tZNd2Y_000002_000012",
+    "label": 204
+  },
+  {
+    "name": "skateboarding/MRX-8UUmsqA_000013_000023",
+    "label": 191
+  },
+  {
+    "name": "playing_saxophone/IZ4JnxGc2JM_000083_000093",
+    "label": 388
+  },
+  {
+    "name": "smoking_hookah/WuswRqFVxGw_000000_000010",
+    "label": 24
+  },
+  {
+    "name": "catching_or_throwing_softball/-TAD4L8ceww_000003_000013",
+    "label": 343
+  },
+  {
+    "name": "playing_poker/DrzelmWLS74_000097_000107",
+    "label": 203
+  },
+  {
+    "name": "bouncing_on_trampoline/El0LPLi5JiI_000007_000017",
+    "label": 152
+  },
+  {
+    "name": "walking_the_dog/zP22hzvfBsI_000009_000019",
+    "label": 130
+  },
+  {
+    "name": "playing_drums/qB20sH1o9yg_000324_000334",
+    "label": 295
+  },
+  {
+    "name": "welding/7GUd5xLfJUY_000000_000010",
+    "label": 30
+  },
+  {
+    "name": "waxing_chest/STAKNfFYJWE_000029_000039",
+    "label": 35
+  },
+  {
+    "name": "smoking/PaFUI2YbEwg_000083_000093",
+    "label": 64
+  },
+  {
+    "name": "crawling_baby/2UxI82NwX_M_000001_000011",
+    "label": 213
+  },
+  {
+    "name": "playing_poker/Li1HtmnGzBM_001315_001325",
+    "label": 203
+  },
+  {
+    "name": "breading_or_breadcrumbing/T4h1bvOd9DA_000263_000273",
+    "label": 399
+  },
+  {
+    "name": "folding_napkins/5NntoUtGa8g_000156_000166",
+    "label": 112
+  },
+  {
+    "name": "eating_carrots/Mh7oUPjlpJY_000005_000015",
+    "label": 142
+  },
+  {
+    "name": "feeding_birds/-VuAeKfNf18_000175_000185",
+    "label": 241
+  },
+  {
+    "name": "playing_guitar/-araxNMgKLs_000324_000334",
+    "label": 155
+  },
+  {
+    "name": "air_drumming/if6Z2oPwK-8_000057_000067",
+    "label": 4
+  },
+  {
+    "name": "playing_guitar/aI_syE4iqoY_000006_000016",
+    "label": 155
+  },
+  {
+    "name": "playing_basketball/D1fyKUsNufI_000087_000097",
+    "label": 70
+  },
+  {
+    "name": "juggling_soccer_ball/XhURBzkZaqU_000151_000161",
+    "label": 355
+  },
+  {
+    "name": "cheerleading/bjwBv8Wojws_000065_000075",
+    "label": 202
+  },
+  {
+    "name": "feeding_birds/5S1rrj0zaAs_000048_000058",
+    "label": 241
+  },
+  {
+    "name": "high_jump/mRTj2bpfTjo_000003_000013",
+    "label": 123
+  },
+  {
+    "name": "celebrating/kzvNPp9IQh0_000277_000287",
+    "label": 181
+  },
+  {
+    "name": "beatboxing/U7H45xijv_I_000145_000155",
+    "label": 143
+  },
+  {
+    "name": "tobogganing/L7lGQsVZVe0_000058_000068",
+    "label": 145
+  },
+  {
+    "name": "skipping_rope/vpvRPknQLYc_000221_000231",
+    "label": 279
+  },
+  {
+    "name": "playing_volleyball/ETJ5JfrnYTM_000039_000049",
+    "label": 172
+  },
+  {
+    "name": "playing_badminton/p8huEaTPQpY_000035_000045",
+    "label": 6
+  },
+  {
+    "name": "bench_pressing/DnMx7EjjmFo_000011_000021",
+    "label": 171
+  },
+  {
+    "name": "country_line_dancing/V20nTkzlEdE_000274_000284",
+    "label": 77
+  },
+  {
+    "name": "feeding_goats/5dSGO1GRxKo_000000_000010",
+    "label": 223
+  },
+  {
+    "name": "ice_skating/xUuoMVlroMk_000090_000100",
+    "label": 349
+  },
+  {
+    "name": "pole_vault/ll5v0cNWU2Y_000010_000020",
+    "label": 386
+  },
+  {
+    "name": "playing_trombone/9waHXlsKmL4_000000_000010",
+    "label": 17
+  },
+  {
+    "name": "playing_bagpipes/clryZe_CkC4_000016_000026",
+    "label": 150
+  },
+  {
+    "name": "trimming_trees/59KI-cdW1yI_000011_000021",
+    "label": 195
+  },
+  {
+    "name": "playing_recorder/p_ZCTkYP2es_000014_000024",
+    "label": 309
+  },
+  {
+    "name": "shredding_paper/7M_B3KPAPe0_000001_000011",
+    "label": 315
+  },
+  {
+    "name": "surfing_crowd/WYo3kIPh2Ac_000000_000010",
+    "label": 147
+  },
+  {
+    "name": "skipping_rope/lXriayRePF0_000016_000026",
+    "label": 279
+  },
+  {
+    "name": "dancing_gangnam_style/8h0CjovpnSI_000023_000033",
+    "label": 395
+  },
+  {
+    "name": "gymnastics_tumbling/c_bFvVTKMb4_000002_000012",
+    "label": 91
+  },
+  {
+    "name": "playing_drums/1j0ITV0KCFc_000215_000225",
+    "label": 295
+  },
+  {
+    "name": "waxing_eyebrows/m__1uQFf7xw_000249_000259",
+    "label": 374
+  },
+  {
+    "name": "playing_guitar/l7N57ycvlNM_000157_000167",
+    "label": 155
+  },
+  {
+    "name": "drawing/MWuXAo-Y0qg_000064_000074",
+    "label": 249
+  },
+  {
+    "name": "playing_accordion/sIzz4Wv67ck_000001_000011",
+    "label": 56
+  },
+  {
+    "name": "dunking_basketball/yAIjv3lpuoQ_000008_000018",
+    "label": 298
+  },
+  {
+    "name": "dancing_charleston/WUhCPD4FWI4_000000_000010",
+    "label": 381
+  },
+  {
+    "name": "tap_dancing/LyTmmgeUQ70_000037_000047",
+    "label": 79
+  },
+  {
+    "name": "cutting_pineapple/Rv1HWYLX8UE_000010_000020",
+    "label": 134
+  },
+  {
+    "name": "snowkiting/aaDi27qczt8_000090_000100",
+    "label": 362
+  },
+  {
+    "name": "news_anchoring/LD2iUkYNaSg_000173_000183",
+    "label": 132
+  },
+  {
+    "name": "tai_chi/NI_YkJX_58c_000040_000050",
+    "label": 400
+  },
+  {
+    "name": "shredding_paper/KIPAGx-TRaI_000001_000011",
+    "label": 315
+  },
+  {
+    "name": "hitting_baseball/ye0quemaFx8_000015_000025",
+    "label": 7
+  },
+  {
+    "name": "dying_hair/cYJP8-O_xNk_000057_000067",
+    "label": 107
+  },
+  {
+    "name": "doing_laundry/gzk_b3qYrfE_000007_000017",
+    "label": 220
+  },
+  {
+    "name": "riding_elephant/H_wYPdqOkXo_000215_000225",
+    "label": 264
+  },
+  {
+    "name": "swimming_breast_stroke/ZhXAix2PJGI_000016_000026",
+    "label": 39
+  },
+  {
+    "name": "giving_or_receiving_award/z_F-EH62z0g_000015_000025",
+    "label": 291
+  },
+  {
+    "name": "abseiling/GzF_8pSQq98_000392_000402",
+    "label": 290
+  },
+  {
+    "name": "playing_tennis/NgAhsFhIf7c_000074_000084",
+    "label": 277
+  },
+  {
+    "name": "cooking_egg/cCRop_vfl2E_000040_000050",
+    "label": 206
+  },
+  {
+    "name": "crying/atiVxNebEi0_000000_000010",
+    "label": 368
+  },
+  {
+    "name": "trapezing/SYKxhw7kBow_000020_000030",
+    "label": 238
+  },
+  {
+    "name": "massaging_back/RbYq62WaZFA_000279_000289",
+    "label": 55
+  },
+  {
+    "name": "snowboarding/soAcKJGgVfk_000027_000037",
+    "label": 92
+  },
+  {
+    "name": "checking_tires/ooHK4AncjNc_000007_000017",
+    "label": 177
+  },
+  {
+    "name": "balloon_blowing/qvWSkGJg6wk_000017_000027",
+    "label": 284
+  },
+  {
+    "name": "playing_cards/HQRgj7-6Dwo_000089_000099",
+    "label": 293
+  },
+  {
+    "name": "tasting_food/clA_z5TP-9U_000112_000122",
+    "label": 338
+  },
+  {
+    "name": "baking_cookies/VFq7RLH_fAw_000005_000015",
+    "label": 311
+  },
+  {
+    "name": "tango_dancing/VO3YkpFrTbE_000054_000064",
+    "label": 385
+  },
+  {
+    "name": "trimming_or_shaving_beard/C5ZM5SX8wh4_000008_000018",
+    "label": 393
+  },
+  {
+    "name": "skateboarding/50oCbDJKXTo_000069_000079",
+    "label": 191
+  },
+  {
+    "name": "juggling_soccer_ball/ko7TLBFSpPk_000008_000018",
+    "label": 355
+  },
+  {
+    "name": "cutting_nails/2pxt-5sOiiA_000070_000080",
+    "label": 237
+  },
+  {
+    "name": "hopscotch/cq1CMd1vZX0_000013_000023",
+    "label": 256
+  },
+  {
+    "name": "planting_trees/ej7M6DdTRbY_000048_000058",
+    "label": 332
+  },
+  {
+    "name": "setting_table/wdLVD9No4w0_000062_000072",
+    "label": 16
+  },
+  {
+    "name": "playing_trumpet/JETn-lVPNYs_000056_000066",
+    "label": 82
+  },
+  {
+    "name": "salsa_dancing/PPS7_EJSs1M_000057_000067",
+    "label": 57
+  },
+  {
+    "name": "cooking_chicken/Q7GAw7LFByw_000296_000306",
+    "label": 351
+  },
+  {
+    "name": "golf_putting/gRJfeGaDdtw_000040_000050",
+    "label": 187
+  },
+  {
+    "name": "beatboxing/bqtyh0YR3Ws_000185_000195",
+    "label": 143
+  },
+  {
+    "name": "squat/D2G3-J8dU_M_000015_000025",
+    "label": 288
+  },
+  {
+    "name": "unboxing/HnHpqTUR9SQ_000052_000062",
+    "label": 53
+  },
+  {
+    "name": "pushing_cart/JVudsWBS0wA_000009_000019",
+    "label": 74
+  },
+  {
+    "name": "robot_dancing/RpWhduKx-P4_000244_000254",
+    "label": 133
+  },
+  {
+    "name": "carving_pumpkin/Sen5jDE2tlI_000142_000152",
+    "label": 83
+  },
+  {
+    "name": "bench_pressing/OQG-2AODGnU_000016_000026",
+    "label": 171
+  },
+  {
+    "name": "shaving_legs/xdmrrFX0w-c_000256_000266",
+    "label": 339
+  },
+  {
+    "name": "shearing_sheep/k5f1g8ip4nM_000019_000029",
+    "label": 233
+  },
+  {
+    "name": "washing_feet/lmllAX_KHNY_000137_000147",
+    "label": 347
+  },
+  {
+    "name": "passing_American_football_(in_game)/kxI6wbvPMMk_000004_000014",
+    "label": 151
+  },
+  {
+    "name": "arm_wrestling/KOHp2FBZffI_000000_000010",
+    "label": 46
+  },
+  {
+    "name": "capoeira/sPuQSKwLfrg_000609_000619",
+    "label": 370
+  },
+  {
+    "name": "playing_trumpet/PIaRJpLmfn0_000011_000021",
+    "label": 82
+  },
+  {
+    "name": "pumping_fist/ufrWDHnVlCg_000001_000011",
+    "label": 119
+  },
+  {
+    "name": "canoeing_or_kayaking/TlOvFAuNJl0_000001_000011",
+    "label": 20
+  },
+  {
+    "name": "pole_vault/Zgeq9NZQcNQ_000002_000012",
+    "label": 386
+  },
+  {
+    "name": "playing_xylophone/zjDhdcxwyPo_000022_000032",
+    "label": 87
+  },
+  {
+    "name": "fixing_hair/_XLkPvAXcAU_000110_000120",
+    "label": 198
+  },
+  {
+    "name": "roller_skating/0VwfJQ4aEM0_000020_000030",
+    "label": 18
+  },
+  {
+    "name": "playing_poker/cCoCjni1IZc_000026_000036",
+    "label": 203
+  },
+  {
+    "name": "shearing_sheep/TAyoafdBsZU_000037_000047",
+    "label": 233
+  },
+  {
+    "name": "waxing_back/xbdid3PUvSM_000038_000048",
+    "label": 281
+  },
+  {
+    "name": "surfing_crowd/evGD_oj45_E_000023_000033",
+    "label": 147
+  },
+  {
+    "name": "long_jump/VnXVk4VGgS4_000030_000040",
+    "label": 33
+  },
+  {
+    "name": "picking_fruit/9pd986X2cHI_000023_000033",
+    "label": 267
+  },
+  {
+    "name": "marching/e04g6ra7U8s_000063_000073",
+    "label": 174
+  },
+  {
+    "name": "blowing_out_candles/OHg9-Dqd2Jk_000003_000013",
+    "label": 175
+  },
+  {
+    "name": "playing_poker/fMjuP0uvIKA_000264_000274",
+    "label": 203
+  },
+  {
+    "name": "sharpening_knives/DacM_0AZbFA_000269_000279",
+    "label": 73
+  },
+  {
+    "name": "mopping_floor/Cy4S6P4CFxY_000005_000015",
+    "label": 40
+  },
+  {
+    "name": "washing_dishes/fmP5sr57iHg_000004_000014",
+    "label": 273
+  },
+  {
+    "name": "playing_basketball/s5N2Z9Ve-hg_000039_000049",
+    "label": 70
+  },
+  {
+    "name": "bouncing_on_trampoline/DffrrzzS3_w_000162_000172",
+    "label": 152
+  },
+  {
+    "name": "catching_fish/fC4deanPPQk_000037_000047",
+    "label": 348
+  },
+  {
+    "name": "blowing_glass/XVGBPOTXsxw_000027_000037",
+    "label": 124
+  },
+  {
+    "name": "playing_accordion/2VvBXmYVGjg_000024_000034",
+    "label": 56
+  },
+  {
+    "name": "bobsledding/5KvwdEsrqEY_000016_000026",
+    "label": 227
+  },
+  {
+    "name": "hoverboarding/rX88jFRDl5k_000002_000012",
+    "label": 371
+  },
+  {
+    "name": "making_snowman/DsvqZxBwfcw_000042_000052",
+    "label": 259
+  },
+  {
+    "name": "brushing_teeth/8R8r_ohAdPw_000000_000010",
+    "label": 153
+  },
+  {
+    "name": "side_kick/Ah1Y5AbrXdM_000048_000058",
+    "label": 98
+  },
+  {
+    "name": "barbequing/21BlEfGofzQ_000016_000026",
+    "label": 90
+  },
+  {
+    "name": "massaging_person's_head/9cC2HHZFIMs_000393_000403",
+    "label": 15
+  },
+  {
+    "name": "deadlifting/HnnfFKrmb9w_000019_000029",
+    "label": 359
+  },
+  {
+    "name": "tai_chi/qV7j-jQCH3M_000027_000037",
+    "label": 400
+  },
+  {
+    "name": "filling_eyebrows/vd0tkKUhxa0_000117_000127",
+    "label": 283
+  },
+  {
+    "name": "strumming_guitar/YJJKZjjh1kA_000542_000552",
+    "label": 383
+  },
+  {
+    "name": "motorcycling/pF2iLc7HLTQ_000010_000020",
+    "label": 340
+  },
+  {
+    "name": "playing_squash_or_racquetball/LZq2EIloyFY_000093_000103",
+    "label": 270
+  },
+  {
+    "name": "high_jump/Lexn8-guMN0_000001_000011",
+    "label": 123
+  },
+  {
+    "name": "cutting_watermelon/c-UhdS0vL3c_000149_000159",
+    "label": 382
+  },
+  {
+    "name": "tying_knot_(not_on_a_tie)/LTgl6nb7qb4_000068_000078",
+    "label": 307
+  },
+  {
+    "name": "contact_juggling/xUNlrvF5tW0_000029_000039",
+    "label": 221
+  },
+  {
+    "name": "playing_cymbals/LpFskJUqWYs_000095_000105",
+    "label": 336
+  },
+  {
+    "name": "playing_ukulele/rCdXN2KIRuM_000005_000015",
+    "label": 280
+  },
+  {
+    "name": "riding_camel/cagT6xA-VOw_000000_000010",
+    "label": 326
+  },
+  {
+    "name": "tickling/5cxreyLIy3s_000200_000210",
+    "label": 80
+  },
+  {
+    "name": "ice_skating/suotyYqVop8_000059_000069",
+    "label": 349
+  },
+  {
+    "name": "dribbling_basketball/00Wq2ULInyY_000002_000012",
+    "label": 105
+  },
+  {
+    "name": "dribbling_basketball/gaoQp3Z4cLM_000042_000052",
+    "label": 105
+  },
+  {
+    "name": "bending_back/mNnyVLD9qu0_000003_000013",
+    "label": 363
+  },
+  {
+    "name": "tying_knot_(not_on_a_tie)/SfJ-SyJky_o_000096_000106",
+    "label": 307
+  },
+  {
+    "name": "javelin_throw/WMkDnTtb20c_000000_000010",
+    "label": 243
+  },
+  {
+    "name": "arm_wrestling/ifahs7OdpSY_000000_000010",
+    "label": 46
+  },
+  {
+    "name": "presenting_weather_forecast/ixqELD6K9lY_000013_000023",
+    "label": 41
+  },
+  {
+    "name": "playing_organ/DaGe4H6-aoU_000259_000269",
+    "label": 26
+  },
+  {
+    "name": "dodgeball/cPKEacLk10Y_000005_000015",
+    "label": 110
+  },
+  {
+    "name": "pumping_fist/jE1pMG7yU2I_000000_000010",
+    "label": 119
+  },
+  {
+    "name": "giving_or_receiving_award/30GyR4DxvfE_000041_000051",
+    "label": 291
+  },
+  {
+    "name": "using_computer/iQHvAZ1EM_E_000037_000047",
+    "label": 248
+  },
+  {
+    "name": "planting_trees/FoGEx9fXos0_000029_000039",
+    "label": 332
+  },
+  {
+    "name": "blowing_nose/DvuqWMxt8Sw_000009_000019",
+    "label": 357
+  },
+  {
+    "name": "milking_cow/Ndn5JLgq8CU_000001_000011",
+    "label": 318
+  },
+  {
+    "name": "playing_kickball/iqe_HmjojQ8_000002_000012",
+    "label": 111
+  },
+  {
+    "name": "side_kick/AwPUEFOuX0Q_000004_000014",
+    "label": 98
+  },
+  {
+    "name": "roller_skating/hdAuCYdb-zc_000182_000192",
+    "label": 18
+  },
+  {
+    "name": "hitting_baseball/zjLBCUc6IAc_000002_000012",
+    "label": 7
+  },
+  {
+    "name": "playing_paintball/BEqSBLjghbY_000059_000069",
+    "label": 242
+  },
+  {
+    "name": "catching_or_throwing_baseball/zohEBjgiVa8_000021_000031",
+    "label": 139
+  },
+  {
+    "name": "long_jump/-Kynokg-dX8_000043_000053",
+    "label": 33
+  },
+  {
+    "name": "using_computer/EMOlFIntl60_000301_000311",
+    "label": 248
+  },
+  {
+    "name": "trapezing/c3UBSAs0XwQ_000003_000013",
+    "label": 238
+  },
+  {
+    "name": "playing_harmonica/AZxXUVzpu6U_000011_000021",
+    "label": 59
+  },
+  {
+    "name": "stretching_leg/9I3VN925pd8_000020_000030",
+    "label": 164
+  },
+  {
+    "name": "belly_dancing/TlqJglZJeCE_000186_000196",
+    "label": 321
+  },
+  {
+    "name": "juggling_soccer_ball/dgNOYUKgjrY_000004_000014",
+    "label": 355
+  },
+  {
+    "name": "dodgeball/W34G-JO48eU_000084_000094",
+    "label": 110
+  },
+  {
+    "name": "mopping_floor/_qTSCMmQRU4_000025_000035",
+    "label": 40
+  },
+  {
+    "name": "smoking/iZH-MioXxn8_000086_000096",
+    "label": 64
+  },
+  {
+    "name": "juggling_balls/jiNpowZepmA_000014_000024",
+    "label": 301
+  },
+  {
+    "name": "drop_kicking/-eCD7X2FKjw_000001_000011",
+    "label": 184
+  },
+  {
+    "name": "finger_snapping/wMkfjlDCvdw_000000_000010",
+    "label": 117
+  },
+  {
+    "name": "dancing_charleston/v78qRzor84U_000049_000059",
+    "label": 381
+  },
+  {
+    "name": "unboxing/fzWIp6ef_no_000118_000128",
+    "label": 53
+  },
+  {
+    "name": "washing_dishes/ZA7kuwWPmmY_000150_000160",
+    "label": 273
+  },
+  {
+    "name": "playing_cymbals/Bn-oeu7wO14_000057_000067",
+    "label": 336
+  },
+  {
+    "name": "long_jump/fDx6o7WBz0M_000004_000014",
+    "label": 33
+  },
+  {
+    "name": "picking_fruit/ctc8Gq-QDBo_000008_000018",
+    "label": 267
+  },
+  {
+    "name": "trapezing/C4Fg8ILWfk4_000136_000146",
+    "label": 238
+  },
+  {
+    "name": "shaving_head/b7XZSuyHDx0_000222_000232",
+    "label": 319
+  },
+  {
+    "name": "doing_laundry/pSWAY7X2KIg_000269_000279",
+    "label": 220
+  },
+  {
+    "name": "wrestling/m9PMESH7kfM_000031_000041",
+    "label": 265
+  },
+  {
+    "name": "getting_a_haircut/y66khPycYVc_000000_000010",
+    "label": 328
+  },
+  {
+    "name": "driving_car/KFxMAKXFWbs_000078_000088",
+    "label": 287
+  },
+  {
+    "name": "shredding_paper/ca9ym2b0saA_000125_000135",
+    "label": 315
+  },
+  {
+    "name": "playing_trombone/LMhQKQPLxM0_000003_000013",
+    "label": 17
+  },
+  {
+    "name": "headbanging/mVO3rOq_7Sc_000011_000021",
+    "label": 138
+  },
+  {
+    "name": "dying_hair/5k3tpLt5MSo_000384_000394",
+    "label": 107
+  },
+  {
+    "name": "dancing_ballet/e1GHxQxivyE_000062_000072",
+    "label": 168
+  },
+  {
+    "name": "walking_the_dog/gLmv5bmEsCo_000001_000011",
+    "label": 130
+  },
+  {
+    "name": "laughing/ywCIg9IY804_000357_000367",
+    "label": 23
+  },
+  {
+    "name": "high_jump/4l-49FL79A4_000125_000135",
+    "label": 123
+  },
+  {
+    "name": "climbing_a_rope/sUb_1cNnwqc_000015_000025",
+    "label": 276
+  },
+  {
+    "name": "catching_or_throwing_frisbee/JEy938-vO3c_000000_000010",
+    "label": 344
+  },
+  {
+    "name": "bee_keeping/dh_7COCeM_w_000039_000049",
+    "label": 197
+  },
+  {
+    "name": "beatboxing/fZOCglquJms_000208_000218",
+    "label": 143
+  },
+  {
+    "name": "spinning_poi/a00qa7eW5jI_000339_000349",
+    "label": 158
+  },
+  {
+    "name": "crossing_river/ksC94DnjNUo_000010_000020",
+    "label": 367
+  },
+  {
+    "name": "ripping_paper/0_k6XiBEnBg_000018_000028",
+    "label": 296
+  },
+  {
+    "name": "abseiling/NlLzuNVGl8U_000040_000050",
+    "label": 290
+  },
+  {
+    "name": "jumping_into_pool/iJVHfeE4laY_000008_000018",
+    "label": 391
+  },
+  {
+    "name": "cooking_on_campfire/cdN_zXHgd5A_000039_000049",
+    "label": 282
+  },
+  {
+    "name": "stretching_leg/BNdWsA_Sxns_000483_000493",
+    "label": 164
+  },
+  {
+    "name": "dunking_basketball/Uw150-I_apI_000001_000011",
+    "label": 298
+  },
+  {
+    "name": "walking_the_dog/YIoVrakZXHE_000056_000066",
+    "label": 130
+  },
+  {
+    "name": "eating_doughnuts/V3qB_DLrKus_000013_000023",
+    "label": 365
+  },
+  {
+    "name": "skiing_crosscountry/F0a0HPoAdgY_000153_000163",
+    "label": 169
+  },
+  {
+    "name": "roller_skating/Rf-1y-2TMrw_000149_000159",
+    "label": 18
+  },
+  {
+    "name": "cheerleading/IbD8KXEC428_000147_000157",
+    "label": 202
+  },
+  {
+    "name": "water_sliding/oX-yYQRs3sE_000000_000010",
+    "label": 180
+  },
+  {
+    "name": "texting/C2gZs2oB1r4_000029_000039",
+    "label": 193
+  },
+  {
+    "name": "holding_snake/xAbtPdjqbUc_000016_000026",
+    "label": 214
+  },
+  {
+    "name": "spinning_poi/KPm5ePveDTQ_000004_000014",
+    "label": 158
+  },
+  {
+    "name": "ripping_paper/LBlXTHy8ogg_000004_000014",
+    "label": 296
+  },
+  {
+    "name": "kicking_field_goal/tctcEucH6uY_000002_000012",
+    "label": 266
+  },
+  {
+    "name": "contact_juggling/uuchpEpJ2Sk_000155_000165",
+    "label": 221
+  },
+  {
+    "name": "cooking_egg/JbQeftEaqEo_000317_000327",
+    "label": 206
+  },
+  {
+    "name": "shaking_hands/i9y9q6kvF30_000001_000011",
+    "label": 327
+  },
+  {
+    "name": "fixing_hair/jL3Hnk1c1oc_000017_000027",
+    "label": 198
+  },
+  {
+    "name": "petting_animal_(not_cat)/gCmSQwx_XUs_000027_000037",
+    "label": 72
+  },
+  {
+    "name": "punching_bag/e_l_Cu-WXUw_000060_000070",
+    "label": 48
+  },
+  {
+    "name": "skiing_(not_slalom_or_crosscountry)/2VOOcP-QELo_000099_000109",
+    "label": 128
+  },
+  {
+    "name": "eating_spaghetti/cWwBPFzesBk_000012_000022",
+    "label": 364
+  },
+  {
+    "name": "playing_volleyball/jHBKhWGIXyY_000018_000028",
+    "label": 172
+  },
+  {
+    "name": "walking_the_dog/z1liblrQEnc_000000_000010",
+    "label": 130
+  },
+  {
+    "name": "blowing_out_candles/6uWoRIxnnGg_000014_000024",
+    "label": 175
+  },
+  {
+    "name": "deadlifting/anEl0ddosaM_000004_000014",
+    "label": 359
+  },
+  {
+    "name": "tango_dancing/kOZo17Ga9SU_000076_000086",
+    "label": 385
+  },
+  {
+    "name": "peeling_apples/V02AnDCd--w_000008_000018",
+    "label": 3
+  },
+  {
+    "name": "sled_dog_racing/hKyDBOc4UoA_000128_000138",
+    "label": 154
+  },
+  {
+    "name": "disc_golfing/ccCVwjJrQR0_000001_000011",
+    "label": 68
+  },
+  {
+    "name": "laying_bricks/CQAElL8jpfI_000014_000024",
+    "label": 258
+  },
+  {
+    "name": "playing_ukulele/jmlh6pNryZ0_000052_000062",
+    "label": 280
+  },
+  {
+    "name": "assembling_computer/JFO0XgD724U_000139_000149",
+    "label": 113
+  },
+  {
+    "name": "tickling/q_5Y8tgQy9k_000000_000010",
+    "label": 80
+  },
+  {
+    "name": "snowkiting/kD2UoBfIQmw_000039_000049",
+    "label": 362
+  },
+  {
+    "name": "rock_scissors_paper/mEIeT8TcwVU_000000_000010",
+    "label": 178
+  },
+  {
+    "name": "gymnastics_tumbling/RuXXgYHzklc_000000_000010",
+    "label": 91
+  },
+  {
+    "name": "making_pizza/FFcDMD699Vg_000270_000280",
+    "label": 300
+  },
+  {
+    "name": "brushing_teeth/ymEnMmlx1Sk_000032_000042",
+    "label": 153
+  },
+  {
+    "name": "sniffing/W4PoJ2p20L8_000034_000044",
+    "label": 10
+  },
+  {
+    "name": "mowing_lawn/8CTfkmXxKFE_000103_000113",
+    "label": 306
+  },
+  {
+    "name": "flying_kite/_UjI18jz8jc_000002_000012",
+    "label": 354
+  },
+  {
+    "name": "tap_dancing/OFLdO4NRwds_000007_000017",
+    "label": 79
+  },
+  {
+    "name": "dunking_basketball/h7Jr6QBRzSg_000022_000032",
+    "label": 298
+  },
+  {
+    "name": "robot_dancing/D5gi1WQGX6A_000057_000067",
+    "label": 133
+  },
+  {
+    "name": "lunge/w2ZoOCDp_UQ_000004_000014",
+    "label": 239
+  },
+  {
+    "name": "blowing_glass/IrJ0of_WOUE_000187_000197",
+    "label": 124
+  },
+  {
+    "name": "brushing_teeth/H8m6OXCRkic_000000_000010",
+    "label": 153
+  },
+  {
+    "name": "riding_mule/agYu04ueYPc_000055_000065",
+    "label": 94
+  },
+  {
+    "name": "rock_climbing/9JZaAC_6CuY_000137_000147",
+    "label": 144
+  },
+  {
+    "name": "trimming_trees/UQaMJYhFDR4_000000_000010",
+    "label": 195
+  },
+  {
+    "name": "playing_chess/zmORdRqw-aY_000346_000356",
+    "label": 5
+  },
+  {
+    "name": "folding_clothes/B56YQC9f75s_000000_000010",
+    "label": 121
+  },
+  {
+    "name": "riding_camel/piyNwsMO2mY_000001_000011",
+    "label": 326
+  },
+  {
+    "name": "riding_mechanical_bull/tBpGdhINLYE_000027_000037",
+    "label": 140
+  },
+  {
+    "name": "riding_elephant/mh9v8j_BcEE_000019_000029",
+    "label": 264
+  },
+  {
+    "name": "bookbinding/CByp8nl80GA_000120_000130",
+    "label": 313
+  },
+  {
+    "name": "country_line_dancing/onmenU8-c9c_000052_000062",
+    "label": 77
+  },
+  {
+    "name": "hitting_baseball/PbudouKfE8w_000036_000046",
+    "label": 7
+  },
+  {
+    "name": "clay_pottery_making/mZacNVGoMdA_000166_000176",
+    "label": 201
+  },
+  {
+    "name": "sled_dog_racing/t_YkYhy2LH4_000065_000075",
+    "label": 154
+  },
+  {
+    "name": "long_jump/EcDWEdr4OKk_000006_000016",
+    "label": 33
+  },
+  {
+    "name": "hitting_baseball/gAfu4ZVilPI_000031_000041",
+    "label": 7
+  },
+  {
+    "name": "flying_kite/PJ6Fofx9bak_000004_000014",
+    "label": 354
+  },
+  {
+    "name": "reading_book/BLVXrmI9gMM_000019_000029",
+    "label": 246
+  },
+  {
+    "name": "riding_scooter/ApMXH87jfW4_000004_000014",
+    "label": 378
+  },
+  {
+    "name": "hurdling/NgW80dKNQSM_000008_000018",
+    "label": 49
+  },
+  {
+    "name": "dancing_macarena/q3VdYO8taEk_000014_000024",
+    "label": 387
+  },
+  {
+    "name": "swinging_on_something/T5BOXjYEj5U_000026_000036",
+    "label": 89
+  },
+  {
+    "name": "playing_chess/SCa4nbSBlaM_000012_000022",
+    "label": 5
+  },
+  {
+    "name": "playing_guitar/HoKR4QOaxKM_000194_000204",
+    "label": 155
+  },
+  {
+    "name": "dunking_basketball/K889VcBIW3s_000004_000014",
+    "label": 298
+  },
+  {
+    "name": "breakdancing/sqdz0eRaD8A_000000_000010",
+    "label": 157
+  },
+  {
+    "name": "playing_basketball/5ZbO8WUUH9I_000005_000015",
+    "label": 70
+  },
+  {
+    "name": "hurdling/EcQuCO8R35E_000004_000014",
+    "label": 49
+  },
+  {
+    "name": "hammer_throw/PQF6eVTh0UE_000006_000016",
+    "label": 13
+  },
+  {
+    "name": "playing_badminton/vQY5SyKwymA_000020_000030",
+    "label": 6
+  },
+  {
+    "name": "salsa_dancing/XovMZCTJ1U8_000088_000098",
+    "label": 57
+  },
+  {
+    "name": "bouncing_on_trampoline/0hpca_nFLWI_000029_000039",
+    "label": 152
+  },
+  {
+    "name": "brushing_teeth/4ELRz2wVo-k_000037_000047",
+    "label": 153
+  },
+  {
+    "name": "golf_chipping/xikCfjCiFDc_000006_000016",
+    "label": 19
+  },
+  {
+    "name": "crossing_river/XJbeqAWBjg4_000001_000011",
+    "label": 367
+  },
+  {
+    "name": "shoveling_snow/JBdAQY1ypqk_000102_000112",
+    "label": 335
+  },
+  {
+    "name": "cooking_egg/gBqh4Rtp_FA_000058_000068",
+    "label": 206
+  },
+  {
+    "name": "playing_clarinet/te0srF4876Q_000258_000268",
+    "label": 36
+  },
+  {
+    "name": "kitesurfing/HnAV533bglA_000027_000037",
+    "label": 316
+  },
+  {
+    "name": "tobogganing/vlzsdHeCUjA_000027_000037",
+    "label": 145
+  },
+  {
+    "name": "arranging_flowers/YRqp2oLOzHk_000153_000163",
+    "label": 170
+  },
+  {
+    "name": "tango_dancing/XwaWMzdbksE_000050_000060",
+    "label": 385
+  },
+  {
+    "name": "skateboarding/Izx0xFxE5Io_000111_000121",
+    "label": 191
+  },
+  {
+    "name": "hitting_baseball/QM8lUJ_weLo_000002_000012",
+    "label": 7
+  },
+  {
+    "name": "playing_trombone/qzqJd97owIk_000130_000140",
+    "label": 17
+  },
+  {
+    "name": "driving_tractor/MtLquhAmqO4_000321_000331",
+    "label": 286
+  },
+  {
+    "name": "ripping_paper/A3uZUX06qMs_000010_000020",
+    "label": 296
+  },
+  {
+    "name": "finger_snapping/vxrM-HU9ITQ_000025_000035",
+    "label": 117
+  },
+  {
+    "name": "writing/lYaUMsXoTkc_000074_000084",
+    "label": 149
+  },
+  {
+    "name": "roller_skating/9978J08akKU_000225_000235",
+    "label": 18
+  },
+  {
+    "name": "high_kick/rSp2nJWKvho_000008_000018",
+    "label": 81
+  },
+  {
+    "name": "extinguishing_fire/NbQsWr-mtKk_000061_000071",
+    "label": 333
+  },
+  {
+    "name": "shaving_legs/uhQO1c1YpVk_000031_000041",
+    "label": 339
+  },
+  {
+    "name": "feeding_fish/d0ZAc6t9tLU_000112_000122",
+    "label": 346
+  },
+  {
+    "name": "making_snowman/55OnNfa-HeY_000259_000269",
+    "label": 259
+  },
+  {
+    "name": "playing_harp/SSBloEEQ5gw_000026_000036",
+    "label": 160
+  },
+  {
+    "name": "feeding_birds/GjVpLWGgTQc_000053_000063",
+    "label": 241
+  },
+  {
+    "name": "catching_or_throwing_frisbee/oUZyXobIMb8_000000_000010",
+    "label": 344
+  },
+  {
+    "name": "making_jewelry/dhFwx_1HBJc_000002_000012",
+    "label": 34
+  },
+  {
+    "name": "riding_elephant/bmYaB8cXpTM_000013_000023",
+    "label": 264
+  },
+  {
+    "name": "windsurfing/b6RHFZ_LnaQ_000083_000093",
+    "label": 11
+  },
+  {
+    "name": "planting_trees/cH6xnu4TJfU_001351_001361",
+    "label": 332
+  },
+  {
+    "name": "blowing_out_candles/C8b3jnpclx0_000011_000021",
+    "label": 175
+  },
+  {
+    "name": "playing_basketball/MWgeKRdIc0w_000055_000065",
+    "label": 70
+  },
+  {
+    "name": "massaging_legs/GPEZqCtCD_w_000292_000302",
+    "label": 22
+  },
+  {
+    "name": "hammer_throw/qKjbg1sAIfU_000171_000181",
+    "label": 13
+  },
+  {
+    "name": "sticking_tongue_out/W9Iqkh3A0iE_000009_000019",
+    "label": 1
+  },
+  {
+    "name": "making_a_cake/iO1Fk_zqeuU_000004_000014",
+    "label": 212
+  },
+  {
+    "name": "playing_badminton/gVC9IzyRAXI_000001_000011",
+    "label": 6
+  },
+  {
+    "name": "skipping_rope/3L_xxlvyR98_000031_000041",
+    "label": 279
+  },
+  {
+    "name": "applauding/mJM4fYE55Hs_000029_000039",
+    "label": 207
+  },
+  {
+    "name": "petting_cat/sMncQT40c9M_000006_000016",
+    "label": 146
+  },
+  {
+    "name": "shaving_head/D3F7dI4aJoA_000162_000172",
+    "label": 319
+  },
+  {
+    "name": "dunking_basketball/lNtQuC_O0UE_000076_000086",
+    "label": 298
+  },
+  {
+    "name": "blowing_out_candles/tVXKLfUOTc8_000004_000014",
+    "label": 175
+  },
+  {
+    "name": "jetskiing/gS2SlrzBDhc_000067_000077",
+    "label": 247
+  },
+  {
+    "name": "ski_jumping/UhL_BX1i1eQ_000053_000063",
+    "label": 397
+  },
+  {
+    "name": "playing_volleyball/krcz39kfYeg_000003_000013",
+    "label": 172
+  },
+  {
+    "name": "riding_scooter/b0yLy88qqNA_000003_000013",
+    "label": 378
+  },
+  {
+    "name": "clapping/SOSz8BIA9vw_000028_000038",
+    "label": 114
+  },
+  {
+    "name": "playing_tennis/FZVIxsv8lh4_000002_000012",
+    "label": 277
+  },
+  {
+    "name": "canoeing_or_kayaking/6tUXTDcMJ-Y_000009_000019",
+    "label": 20
+  },
+  {
+    "name": "salsa_dancing/xcxZOaa77to_000000_000010",
+    "label": 57
+  },
+  {
+    "name": "spray_painting/4aCw0Tpx5-8_000000_000010",
+    "label": 122
+  },
+  {
+    "name": "stretching_arm/c16RSJbpHkQ_000002_000012",
+    "label": 194
+  },
+  {
+    "name": "finger_snapping/Lhbm0Rmkcr0_000038_000048",
+    "label": 117
+  },
+  {
+    "name": "playing_guitar/CPe5iCHV1d4_000044_000054",
+    "label": 155
+  },
+  {
+    "name": "jumpstyle_dancing/opcGduQiyRA_000000_000010",
+    "label": 255
+  },
+  {
+    "name": "using_remote_controller_(not_gaming)/WXlahdAbcPs_000082_000092",
+    "label": 86
+  },
+  {
+    "name": "skateboarding/9gTsMaPg6s4_000030_000040",
+    "label": 191
+  },
+  {
+    "name": "shooting_basketball/zZXpeOcjeBU_000003_000013",
+    "label": 21
+  }
+]
