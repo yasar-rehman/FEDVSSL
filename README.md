@@ -17,6 +17,7 @@ We provide a series of federated-SSL pretrined models of [VCOP](https://openacce
 The models can be downloaded at ... (TBA)
 
 # News
+- [x] Checkout the teaser of our work at the [Flower.dev-2022](https://flower.dev/conf/flower-summit-2022/) summit. 
 # Dependencies
 - [x] [Anaconda environment with python 3.8](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) 
 - [x] [Flower](https://flower.dev/) <br>
