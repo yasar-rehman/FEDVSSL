@@ -47,4 +47,8 @@ The complete list of such methods are provided under the Task folder
 # Issues: 
 If you encounter any issues, feel free to open an issue in the github 
 
+
 # Citations
+
+# Acknowledgement
+We would like to thank [Daniel J. Beutel](https://github.com/danieljanes) for providing the initial blueprint of Federated self-supervised learning with flower. Also thanks to [Akhil Mathur](https://akhilmathurs.github.io/index.html) for providing the useful suggestions.
