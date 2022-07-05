@@ -4,7 +4,7 @@ This is a general purpose repository for Federated Self-Superivised Learning for
 <img src="https://github.com/yasar-rehman/FEDVSSL/blob/master/FVSSL.png"/>
  </p>
 
-The paper can be found at 
+The paper can be found at (link to the ArXiv will be added soon!)
 
 # Authors
 [Yasar Abbas Ur Rehman](https://yasar-rehman.github.io/yasar/) <br>
@@ -14,7 +14,7 @@ The paper can be found at
 [Nicholas D. Lane](http://niclane.org/) <br>
 
 # Dataset:
-we use [Kinetics-400](https://www.deepmind.com/open-source/kinetics) for Centralized and FL pretraining. For evaluation, we use [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php) and [HMDB-51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/).
+We use [Kinetics-400](https://www.deepmind.com/open-source/kinetics) for Centralized and FL pretraining. For evaluation, we use [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php) and [HMDB-51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/).
 
 One can generate the non-iid version of kinetics-400 with 100 clients by running the ````python scripts/k400_non_iid.py```` and the iid version of kinetics-400 with 100 clients by running ````python scripts/kinetics_json_splitter.py````. Note that these two codes assume that you have already downloaded the official trainlist of kineticss-400. 
 
@@ -27,7 +27,7 @@ We provide a series of federated-SSL pretrined models of [VCOP](https://openacce
 The models can be downloaded at ... (TBA)
 
 # News
-- [x] Checkout the teaser of our work at the [Flower.dev-2022](https://flower.dev/conf/flower-summit-2022/) summit. 
+- [x] Checkout the teaser of our work on the [YouTube](https://www.youtube.com/watch?v=ZLqst0lVte8&list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6&index=8) summit. 
 # Dependencies
 - [x] [Anaconda environment with python 3.8](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) 
 - [x] [Flower](https://flower.dev/) <br>
