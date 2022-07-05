@@ -8,7 +8,7 @@ The paper can be found at (link to the ArXiv will be added soon!)
 
 # Authors
 - [Yasar Abbas Ur Rehman](https://yasar-rehman.github.io/yasar/) <br>
-- [Gao Yan] <br>
+- Gao Yan <br>
 - [pedro porto buarque de gusmão](https://www.linkedin.com/in/pedropgusmao/?originalSubdomain=uk) <br>
 - [JiaJun Shen](https://www.linkedin.com/in/jiajunshen/) <br>
 - [Nicholas D. Lane](http://niclane.org/) <br>
