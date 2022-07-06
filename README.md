@@ -80,6 +80,8 @@ f"--validate"])
 ````
 
 ## Expected Results
+For the detailed results regarding the below checkpoints, please see [Table 4](https://arxiv.org/pdf/2207.01975.pdf) in the [manuscript](https://arxiv.org/pdf/2207.01975.pdf)
+
 | Method  | Checkpoint file | UCF R@1 | HMDB R@1|
 |---------|-----------------|---------|---------|
 |FedVSSL$(\alpha=0, \beta=0)$ |[round-540.npz](https://drive.google.com/file/d/15EEIQay5FRBMloEzt1SQ8l8VjZFzpVNt/view?usp=sharing) | 34.34 |15.82  |
