@@ -35,7 +35,6 @@ from flwr.common import (
 
 DIR = 'K400_1E_up_theta_b_loss_wo_moment'
 
-
 class SaveModelStrategy(fl.server.strategy.FedAvg):
     def aggregate_fit(
         self,
@@ -53,40 +52,20 @@ class SaveModelStrategy(fl.server.strategy.FedAvg):
         # Divide the weights based on the backbone and classification head
         ######################################################################################################3
 
-        # FevAvg + loss_base
+        # loss_base
         loss_results = [
             (parameters_to_weights(fit_res.parameters), fit_res.metrics['loss'])
             for client, fit_res in results
         ]
 
-        # weight_results = [
-        #     (parameters_to_weights(fit_res.parameters), fit_res.num_examples)
-        #     for client, fit_res in results
-        # ]
-        
-        # model_parameters = [(parameters_to_weights(fit_res.parameters), fit_res.metrics['state_dict_key']) for client, fit_res in results]
-        # print(len(model_parameters))
-
-        # bbone_parmeters = [[b_w for b_w, b_k in zip(w, k) if b_k.strip().split('.')[0] == 'backbone'] for w, k in model_parameters]
-        # print(len(bbone_parmeters))
-        # clshead_parameters = [[cl_w for cl_w, cl_k in zip(w,k) if not cl_k.strip().split('.')[0] == 'backbone'] for w, k in model_parameters]
-
-        # associate bbone parameters with the loss; and clshead parameters with the num of samples     
-        # bb_results = [(bbone_parmeters[i], fit_res[1].metrics['loss']) for i, fit_res in enumerate(results)] # the first element of the tuple is the client which we don't need here, we only use the second element
-        # clshead_results = [(clshead_parameters[i], fit_res[1].num_examples) for i, fit_res in enumerate(results)]
-
-        
-        # aggregate the weights of the backbone 
         weights_loss = aggregate(loss_results) # loss-based
-
-
         weights = weights_to_parameters(weights_loss)
 
         if weights is not None:
             # save weights
             print(f"round-{rnd}-weights...",)
 
-            glb_dir = '/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/k400_' + DIR
+            glb_dir = '/reproduce_papers/k400_' + DIR
             mmcv.mkdir_or_exist(os.path.abspath(glb_dir))
             np.savez(os.path.join(glb_dir, f"round-{rnd}-weights.array"), weights)
 
@@ -109,15 +88,6 @@ def aggregate(results: List[Tuple[Weights, float]]) -> Weights:
     ]
     return weights_prime
 
-
-    # weighted_weights_list = []
-    # for weights in weighted_weights:
-    #     weights = np.array(weights)
-    #     weighted_weights_list.append(weights)
-
-    # weights_prime = np.sum(weighted_weights_list, axis=0) / num_examples_total
-
-    # return weights_prime.tolist()
 
 # order classes by number of samples
 def takeSecond(elem):
@@ -163,10 +133,6 @@ class SslClient(fl.client.NumPyClient):
             if k.strip().split('.')[0] == 'backbone': # if there is any term backbone update its weights
                 state_dict[k] = torch.from_numpy(v)
             else:
-                # Do not update the weights classification layers
-                # if weights_diff < self.mu:
-                #     state_dict[k] = torch.from_numpy(v) # update with the global model parameters
-                # else:
                 state_dict[k] = self.model.state_dict()[k]  # keep the previous weights
     
         self.model.load_state_dict(state_dict, strict=True)
@@ -175,17 +141,10 @@ class SslClient(fl.client.NumPyClient):
         return self.properties
 
     def fit(self, parameters, config):
-        # implementation of DPAU with loss-based aggregation
-        
-
         global_round = int(config["epoch_global"])
-
         self.cfg.lr_config = dict(policy='step', step=[100, 200])
-
         # before replacing the new parameters find the old parameters if any 
-        # if self.args.checkpoint is not None:
-        #     checkpoint = self.args.checkpoint
-        # else:
+       
         chk_name_list = [fn for fn in os.listdir(self.cfg.work_dir) if fn.endswith('.pth')]
         chk_epoch_list = [int(re.findall(r'\d+', fn)[0]) for fn in chk_name_list if fn.startswith('epoch')]
         print(chk_epoch_list)
@@ -242,14 +201,6 @@ class SslClient(fl.client.NumPyClient):
         return self.get_parameters(), num_examples, metrics
 
     def evaluate(self, parameters, config):
-        # result = self.videossl.test_model_cl(
-        #             model = self.model,
-        #             test_dataset = self.test_dataset,
-        #             args = self.args,
-        #             cfg = self.cfg,
-        #             distributed = self.distributed,
-        #             logger = self.logger
-        #             )
         result = 0
         # print(float(0))
         # print(int(len(self.test_dataset)))
@@ -278,21 +229,17 @@ def initial_setup(cid, base_work_dir, rounds, light=False):
     import videossl
     cid_plus_one = str(int(cid) + 1)
     args = Namespace(
-        cfg='../reproduce_papers/configs/ctp/r3d_18_kinetics/pretraining_fed.py',
-        checkpoint=None, cid=int(cid), data_dir='/home/data3/DATA/', gpus=1,
-        launcher='none',  # '/nfs-share/pedro/kinetics_processed/400' or '/hdd1/datasets/'
+        cfg='path to the configuration file.py',
+        checkpoint=None, cid=int(cid), data_dir='', gpus=1,
+        launcher='none',  
         local_rank=0, progress=False, resume_from=None, rounds=6, seed=7, validate=False,
         work_dir=base_work_dir + '/client' + cid_plus_one)
-    #    args =   Namespace(
-    #                      cfg='../reproduce_papers/configs_ucf101/vcop_client'+cid_plus_one+'/vcop_run_config/vcop_runtime_config.py',
-    #                      checkpoint=None, cid=int(cid), data_dir='/hdd1/datasets', gpus=1, launcher='none',
-    #                      local_rank=0, progress=False, resume_from=None, rounds=rounds, seed=7, validate=False,
-    #                      work_dir=base_work_dir+'/client'+cid_plus_one)
+  
     print("Starting client", args.cid)
     cfg = Config.fromfile(args.cfg)
     cfg.total_epochs = 1  ### Used for debugging. Comment to let config set number of epochs
     cfg.data.train.data_source.ann_file = 'Kinetics-processed/annotations/Kinetics-400_annotations/client_dist' + cid_plus_one + '.json'
-    # cfg.data.val.data_source.ann_file = 'val/val_in_official_clean_shrunk.json'
+   
     # set up the configuration
     if light:
         distributed, logger = videossl.set_config_mmcv_light(args, cfg)
@@ -323,18 +270,13 @@ if __name__ == "__main__":
     import _init_paths
     import videossl
 
-    os.chdir("/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/fedssl/")
+    os.chdir("./fedssl/")
     pool_size = 100  # number of dataset partions (= number of total clients)
     client_resources = {"num_cpus": 2, "num_gpus": 1}  # each client will get allocated 1 CPUs
     # timestr = time.strftime("%Y%m%d_%H%M%S")
-    base_work_dir = '/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/k400_' + DIR
+    base_work_dir = '/reproduce_papers/k400_' + DIR
     rounds = 540
 
-    # # initialisation
-    # parameters_init = '/nfs-share/yan/ssl_video/ctp_federated-unsupervised-learning/videoSSL/reproduce_papers/k400_1localE_tau-1_eta-1/round-1000-weights.npz'
-    # params = np.load(parameters_init, allow_pickle=True)
-    # params = params['arr_0'].item()
-    # parameters_init = params
 
     # configure the strategy
     strategy = SaveModelStrategy(
@@ -350,8 +292,6 @@ if __name__ == "__main__":
 
 
     def main(cid: str):
-        # Parse command line argument `cid` (client ID)
-        #        os.environ["CUDA_VISIBLE_DEVICES"] = cid
         args, cfg, distributed, logger, model, train_dataset, test_dataset, videossl = initial_setup(cid, base_work_dir,
                                                                                                      rounds)
         return SslClient(model, train_dataset, test_dataset, cfg, args, distributed, logger, videossl)
