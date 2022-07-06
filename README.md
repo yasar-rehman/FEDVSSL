@@ -41,7 +41,7 @@ We provide a series of federated-SSL pretrined models of [VCOP](https://openacce
 
 # News
 - [x] Checkout the teaser of our work on the [YouTube](https://www.youtube.com/watch?v=ZLqst0lVte8&list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6&index=8).
-- [x] The preprint of our [paper]((https://arxiv.org/abs/2207.01975)) is now available on [arXiv](https://arxiv.org/abs/2207.01975)
+- [x] The preprint of our [paper](https://arxiv.org/abs/2207.01975) is now available on [arXiv](https://arxiv.org/abs/2207.01975)
 
 # Dependencies
 For a complete list of the required packages please see the [requirement.txt](https://github.com/yasar-rehman/FEDVSSL/blob/master/requirement.txt) file. One can easily install, all the requirement by running ````pip install -r requirement.txt````.
