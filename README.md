@@ -56,8 +56,13 @@ For a complete list of the required packages please see the [requirement.txt](ht
 We recommend installing Microsoft [Ctp Framework](https://github.com/microsoft/CtP) as it contain all the Self-supervised learning frameworks build on top of MMCV framework. Here we provided a modifed version of that framework for FedVSSL, in particular.
 # Running Experiments
 The abstract definition of classes are provided by ````reproduce_papers/fedssl/videossl.py````. <br>
-FedVSSL $(\alpha=0, \beta=0)$, run ````python main_cam_st_theta_b_wo_moment.py````. <br>
-FedVSSL $(\alpha=0, \beta=0)$ is the implementation of FedAvg but with only aggregating the backbone network. If you want to run federate the SSL method using the conventional FedAvg method, then run ````python main.py````.
+|Method| Python code|Description|
+|---------------|------|---------------|
+|FedAvg|````main.py````|Federate the SSL method using the conventional FedAvg method|
+|FedVSSL $(\alpha=0, \beta=0)$|````main_cam_st_theta_b_wo_moment.py````|Implementation of FedAvg but with only aggregating the backbone network|
+|FedVSSL $(\alpha=1, \beta=0)$|````main_cam_st_theta_b_loss_wo_moment.py````|Implementation of loss-based aggregation but with only aggregating the backbone network|
+|FedVSSL $(\alpha=0, \beta=1)$|````main_cam_st_theta_b_FedAvg_+SWA_wo_moment.py````|Implementation of FedAvg+SWA aggregation but with only aggregating the backbone network|
+|FedVSSL $(\alpha=1, \beta=0)$|````main_cam_st_theta_b_loss_+SWA_wo_moment.py````|Implementation of loss-based+SWA aggregation but with only aggregating the backbone network|
 
 # Evaluation
 After FL pretraining one can use the following code to fine-tune the model on UCF or HMDB.
@@ -73,7 +78,6 @@ f"--data_dir /DATA",\
 f"--pretrained /path to the pretrained checkpoint",\
 f"--validate"])
 ````
-The complete list 
 
 ## Expected Results
 | Method  | Checkpoint file | UCF R@1 | HMDB R@1|
