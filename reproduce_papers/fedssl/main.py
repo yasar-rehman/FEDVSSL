@@ -10,9 +10,7 @@ import torch.nn as nn
 from mmcv import Config
 from mmcv.runner.checkpoint import load_state_dict, get_state_dict, save_checkpoint
 import re
-import ray
 import mmcv
-# from custom_server import SaveModelStrategy
 import time
 import shutil
 import time
@@ -36,7 +34,7 @@ class SaveModelStrategy(fl.server.strategy.FedAvg):
             # save weights
             print(f"round-{rnd}-weights...",)
 
-            glb_dir = '../glb_rounds_vcop_5c3e180r/glb_epochs/'
+            glb_dir = '../glb_rounds/glb_epochs/'
             mmcv.mkdir_or_exist(os.path.abspath(glb_dir))
             np.savez(os.path.join(glb_dir,f"round-{rnd + 487}-weights.npy"), *weights)
         return weights
@@ -160,22 +158,20 @@ if __name__ == "__main__":
 
 
     def main(cid: str):
-    # Parse command line argument `cid` (client ID)
-
         import _init_paths
         import videossl
 #        os.environ["CUDA_VISIBLE_DEVICES"] = cid
         cid_plus_one = str(int(cid)+1)
         args =   Namespace(
                         #   cfg='../reproduce_papers/configs/vcop_client'+cid_plus_one+'/vcop_run_config/vcop_runtime_config.py',
-                          cfg='../reproduce_papers/configs/vcop/r3d_18_kinetics/pretraining_fed.py',
-                          checkpoint=None, cid=int(cid), data_dir='/home/data3/DATA/', gpus=1, launcher='none',
+                          cfg='path to configuration file',
+                          checkpoint=None, cid=int(cid), data_dir='/', gpus=1, launcher='none',
                           local_rank=0, progress=False, resume_from=None, rounds=6, seed=7, validate=False,
-                          work_dir='../fed_ssl_niid_vcop/ctp_5c3e180r/client'+cid_plus_one)
+                          work_dir='../client'+cid_plus_one)
         print("Starting client", args.cid)
         cfg = Config.fromfile(args.cfg)
-        cfg.data.train.data_source.ann_file = '.../DATA/Kinetics-processed/annotations/Kinetics-400_annotations/client_dist'+cid_plus_one+'.json'
-        # cfg.data.train.data_source.ann_file = 'ucf101/annotations/train_split_'+cid_plus_one+'.json
+        cfg.data.train.data_source.ann_file = '../DATA/Kinetics-400_annotations/client_dist'+cid_plus_one+'.json'
+
         # set up the configuration
         distributed, logger = videossl.set_config_mmcv(args, cfg)
 

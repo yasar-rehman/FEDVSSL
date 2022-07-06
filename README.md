@@ -51,7 +51,7 @@ import os
 process_obj = subprocess.run(["bash", "/home/root/yasar/reproduce_papers/tools/dist_train.sh",\
 "/configs/vcop/r3d_18_kinetics/finetune_hmdb51.py", "4",\
 f"--work_dir /centralized_vcop/centralized_finetune/hmdb51/",
-f"--data_dir /home/data3/DATA/",\
+f"--data_dir /DATA",\
 f"--pretrained /path to the pretrained checkpoint",\
 f"--validate"])
 
