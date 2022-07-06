@@ -8,7 +8,7 @@ This is a general purpose repository for Federated Self-Superivised Learning for
 
 # Authors
 - [Yasar Abbas Ur Rehman](https://yasar-rehman.github.io/yasar/) <br>
-- Gao Yan <br>
+- [Gao Yan](https://www.cst.cam.ac.uk/people/yg381)
 - [pedro porto buarque de gusmão](https://www.linkedin.com/in/pedropgusmao/?originalSubdomain=uk) <br>
 - [Jiajun Shen](https://www.linkedin.com/in/jiajunshen/) <br>
 - [Nicholas D. Lane](http://niclane.org/) <br>
