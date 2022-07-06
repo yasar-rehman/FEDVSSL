@@ -8,8 +8,8 @@ This is a general purpose repository for Federated Self-Superivised Learning for
 
 # Authors
 - [Yasar Abbas Ur Rehman](https://yasar-rehman.github.io/yasar/) <br>
-- [Gao Yan](https://www.cst.cam.ac.uk/people/yg381)
-- [pedro porto buarque de gusmão](https://www.linkedin.com/in/pedropgusmao/?originalSubdomain=uk) <br>
+- [Yan Gao](https://www.cst.cam.ac.uk/people/yg381)
+- [Pedro Porto Buarque de Gusmão](https://www.linkedin.com/in/pedropgusmao/?originalSubdomain=uk) <br>
 - [Jiajun Shen](https://www.linkedin.com/in/jiajunshen/) <br>
 - [Nicholas D. Lane](http://niclane.org/) <br>
 
@@ -29,7 +29,7 @@ The iid version of kinetics-400 with 100 clients (8 classes per client) can be g
 
 
 # FL pretrained Models
-We provide a series of federated-SSL pretrined models of [VCOP](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Self-Supervised_Spatiotemporal_Learning_via_Video_Clip_Order_Prediction_CVPR_2019_paper.pdf), [Speed](https://arxiv.org/pdf/2004.06130.pdf), and [Ctp](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Unsupervised_Visual_Representation_Learning_by_Tracking_Patches_in_Video_CVPR_2021_paper.pdf). All these models are federated pretrained on the non-iid version of Kinetics-400 (8 classes/client) see [Table 1](https://arxiv.org/pdf/2207.01975.pdf) in the manuscript. The annotations can be found in the Data/Kinetics-400_annotations/ in this repository.
+We provide a series of federated-SSL pretrined models of [VCOP](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Self-Supervised_Spatiotemporal_Learning_via_Video_Clip_Order_Prediction_CVPR_2019_paper.pdf), [Speed](https://arxiv.org/pdf/2004.06130.pdf), and [CtP](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Unsupervised_Visual_Representation_Learning_by_Tracking_Patches_in_Video_CVPR_2021_paper.pdf). All these models are federated pretrained on the non-iid version of Kinetics-400 (8 classes/client) see [Table 1](https://arxiv.org/pdf/2207.01975.pdf) in the manuscript. The annotations can be found in the Data/Kinetics-400_annotations/ in this repository.
 
 
 |Methods|FL Pretrained Models|
@@ -48,12 +48,12 @@ For a complete list of the required packages please see the [requirement.txt](ht
 
 - [x] [Anaconda environment with python 3.8](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) 
 - [x] [Flower](https://flower.dev/) <br>
-- [x] Microsoft [Ctp Framework](https://github.com/microsoft/CtP)
+- [x] Microsoft [CtP Framework](https://github.com/microsoft/CtP)
 - [x] [MMCV](https://mmcv.readthedocs.io/en/latest/)
 
   
 # Instructions
-We recommend installing Microsoft [Ctp Framework](https://github.com/microsoft/CtP) as it contain all the Self-supervised learning frameworks build on top of MMCV framework. Here we provided a modifed version of that framework for FedVSSL, in particular.
+We recommend installing Microsoft [CtP Framework](https://github.com/microsoft/CtP) as it contain all the Self-supervised learning frameworks build on top of MMCV framework. Here we provided a modifed version of that framework for FedVSSL, in particular.
 # Running Experiments
 The abstract definition of classes are provided by ````reproduce_papers/fedssl/videossl.py````. <br>
 |Method| Python code|Description|
