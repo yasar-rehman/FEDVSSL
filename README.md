@@ -59,8 +59,14 @@ f"--validate"])
 The complete list of such methods are provided under the Task folder
 
 ## Expected Results
-| Method  | Checkpoint file | Expected Results |
-|---------|-----------------|------------------|
+| Method  | Checkpoint file | UCF R@1 | HMDB R@1|
+|---------|-----------------|---------|---------|
+|FedVSSL$(\alpha=0, \beta=0)$ |[round-540.npz](https://drive.google.com/file/d/15EEIQay5FRBMloEzt1SQ8l8VjZFzpVNt/view?usp=sharing) | 34.34 |15.82  |
+|FedVSSL$(\alpha=1, \beta=0)$ |[round-540.npz](https://drive.google.com/file/d/1OUj8kb0ahJSKAZEB-ES94pOG5-fB-28-/view?usp=sharing) | 34.23 |16.73  |
+|FedVSSL$(\alpha=1, \beta=0)$ |[round540.npz](https://drive.google.com/file/d/1N62kXPcLQ_tM45yd2kBYjNOskdHclwLM/view?usp=sharing)  | 35.61 | 16.93 |
+|FedVSSL$(\alpha=1, \beta=0)$ |[round540.npz](https://drive.google.com/file/d/1SKb5aXjpVAeWbzTKMFN9rjHW_LQsmUXj/view?usp=sharing)  | 35.66 | 16.41 |
+
+
 # Issues: 
 If you encounter any issues, feel free to open an issue in the github 
 
