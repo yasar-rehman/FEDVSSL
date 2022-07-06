@@ -45,18 +45,19 @@ FedVSSL $(\alpha=0, \beta=0)$ is the implementation of FedAvg but with only aggr
 
 # Evaluation
 After FL pretraining one can use the following code to fine-tune the model on UCF or HMDB.
+
 ````
 import subprocess
 import os
-process_obj = subprocess.run(["bash", "/home/root/yasar/reproduce_papers/tools/dist_train.sh",\
-"/configs/vcop/r3d_18_kinetics/finetune_hmdb51.py", "4",\
-f"--work_dir /centralized_vcop/centralized_finetune/hmdb51/",
+import CtP 
+process_obj = subprocess.run(["bash", "CtP/tools/dist_train.sh",\
+"CtP/configs/ctp/r3d_18_kinetics/finetune_ucf101.py", "4",\
+f"--work_dir /finetune/ucf101/",
 f"--data_dir /DATA",\
 f"--pretrained /path to the pretrained checkpoint",\
 f"--validate"])
-
 ````
-The complete list of such methods are provided under the Task folder
+The complete list 
 
 ## Expected Results
 | Method  | Checkpoint file | UCF R@1 | HMDB R@1|
