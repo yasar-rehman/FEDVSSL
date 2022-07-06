@@ -66,6 +66,8 @@ The complete list
 |FedVSSL$(\alpha=1, \beta=0)$ |[round-540.npz](https://drive.google.com/file/d/1OUj8kb0ahJSKAZEB-ES94pOG5-fB-28-/view?usp=sharing) | 34.23 |16.73  |
 |FedVSSL$(\alpha=0, \beta=1)$ |[round540.npz](https://drive.google.com/file/d/1N62kXPcLQ_tM45yd2kBYjNOskdHclwLM/view?usp=sharing)  | 35.61 | 16.93 |
 |FedVSSL$(\alpha=1, \beta=1)$ |[round540.npz](https://drive.google.com/file/d/1SKb5aXjpVAeWbzTKMFN9rjHW_LQsmUXj/view?usp=sharing)  | 35.66 | 16.41 |
+|FedVSSL$(\alpha=0.9, \beta=0)$| [round-540.npz](https://drive.google.com/file/d/1W1oCnLXX0UJhQ4MlmRw-r7z5DTCeO75b/view?usp=sharing)|35.50|16.27|
+|FedVSSL$(\alpha=0.9, \beta=1)$| [round-540.npz](https://drive.google.com/file/d/1BK-bbyunxTWNqs-QyOYiohaNv-t3-hYe/view?usp=sharing)|35.34|16.93|
 
 
 # Issues: 
