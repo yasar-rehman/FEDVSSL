@@ -34,14 +34,15 @@ We provide a series of federated-SSL pretrined models of [VCOP](https://openacce
 
 # News
 - [x] Checkout the teaser of our work on the [YouTube](https://www.youtube.com/watch?v=ZLqst0lVte8&list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6&index=8). 
-# Dependencies 
+# Dependencies
+For a complete list of the required packages please see the [requirement.txt](https://github.com/yasar-rehman/FEDVSSL/blob/master/requirement.txt) file. One can easily install, all the requirement by running ````pip install -r requirement.txt````.
+
 - [x] [Anaconda environment with python 3.8](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) 
 - [x] [Flower](https://flower.dev/) <br>
 - [x] Microsoft [Ctp Framework](https://github.com/microsoft/CtP)
 - [x] [MMCV](https://mmcv.readthedocs.io/en/latest/)
 
-For a complete list of the required packages please see the [requirement.txt](https://github.com/yasar-rehman/FEDVSSL/blob/master/requirement.txt) file. One can easily install, all the requirement by running ````pip install -r requirement.txt````.  
-
+  
 # Instructions
 We recommend installing Microsoft [Ctp Framework](https://github.com/microsoft/CtP) as it contain all the Self-supervised learning frameworks build on top of MMCV framework. Here we provided a modifed version of that framework for FedVSSL, in particular.
 # Running Experiments
