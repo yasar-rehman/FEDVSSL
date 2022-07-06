@@ -72,6 +72,12 @@ If you encounter any issues, feel free to open an issue in the github
 
 
 # Citations
-
+````
+@inproceedings{Rehman2022FederatedSL,
+  title={Federated Self-supervised Learning for Video Understanding},
+  author={Yasar Abbas Ur Rehman and Yan Gao and Jiajun Shen and Pedro Porto Buarque de Gusm{\~a}o and Nicholas D. Lane},
+  year={2022}
+}
+````
 # Acknowledgement
 We would like to thank [Daniel J. Beutel](https://github.com/danieljanes) for providing the initial blueprint of Federated self-supervised learning with flower. Also thanks to [Akhil Mathur](https://akhilmathurs.github.io/index.html) for providing the useful suggestions.
