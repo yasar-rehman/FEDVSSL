@@ -22,8 +22,13 @@ As a part of reproducibility, we have provideded the dataset partitions of the K
 folder with iid and non-iid data distribution. 
 
 # FL pretrained Models
-We provide a series of federated-SSL pretrined models of [VCOP](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Self-Supervised_Spatiotemporal_Learning_via_Video_Clip_Order_Prediction_CVPR_2019_paper.pdf), [Speed](https://arxiv.org/pdf/2004.06130.pdf), and [Ctp](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Unsupervised_Visual_Representation_Learning_by_Tracking_Patches_in_Video_CVPR_2021_paper.pdf) (* TODO: need to be specific what dataset and what data partition (iid or non-iid) are used for this model pretraining)
+We provide a series of federated-SSL pretrined models of [VCOP](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Self-Supervised_Spatiotemporal_Learning_via_Video_Clip_Order_Prediction_CVPR_2019_paper.pdf), [Speed](https://arxiv.org/pdf/2004.06130.pdf), and [Ctp](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Unsupervised_Visual_Representation_Learning_by_Tracking_Patches_in_Video_CVPR_2021_paper.pdf). All these models are federated pretrained on the non-iid version of Kinetics-400 (8 classes/client) see [Table 1](https://arxiv.org/pdf/2207.01975.pdf) in the manuscript. The annotations can be found in the Data/Kinetics-400_annotations/ in this repository.
 
+
+|Methods|FL Pretrained Models|
+|VCOP||
+|Speed||
+|CtP||
 The models can be downloaded at ... (TBA)
 
 # News
