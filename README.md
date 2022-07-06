@@ -80,7 +80,7 @@ f"--validate"])
 ````
 
 ## Expected Results
-For the detailed results regarding the below checkpoints, please see [Table 4](https://arxiv.org/pdf/2207.01975.pdf) in the [manuscript](https://arxiv.org/pdf/2207.01975.pdf)
+For the detailed results regarding the below checkpoints, please see [Table 4](https://arxiv.org/pdf/2207.01975.pdf) in the [manuscript](https://arxiv.org/pdf/2207.01975.pdf).
 
 | Method  | Checkpoint file | UCF R@1 | HMDB R@1|
 |---------|-----------------|---------|---------|
