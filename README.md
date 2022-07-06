@@ -4,7 +4,7 @@ This is a general purpose repository for Federated Self-Superivised Learning for
 <img src="https://github.com/yasar-rehman/FEDVSSL/blob/master/FVSSL.png"/>
  </p>
 
-The paper can be found at (link to the ArXiv will be added soon!)
+Link to the paper --> https://arxiv.org/abs/2207.01975
 
 # Authors
 - [Yasar Abbas Ur Rehman](https://yasar-rehman.github.io/yasar/) <br>
