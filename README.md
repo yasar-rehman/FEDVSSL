@@ -26,9 +26,10 @@ We provide a series of federated-SSL pretrined models of [VCOP](https://openacce
 
 
 |Methods|FL Pretrained Models|
-|VCOP||
-|Speed||
-|CtP||
+|-------|--------------------|
+|VCOP| |
+|Speed| |
+|CtP|[Ctp5c1e540r](https://drive.google.com/file/d/14v-r9P9d08HZOSk5YD2a1Gv5lsT9HflS/view?usp=sharing)|
 The models can be downloaded at ... (TBA)
 
 # News
