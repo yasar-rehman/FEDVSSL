@@ -63,6 +63,8 @@ The abstract definition of classes are provided by ````reproduce_papers/fedssl/v
 |FedVSSL $(\alpha=1, \beta=0)$|````main_cam_st_theta_b_loss_wo_moment.py````|Implementation of loss-based aggregation but with only aggregating the backbone network|
 |FedVSSL $(\alpha=0, \beta=1)$|````main_cam_st_theta_b_FedAvg_+SWA_wo_moment.py````|Implementation of FedAvg+SWA aggregation but with only aggregating the backbone network|
 |FedVSSL $(\alpha=1, \beta=1)$|````main_cam_st_theta_b_loss_+SWA_wo_moment.py````|Implementation of loss-based+SWA aggregation but with only aggregating the backbone network|
+|FedVSSL $(\alpha=0.9, \beta=0)$|````main_cam_st_theta_b_mixed_wo_mement.py````|Implementation of FedAvg+loss-based aggregation but with only aggregating the backbone network|
+|FedVSSL $(\alpha=0.9, \beta=1)$|````main_cam_st_theta_b_mixed_+SWA_wo_mement.py````|Implementation of FedAvg+loss-based+SWA aggregation but with only aggregating the backbone network|
 
 # Evaluation
 After FL pretraining one can use the following code to fine-tune the model on UCF or HMDB.
