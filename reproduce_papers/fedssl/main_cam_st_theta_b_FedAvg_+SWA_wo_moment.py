@@ -62,7 +62,7 @@ class SaveModelStrategy(fl.server.strategy.FedAvg):
         # aggregate the weights of the backbone 
         weights = aggregate(weight_results) # loss-based
 
-        glb_dir = '/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/k400_' + DIR
+        glb_dir = '/reproduce_papers/k400_' + DIR
         mmcv.mkdir_or_exist(os.path.abspath(glb_dir))
         # load the previous weights if there are any
         if rnd > 1: 
@@ -263,7 +263,7 @@ def initial_setup(cid, base_work_dir, rounds, light=False):
     cfg = Config.fromfile(args.cfg)
     cfg.total_epochs = 1  ### Used for debugging. Comment to let config set number of epochs
     cfg.data.train.data_source.ann_file = 'DATA/Kinetics-400_annotations/client_dist' + cid_plus_one + '.json'
-    # cfg.data.val.data_source.ann_file = 'val/val_in_official_clean_shrunk.json'
+    
     # set up the configuration
     if light:
         distributed, logger = videossl.set_config_mmcv_light(args, cfg)
