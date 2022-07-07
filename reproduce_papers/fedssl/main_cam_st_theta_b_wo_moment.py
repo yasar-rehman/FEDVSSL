@@ -69,7 +69,7 @@ class SaveModelStrategy(fl.server.strategy.FedAvg):
             # save weights
             print(f"round-{rnd}-weights...",)
 
-            glb_dir = '/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/k400_' + DIR
+            glb_dir = '/reproduce_papers/k400_' + DIR
             mmcv.mkdir_or_exist(os.path.abspath(glb_dir))
             np.savez(os.path.join(glb_dir, f"round-{rnd}-weights.array"), weights)
 
@@ -252,16 +252,12 @@ def initial_setup(cid, base_work_dir, rounds, light=False):
     import videossl
     cid_plus_one = str(int(cid) + 1)
     args = Namespace(
-        cfg='../reproduce_papers/configs/ctp/r3d_18_kinetics/pretraining_fed.py',
-        checkpoint=None, cid=int(cid), data_dir='/home/data3/DATA/', gpus=1,
-        launcher='none',  # '/nfs-share/pedro/kinetics_processed/400' or '/hdd1/datasets/'
+        cfg='path to configuration file',
+        checkpoint=None, cid=int(cid), data_dir='DATA/', gpus=1,
+        launcher='none',  
         local_rank=0, progress=False, resume_from=None, rounds=6, seed=7, validate=False,
         work_dir=base_work_dir + '/client' + cid_plus_one)
-    #    args =   Namespace(
-    #                      cfg='../reproduce_papers/configs_ucf101/vcop_client'+cid_plus_one+'/vcop_run_config/vcop_runtime_config.py',
-    #                      checkpoint=None, cid=int(cid), data_dir='/hdd1/datasets', gpus=1, launcher='none',
-    #                      local_rank=0, progress=False, resume_from=None, rounds=rounds, seed=7, validate=False,
-    #                      work_dir=base_work_dir+'/client'+cid_plus_one)
+   
     print("Starting client", args.cid)
     cfg = Config.fromfile(args.cfg)
     cfg.total_epochs = 1  ### Used for debugging. Comment to let config set number of epochs
@@ -304,11 +300,7 @@ if __name__ == "__main__":
     base_work_dir = '/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/k400_' + DIR
     rounds = 540
 
-    # # initialisation
-    # parameters_init = '/nfs-share/yan/ssl_video/ctp_federated-unsupervised-learning/videoSSL/reproduce_papers/k400_1localE_tau-1_eta-1/round-1000-weights.npz'
-    # params = np.load(parameters_init, allow_pickle=True)
-    # params = params['arr_0'].item()
-    # parameters_init = params
+   
 
     # configure the strategy
     strategy = SaveModelStrategy(
