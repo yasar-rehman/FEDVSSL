@@ -293,11 +293,11 @@ if __name__ == "__main__":
     import _init_paths
     import videossl
 
-    os.chdir("/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/fedssl/")
+    os.chdir("/reproduce_papers/fedssl/")
     pool_size = 100  # number of dataset partions (= number of total clients)
     client_resources = {"num_cpus": 2, "num_gpus": 1}  # each client will get allocated 1 CPUs
     # timestr = time.strftime("%Y%m%d_%H%M%S")
-    base_work_dir = '/home/root/yasar/SSFVRL/federated-unsupervised-learning/videoSSL/reproduce_papers/k400_' + DIR
+    base_work_dir = '/reproduce_papers/k400_' + DIR
     rounds = 540
 
    
