@@ -100,9 +100,10 @@ If you encounter any issues, feel free to open an issue in the github
 
 # Citations
 ````
-@inproceedings{Rehman2022FederatedSL,
+@article{rehman2022federated,
   title={Federated Self-supervised Learning for Video Understanding},
-  author={Yasar Abbas Ur Rehman and Yan Gao and Jiajun Shen and Pedro Porto Buarque de Gusm{\~a}o and Nicholas D. Lane},
+  author={Rehman, Yasar Abbas Ur and Gao, Yan and Shen, Jiajun and de Gusmao, Pedro Porto Buarque and Lane, Nicholas},
+  journal={arXiv preprint arXiv:2207.01975},
   year={2022}
 }
 ````
