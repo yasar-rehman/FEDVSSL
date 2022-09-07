@@ -4,7 +4,7 @@ from typing import Tuple
 import torch
 import torch.nn as nn
 import torchvision
-from CtP.pyvrl.apis import train_network_fed, get_root_logger, set_random_seed, test_network 
+from CtP.pyvrl.apis import train_network, get_root_logger, set_random_seed, test_network 
 from CtP.pyvrl.builder import build_model, build_dataset
 from CtP.tools import train_net as  train_model_cl
 from CtP.tools import test_net as test_model_cl
