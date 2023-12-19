@@ -13,6 +13,9 @@ This is a general purpose repository for Federated Self-Superivised Learning for
 - [Jiajun Shen](https://www.linkedin.com/in/jiajunshen/) <br>
 - [Nicholas D. Lane](http://niclane.org/) <br>
 
+# Note: 
+## As of December 2023, FedVSSL is now part of the [Flower](https://github.com/adap/flower) baselines. 
+
 # Dataset
 For both centralized and federated video SSL pretraining, we use [Kinetics-400](https://www.deepmind.com/open-source/kinetics). We evaluate the quality of learned representations by applying them on two downstream datasets: [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php) and [HMDB-51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/).
 
@@ -40,7 +43,8 @@ We provide a series of federated-SSL pretrined models of [VCOP](https://openacce
 
 
 # News
-- [x] Checkout the teaser of our work on the [YouTube](https://www.youtube.com/watch?v=ZLqst0lVte8&list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6&index=8).
+- [x] FedVSSL has been added to the [Flower](https://github.com/adap/flower) baselines.  
+- [x] Check out the teaser of our work on the [YouTube](https://www.youtube.com/watch?v=ZLqst0lVte8&list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6&index=8).
 - [x] The preprint of our [paper](https://arxiv.org/abs/2207.01975) is now available on [arXiv](https://arxiv.org/abs/2207.01975)
 
 # Dependencies
